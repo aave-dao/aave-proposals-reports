@@ -28,10 +28,15 @@ From a technical perspective, we have verified that the payload does only 2 thin
 On both operations, the interactions happen correctly with [AaveEcosystemReserveController](https://etherscan.io/address/0x3d569673dAa0575c936c7c67c4E6AedA69CC630C#code), passing the address of the [AAVE ecosystem reserve](https://etherscan.io/address/0x25F2226B597E8F9514B3F68F00f494cF4f286491#code) for the `transfer()` of AAVE and the address of the [Aave Ethereum ecosystem reserve](https://etherscan.io/address/0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c#code) for the `approve()` of aUSDC.
 
 ### BGD validations
+
 :white_check_mark: The code on the proposal payload corresponds to the proposal specification.
+
 :white_check_mark: The proposal includes a proper tests suite, checking all necessary post-conditions.
+
 :white_check_mark: BGD reviewed the payload before the proposal was submitted.
+
 :white_check_mark: BGD reviewed the procedure followed to submit the proposal.
+
 :white_check_mark: Only one payload used via delegatecall
 
 ### Links
