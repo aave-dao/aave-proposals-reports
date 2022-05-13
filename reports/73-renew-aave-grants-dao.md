@@ -21,6 +21,24 @@
 ### Context
 This proposal provides funding the the Aave Grants DAO for the following 6 months, in AAVE and aUSDC. 
 
+### Proposal creation
+Transaction: [https://etherscan.io/tx/0xf0b43aaf7e663a4310ac6d786ec0c2aba30043f6308fbf62411b3816b4cbbe9f](https://etherscan.io/tx/0xf0b43aaf7e663a4310ac6d786ec0c2aba30043f6308fbf62411b3816b4cbbe9f)
+
+```
+- id: 73
+- creator: 0x5b3bffc0bcf8d4caec873fdcf719f60725767c98
+- executor: 0xee56e2b3d491590b5b31738cc34d5232f378a8d5
+- targets: [0x8e7df91fed22c192a3aa1bb6143879295ee91295]
+- values: [0]
+- signatures: [execute()]
+- calldatas: [0x]
+- withDelegatecalls: [true]
+- startBlock: 14750866
+- endBlock: 14770066
+- strategy: 0xb7e383ef9b1e9189fc0f71fb30af8aa14377429e
+- ipfsHash: 0x22f22ad910127d3ca76dc642f94db34397f94ca969485a216b9d82387808cdfa
+```
+
 ### Technical analysis
 From a technical perspective, we have verified that the payload does only 2 things:
 1. Transfer of 22341.38 AAVE to a [Gnosis Safe](https://etherscan.io/address/0x89C51828427F70D77875C6747759fB17Ba10Ceb0), described as the Aave Grants DAO operational multisig.
