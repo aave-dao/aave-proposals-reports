@@ -1,4 +1,4 @@
-# Aave <> BGD governance reports :lock: :eyes: :ghost:
+# Aave <> BGD. Governance reports :lock: :eyes: :ghost:
 
 <br>
 
