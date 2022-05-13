@@ -1,4 +1,4 @@
-# :lock: :eyes: :ghost: Aave <> BGD governance reports
+# Aave <> BGD governance reports :lock: :eyes: :ghost:
 
 <br>
 
@@ -8,7 +8,6 @@ This repository is a public registry of all the Aave governance proposals verifi
 | ------------- | ------------- |
 | 73  | [Renew Aave Grants DAO](./reports/73-renew-aave-grants-dao.md)  |
 
-<br>
 <br>
 <br>
 
