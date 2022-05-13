@@ -7,6 +7,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | Proposal  | Report |
 | ------------- | ------------- |
 | 73  | [Renew Aave Grants DAO](./reports/73-renew-aave-grants-dao.md)  |
+| 74  | [Risk Parameter Updates 2022/05/05](./reports/74-risk-parameter-updates-2022-05-05.md)  |
 
 <br>
 <br>
