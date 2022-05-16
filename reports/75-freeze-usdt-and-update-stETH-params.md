@@ -16,7 +16,7 @@
 
 :wrench: :bar_chart: params-update
 
-:repeat: market-driven-update
+:chart_with_downwards_trend: market-driven-update
 
 :ice_cube: freeze-asset
 
