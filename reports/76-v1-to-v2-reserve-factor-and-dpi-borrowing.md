@@ -20,6 +20,7 @@
 
 ### Context
 This proposal "redirects" the flow of funds from the Aave v1 ecosystem's reserve to the Aave v2 Ethereum ecosystem's reserve.
+
 It also re-enables borrowing of DPI on Aave v2 Ethereum.
 
 ### Proposal creation
