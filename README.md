@@ -14,6 +14,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 78  | [Risk Parameters Updates 2022/05/26. Aave v2 Ethereum & Aave Arc](./reports/78-aave-arc-risk-parameter-updates-2022-05-26.md)  |
 | 79  | [Consolidate Reserve Factors and Enable Borrowing DPI](./reports/79-v1-to-v2-reserve-factor-and-dpi-borrowing.md)  |
 | 80  | [Listing of CVX on Aave v2 Ethereum](./reports/80-cvx-listing-on-aave-v2-ethereum.md)  |
+| 81  | [Aave Arc Risk Parameters Updates 2022/05/26](./reports/81-aave-arc-risk-parameter-updates-2022-05-26.md)  |
 <br>
 <br>
 
