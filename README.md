@@ -18,6 +18,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 82  | [Renew AAVE allowance of the Aave Safety Module](./reports/82-renew-aave-allowance-on-sm.md)  |
 | 83  | [Freeze stETH, Increase stETH Liq. Threshold to 90%, Pause ETH Borrowing](./reports/83-stETH-params-update.md)  |
 | 84  | [Aave Arc Risk Parameters Updates 2022/05/26](./reports/84-aave-arc-risk-parameter-updates-2022-05-26.md)  |
+| 85  | [Aave <> StarkNet Phase 1 (Part 2). Second payment tranche](./reports/85-aave-starknet-phase1-part2-payment.md)  |
 <br>
 <br>
 
