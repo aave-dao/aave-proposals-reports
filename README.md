@@ -21,6 +21,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 85  | [Aave <> StarkNet Phase 1 (Part 2). Second payment tranche](./reports/85-aave-starknet-phase1-part2-payment.md)  |
 | 86  | [Bounty to Hacxyk for fallback oracle misconfiguration](./reports/86-hacxyk-bug-bounty-fallback-misconfiguration.md)  |
 | 87  | [Strategic Investment Part 1 - BAL <> AAVE Token Swap](./reports/87-aave-bal-token-swap.md)  |
+| 88  | [Sigma Prime - Security Assessment Services for Aave](./reports/88-sigmap-security-assessment-services.md)  |
 <br>
 <br>
 
