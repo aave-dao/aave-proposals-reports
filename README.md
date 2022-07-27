@@ -23,6 +23,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 87  | [Strategic Investment Part 1 - BAL <> AAVE Token Swap](./reports/87-aave-bal-token-swap.md)  |
 | 88  | [Sigma Prime - Security Assessment Services for Aave](./reports/88-sigmap-security-assessment-services.md)  |
 | 89  | [Add 1INCH to Aave V2 Ethereum](./reports/89-1inch-listing-on-aave-v2-ethereum.md)  |
+| 90  | [Add 1INCH to Aave V2 Ethereum](./reports/90-1inch-listing-on-aave-v2-ethereum.md)  |
 <br>
 <br>
 
