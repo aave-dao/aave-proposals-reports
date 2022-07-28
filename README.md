@@ -24,6 +24,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 88  | [Sigma Prime - Security Assessment Services for Aave](./reports/88-sigmap-security-assessment-services.md)  |
 | 89  | [Add 1INCH to Aave V2 Ethereum](./reports/89-1inch-listing-on-aave-v2-ethereum.md)  |
 | 90  | [Add 1INCH to Aave V2 Ethereum](./reports/90-1inch-listing-on-aave-v2-ethereum.md)  |
+| 91  | [Aave Arc. Appoint Securitize as Whitelister](./reports/91-appoint-securitize-as-arc-whitelister.md)  |
 <br>
 <br>
 
