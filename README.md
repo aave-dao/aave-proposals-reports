@@ -25,6 +25,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 89  | [Add 1INCH to Aave V2 Ethereum](./reports/89-1inch-listing-on-aave-v2-ethereum.md)  |
 | 90  | [Add 1INCH to Aave V2 Ethereum](./reports/90-1inch-listing-on-aave-v2-ethereum.md)  |
 | 91  | [Aave Arc. Appoint Securitize as Whitelister](./reports/91-appoint-securitize-as-arc-whitelister.md)  |
+| 92  | [Risk Parameter Updates 2022/08/03. Aave v2 Ethereum](./reports/92-aave-risk-parameter-updates-2022-03-08.md)  |
 <br>
 <br>
 
