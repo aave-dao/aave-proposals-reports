@@ -67,7 +67,7 @@ Aave Seatbelt supports now cross-chain governance proposals as first-class citiz
 
 [https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/093_fx_0.md](https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/093_fx_0.md)
 
-IMPORTANT. Cross-chain simulation seems to still have some problems on the infrastructure side (Tenderly), and we have noticed some incorrect reporting of storage changes on addresses where it is technically impossible (EOAs).
+IMPORTANT. We have noticed some problems on the Tenderly simulation infrastructure, not reporting correctly storage changes on newly deployed contracts, for example on the a/v/s proxies. We have checked manually those addresses, confirming that everything is correct, and contact Tenderly to improve the support of that use case.
 
 
 
