@@ -30,6 +30,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 94  | [Risk Parameter Updates 2022/08/18. Aave v2 Ethereum](./reports/94-aave-risk-parameter-updates-2022-18-08.md)  |
 | 95  | [Add LUSD to Aave V2 Ethereum](./reports/95-lusd-listing-on-aave-v2-ethereum.md)  |
 | 96  | [FEI freezing on Aave V2 Ethereum](./reports/96-fei-freezing.md)  |
+| 97  | [Halt ETH borrowing on Aave v2 Ethereum](./reports/97-halt-eth-borrow-aave-v2-ethereum.md)  |
 <br>
 <br>
 
