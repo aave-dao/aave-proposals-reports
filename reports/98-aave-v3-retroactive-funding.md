@@ -30,7 +30,7 @@
 
 This proposal releases funds of multiple assets from the collectors of Aave v2 Ethereum and Aave v2 Polygon to an account controlled by the Aave genesis team, as retro-active compensation for the development of Aave v3.
 
-**IMPORTANT** During this analysis, we detected the Polygon side of the proposal will fail on execution if some permissions are not received on smart contracts of the Aave system before the execution time.
+:exclamation: :exclamation: **IMPORTANT** During this analysis, we detected the Polygon side of the proposal will fail on execution if some permissions are not received on smart contracts of the Aave system before the execution time.
 
 <br>
 
