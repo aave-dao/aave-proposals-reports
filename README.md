@@ -31,6 +31,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 95  | [Add LUSD to Aave V2 Ethereum](./reports/95-lusd-listing-on-aave-v2-ethereum.md)  |
 | 96  | [FEI freezing on Aave V2 Ethereum](./reports/96-fei-freezing.md)  |
 | 97  | [Halt ETH borrowing on Aave v2 Ethereum](./reports/97-halt-eth-borrow-aave-v2-ethereum.md)  |
+| 98  | [Aave V3 retroactive funding to the Aave genesis team](./reports/98-aave-v3-retroactive-funding.md)  |
 <br>
 <br>
 
