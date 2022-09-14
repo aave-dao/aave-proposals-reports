@@ -33,6 +33,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 97  | [Halt ETH borrowing on Aave v2 Ethereum](./reports/97-halt-eth-borrow-aave-v2-ethereum.md)  |
 | 98  | [Aave V3 retroactive funding to the Aave genesis team](./reports/98-aave-v3-retroactive-funding.md)  |
 | 99  | [Add stMATIC to Aave V3 Polygon](./reports/99-stmatic-listing-on-aave-v3-polygon.md)  |
+| 100  | [Add MATICX to Aave V3 Polygon](./reports/100-maticx-listing-on-aave-v3-polygon.md)  |
 <br>
 <br>
 
