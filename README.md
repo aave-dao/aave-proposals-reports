@@ -37,6 +37,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 101  | [Re-enable ETH borrowing on Aave v2 Ethereum](./reports/101-reenable-eth-borrow-aave-v2-ethereum.md)  |
 | 102  | [Risk Parameter Updates 2022/09/2. Aave v2 Ethereum](./reports/102-aave-risk-parameter-updates-2022-22-09.md)  |
 | 103  | [Management of FEI (aFEI) unwinding from Aave v2 Ethereum Collector](./reports/103-management-of-fei-unwinding-from-aave-v2-ethereum-collector.md)  |
+| 104  | [Llama <> Aave](./reports/104-llama-aave-engagement.md)  |
+| 105  | [Management of FEI (aFEI) unwinding from Aave v2 Ethereum Collector](./reports/105-management-of-fei-unwinding-from-aave-v2-ethereum-collector.md)  |
 <br>
 <br>
 
