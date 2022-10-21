@@ -42,6 +42,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 106-107  | [Update of Aave Governance Level 2 requirements](./reports/106-107-governance-level2-requirements-update.md)  |
 | 108  | [Risk Parameter Updates 2022/10/06](./reports/108-aave-risk-parameter-updates-2022-06-10.md)  |
 | 109  | [Whitelist Balancer's liquidity mining claimer](./reports/109-whitelist-balancer-claimer.md)  |
+| 110  | [FEI Reserve Factor update to 99% on Aave v2 Ethereum](./reports/110-fei-reserve-factor-update.md)  |
 <br>
 <br>
 
