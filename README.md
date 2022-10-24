@@ -43,6 +43,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 108  | [Risk Parameter Updates 2022/10/06](./reports/108-aave-risk-parameter-updates-2022-06-10.md)  |
 | 109  | [Whitelist Balancer's liquidity mining claimer](./reports/109-whitelist-balancer-claimer.md)  |
 | 110  | [FEI Reserve Factor update to 99% on Aave v2 Ethereum](./reports/110-fei-reserve-factor-update.md)  |
+| 111  | [Risk Parameter Updates 2022/10/21. Aave v2 Ethereum](./reports/111-aave-v2-ethereum-risk-parameter-updates-2022-21-10.md)  |
 <br>
 <br>
 
