@@ -47,6 +47,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 112  | [Risk Parameter Updates 2022/10/21. Aave v2/v3 Polygon](./reports/112-aave-v2v3-polygon-risk-parameter-updates-2022-21-10.md)  |
 | 113  | [Chaos Labs <> Aave](./reports/113-chaoslabs-aave-engagement.md)  |
 | 114  | [Certora <> Aave](./reports/114-certora-aave-engagement-2022-23.md)  |
+| 115  | [Strategic Investment Part 2 - 100k BAL acquisition](./reports/115-bal-100k-acquisition.md)  |
 <br>
 <br>
 
