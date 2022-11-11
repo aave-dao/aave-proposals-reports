@@ -48,6 +48,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 113  | [Chaos Labs <> Aave](./reports/113-chaoslabs-aave-engagement.md)  |
 | 114  | [Certora <> Aave](./reports/114-certora-aave-engagement-2022-23.md)  |
 | 115  | [Strategic Investment Part 2 - 100k BAL acquisition](./reports/115-bal-100k-acquisition.md)  |
+| 116  | [Add OP to Aave v3 Optimism](./reports/116-op-listing-on-aave-v3-optimism.md)  |
 <br>
 <br>
 
