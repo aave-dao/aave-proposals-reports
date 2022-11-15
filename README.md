@@ -49,6 +49,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 114  | [Certora <> Aave](./reports/114-certora-aave-engagement-2022-23.md)  |
 | 115  | [Strategic Investment Part 2 - 100k BAL acquisition](./reports/115-bal-100k-acquisition.md)  |
 | 116  | [Add OP to Aave v3 Optimism](./reports/116-op-listing-on-aave-v3-optimism.md)  |
+| 117  | [Temporarily freeze REN on Aave v2 Ethereum](./reports/117-aave-v2-ethereum-risk-parameter-updates-REN-2022-12-11.md)  |
+| 118  | [Temporarily freeze CVX on Aave v2 Ethereum](./reports/118-aave-v2-ethereum-risk-parameter-updates-CVX-2022-13-11.md)  |
+| 119  | [Temporarily freeze BAL on Aave v2 Ethereum](./reports/119-aave-v2-ethereum-risk-parameter-updates-BAL-2022-13-11.md)  |
 <br>
 <br>
 
