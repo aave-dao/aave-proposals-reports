@@ -52,6 +52,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 117  | [Temporarily freeze REN on Aave v2 Ethereum](./reports/117-aave-v2-ethereum-risk-parameter-updates-REN-2022-12-11.md)  |
 | 118  | [Temporarily freeze CVX on Aave v2 Ethereum](./reports/118-aave-v2-ethereum-risk-parameter-updates-CVX-2022-13-11.md)  |
 | 119  | [Temporarily freeze BAL on Aave v2 Ethereum](./reports/119-aave-v2-ethereum-risk-parameter-updates-BAL-2022-13-11.md)  |
+| 120  | [Risk Parameter Updates 2022/11/17. REN Aave v2 Ethereum](./reports/120-aave-v2-ethereum-risk-parameter-updates-REN-2022-17-11.md)  |
+| 121  | [Risk Parameter Updates 2022/11/22. Aave v2 Ethereum](./reports/121-aave-v2-ethereum-risk-parameter-updates-2022-22-11.md)  |
+| 122  | [Risk Parameter Updates 2022/11/22. Aave v2 Ethereum. Pause LINK borrowing](./reports/122-aave-v2-ethereum-risk-parameter-updates-pause-LINK-borrowing.md)  |
+| 123  | [Risk Parameter Updates 2022/11/22. Aave v2 Ethereum. Pause UNI borrowing](./reports/123-aave-v2-ethereum-risk-parameter-updates-pause-UNI-borrowing.md)  |
 <br>
 <br>
 
