@@ -56,6 +56,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 121  | [Risk Parameter Updates 2022/11/22. Aave v2 Ethereum](./reports/121-aave-v2-ethereum-risk-parameter-updates-2022-22-11.md)  |
 | 122  | [Risk Parameter Updates 2022/11/22. Aave v2 Ethereum. Pause LINK borrowing](./reports/122-aave-v2-ethereum-risk-parameter-updates-pause-LINK-borrowing.md)  |
 | 123  | [Risk Parameter Updates 2022/11/22. Aave v2 Ethereum. Pause UNI borrowing](./reports/123-aave-v2-ethereum-risk-parameter-updates-pause-UNI-borrowing.md)  |
+| 124  | [Risk Parameter Updates. Aave v2 Polygon. Freezing some assets](./reports/124-aave-v2-polygon-risk-parameter-updates.md)  |
 <br>
 <br>
 
