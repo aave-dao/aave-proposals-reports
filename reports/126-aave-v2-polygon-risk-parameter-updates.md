@@ -107,6 +107,6 @@ From a technical perspective, we have verified that the proposal payload does th
 
 :white_check_mark: BGD reviewed the payload before the proposal was submitted.
 
-:question: The proposal includes a proper tests suite, checking all necessary post-conditions.
+:white_check_mark: The proposal includes a proper tests suite, checking all necessary post-conditions.
 
 :white_check_mark: BGD reviewed the procedure followed to submit the proposal.
