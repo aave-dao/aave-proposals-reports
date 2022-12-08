@@ -60,6 +60,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 125  | [Risk Parameter Updates. Aave v2 Ethereum](./reports/125-aave-v2-ethereum-risk-parameter-updates.md)  |
 | 126  | [Risk Parameter Updates. Aave v2 Polygon](./reports/126-aave-v2-polygon-risk-parameter-updates.md)  |
 | 127  | [Aave <> StarkNet Phase 1. Bridge activation](./reports/127-aave-starknet-phase1-bridge-activation.md)  |
+| 128  | [Addition of EMISSION_ADMINs on Aave v3 Polygon](./reports/128-aave-v3-polygon-addition-emission-admins.md)  |
 <br>
 <br>
 
