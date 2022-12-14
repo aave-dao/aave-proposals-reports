@@ -62,6 +62,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 127  | [Aave <> StarkNet Phase 1. Bridge activation](./reports/127-aave-starknet-phase1-bridge-activation.md)  |
 | 128  | [Addition of EMISSION_ADMINs on Aave v3 Polygon](./reports/128-aave-v3-polygon-addition-emission-admins.md)  |
 | 129  | [Aave v1 Ethereum and v1 AMM. Freezing](./reports/129-aave-v1-ethereum-general-freeze.md)  |
+| 130  | [Addition of EMISSION_ADMINs on Aave v3 Polygon](./reports/130-aave-v3-polygon-addition-emission-admins.md)  |
 <br>
 <br>
 
