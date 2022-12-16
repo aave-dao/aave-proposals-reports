@@ -56,6 +56,7 @@ Transaction: [https://etherscan.io/tx/0xca40aaa34d5f728e10b6f8971f124f39f5d0c575
 
 [https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/131.md](https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/131.md)
 
+**There seems to be some infrastructure problem on Tenderly, which causes the state transitions to show erroneously. We have double checked both payload code and events emitted, and everything seems correct**
 
 <br>
 
