@@ -67,6 +67,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 132  | [Aave v1 Ethereum and v1 AMM. Freezing](./reports/132-aave-v1-ethereum-general-freeze.md)  |
 | 133  | [Gauntlet <> Aave](./reports/133-gauntlet-aave-engagement-2023.md)  |
 | 134  | [Aave v2 Ethereum. Update renFIL rate strategy](./reports/134-aave-v2-ethereum-update-interest-rate-strategy-renFIL.md)  |
+| 135  | [Aave v3 Polygon. Update RewardsController of periphery to v3.0.1](./reports/135-aave-v3-polygon-upgrade-periphery-to-3-0-1.md)  |
+
 <br>
 <br>
 
