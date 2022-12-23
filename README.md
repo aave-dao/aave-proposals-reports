@@ -66,6 +66,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 131  | [Aave v2 Ethereum. Update WETH rate strategy and Reserve Factor](./reports/131-aave-v2-ethereum-update-interest-rate-strategy-WETH.md)  |
 | 132  | [Aave v1 Ethereum and v1 AMM. Freezing](./reports/132-aave-v1-ethereum-general-freeze.md)  |
 | 133  | [Gauntlet <> Aave](./reports/133-gauntlet-aave-engagement-2023.md)  |
+| 134  | [Aave v2 Ethereum. Update renFIL rate strategy](./reports/134-aave-v2-ethereum-update-interest-rate-strategy-renFIL.md)  |
 <br>
 <br>
 
