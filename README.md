@@ -66,6 +66,12 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 131  | [Aave v2 Ethereum. Update WETH rate strategy and Reserve Factor](./reports/131-aave-v2-ethereum-update-interest-rate-strategy-WETH.md)  |
 | 132  | [Aave v1 Ethereum and v1 AMM. Freezing](./reports/132-aave-v1-ethereum-general-freeze.md)  |
 | 133  | [Gauntlet <> Aave](./reports/133-gauntlet-aave-engagement-2023.md)  |
+| 134  | [Aave v2 Ethereum. Update renFIL rate strategy](./reports/134-aave-v2-ethereum-update-interest-rate-strategy-renFIL.md)  |
+| 135  | [Aave v3 Polygon. Update RewardsController of periphery to v3.0.1](./reports/135-aave-v3-polygon-upgrade-periphery-to-3-0-1.md)  |
+| 136  | [Risk Parameter Updates. Aave v2 Ethereum](./reports/136-aave-v2-ethereum-risk-parameter-updates.md)  |
+| 137  | [Risk Parameter Updates. Aave v2 Ethereum](./reports/137-aave-v2-ethereum-risk-parameter-updates.md)  |
+| 138  | [Aave v3 Polygon/Optimism/Arbitrum. Supply/borrow caps update](./reports/138-aave-v3-supply-borrow-caps-update.md)  |
+
 <br>
 <br>
 
