@@ -72,6 +72,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 137  | [Risk Parameter Updates. Aave v2 Ethereum](./reports/137-aave-v2-ethereum-risk-parameter-updates.md)  |
 | 138  | [Aave v3 Polygon/Optimism/Arbitrum. Supply/borrow caps update](./reports/138-aave-v3-supply-borrow-caps-update.md)  |
 | 139  | [Chaos <> Aave (extension for Aave v2)](./reports/139-chaos-aave-engagement-extension-aave-v2.md)  |
+| 140  | [Aave v3 Optimism. AAVE supply cap update](./reports/140-aave-v3-optimism-AAVE-supply-cap.md)  |
 
 <br>
 <br>
