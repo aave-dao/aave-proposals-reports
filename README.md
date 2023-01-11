@@ -73,6 +73,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 138  | [Aave v3 Polygon/Optimism/Arbitrum. Supply/borrow caps update](./reports/138-aave-v3-supply-borrow-caps-update.md)  |
 | 139  | [Chaos <> Aave (extension for Aave v2)](./reports/139-chaos-aave-engagement-extension-aave-v2.md)  |
 | 140  | [Aave v3 Optimism. AAVE supply cap update](./reports/140-aave-v3-optimism-AAVE-supply-cap.md)  |
+| 141  | [Add OP to Aave v3 Optimism](./reports/141-op-listing-on-aave-v3-optimism.md)  |
 
 <br>
 <br>
