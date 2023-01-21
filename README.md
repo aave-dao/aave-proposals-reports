@@ -74,9 +74,13 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 139  | [Chaos <> Aave (extension for Aave v2)](./reports/139-chaos-aave-engagement-extension-aave-v2.md)  |
 | 140  | [Aave v3 Optimism. AAVE supply cap update](./reports/140-aave-v3-optimism-AAVE-supply-cap.md)  |
 | 141  | [Add OP to Aave v3 Optimism](./reports/141-op-listing-on-aave-v3-optimism.md)  |
+| 142  | [Aave v3 Polygon - agEUR freezing](./reports/142-agEUR-freezing-v3-polygon.md)  |
+| 143  | [Aave v3 Polygon - jEUR freezing](./reports/143-jEUR-freezing-v3-polygon.md)  |
+| 144  | [Consolidation of assets in v2 Collector to USDC](./reports/144-consolidation-of-collector-funds.md)  |
+| 145  | [Aave Grants DAO Renewal](./reports/145-aave-grants-dao-renewal.md)  |
 
 <br>
 <br>
 
 ### Copyright
-2022 BGD Labs
+2023 BGD Labs
