@@ -59,6 +59,7 @@ Transaction: [https://etherscan.io/tx/0xc8fdc66d287d9fca1595afe22ac81d5e760d977e
 This proposal, similar to previous ones introducing a swap mechanism, has 2 different layers: the payload contract and the actual system doing the swap.
 
 **Proposal payload**
+
 The [proposal payload](https://etherscan.io/address/0xbefcd01681224555b74eac87207eaf9bc3361f59#code) does the following:
 1. Transfers to a [AMMWithdrawer contract](https://etherscan.io/address/0x334c59E5a50932a3C34AC39AB12131C648Cc1aE8#code) the aTokens from the AMM pool accrued on the Collector.
 2. Triggers the `redeem()` function on the contract on 1).
