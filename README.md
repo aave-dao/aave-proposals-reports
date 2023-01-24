@@ -78,6 +78,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 143  | [Aave v3 Polygon - jEUR freezing](./reports/143-jEUR-freezing-v3-polygon.md)  |
 | 144  | [Consolidation of assets in v2 Collector to USDC](./reports/144-consolidation-of-collector-funds.md)  |
 | 145  | [Aave Grants DAO Renewal](./reports/145-aave-grants-dao-renewal.md)  |
+| 146  | [Acquisition of CRV to repay bad debt on Aave v2 Ethereum](./reports/146-acquisition-and-repayment-crv-bad-debt.md)  |
 
 <br>
 <br>
