@@ -79,6 +79,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 144  | [Consolidation of assets in v2 Collector to USDC](./reports/144-consolidation-of-collector-funds.md)  |
 | 145  | [Aave Grants DAO Renewal](./reports/145-aave-grants-dao-renewal.md)  |
 | 146  | [Acquisition of CRV to repay bad debt on Aave v2 Ethereum](./reports/146-acquisition-and-repayment-crv-bad-debt.md)  |
+| 146  | [Acquisition of CRV to repay bad debt on Aave v2 Ethereum](./reports/146-acquisition-and-repayment-crv-bad-debt.md)  |
+| 147  | [Aave v3 Ethereum Activation (BGD project)](https://github.com/bgd-labs/aave-v3-ethereum-proposal)  |
+| 148  | [Aave v2 Ethereum. Update TUSD and USDT rate strategies](./reports/148-aave-v2-ethereum-update-interest-rate-strategy-tusd-usdt.md)  |
 
 <br>
 <br>
