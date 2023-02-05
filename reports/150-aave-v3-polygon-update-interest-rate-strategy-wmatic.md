@@ -55,6 +55,7 @@ Transaction: [https://etherscan.io/tx/0x5ad415b37e54880d1a5c4ba0a84a94f5c43f311c
 ### Aave Seatbelt report
 
 **Ethereum**
+
 [https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/150.md]([https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/150.md])
 
 
