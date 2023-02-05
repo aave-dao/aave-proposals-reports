@@ -83,6 +83,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 147  | [Aave v3 Ethereum Activation (BGD project)](https://github.com/bgd-labs/aave-v3-ethereum-proposal)  |
 | 148  | [Aave v2 Ethereum. Update TUSD and USDT rate strategies](./reports/148-aave-v2-ethereum-update-interest-rate-strategy-tusd-usdt.md)  |
 | 149  | [Aave v3 Ethereum. cbETH listing](./reports/149-aave-v3-ethereum-cbETH-listing.md)  |
+| 150  | [Aave v3 Polygon. wMATIC rate strategy update and caps](./reports/150-aave-v3-polygon-update-interest-rate-strategy-wmatic.md)  |
 
 <br>
 <br>
