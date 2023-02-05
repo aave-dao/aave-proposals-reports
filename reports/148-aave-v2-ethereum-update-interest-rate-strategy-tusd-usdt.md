@@ -54,7 +54,7 @@ Transaction: [https://etherscan.io/tx/0x105816995d2dae16b3d032b5ee4ecba214f96d3d
 
 ### Aave Seatbelt report
 
-[https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/148.md](https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/134.md)
+[https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/148.md](https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/148.md)
 
 **There seems to be some infrastructure problem on Tenderly, which causes the state transitions to show erroneously (`aTokenAddress` instead of the correct `interestRateStrategyAddress`). We have double checked both payload code and events emitted, and everything seems correct**
 

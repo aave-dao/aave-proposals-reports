@@ -82,6 +82,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 146  | [Acquisition of CRV to repay bad debt on Aave v2 Ethereum](./reports/146-acquisition-and-repayment-crv-bad-debt.md)  |
 | 147  | [Aave v3 Ethereum Activation (BGD project)](https://github.com/bgd-labs/aave-v3-ethereum-proposal)  |
 | 148  | [Aave v2 Ethereum. Update TUSD and USDT rate strategies](./reports/148-aave-v2-ethereum-update-interest-rate-strategy-tusd-usdt.md)  |
+| 149  | [Aave v3 Ethereum. cbETH listing](./reports/149-aave-v3-ethereum-cbETH-listing.md)  |
 
 <br>
 <br>
