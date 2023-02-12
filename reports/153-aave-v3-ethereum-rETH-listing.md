@@ -78,7 +78,7 @@ We have verified this payload respects the interface required by the v3 listing 
 - Reserve Factor: 15%
 - Liquidation protocol fee: 10%
 - Supply cap: 10'000 rETH
-- Borrow cap: 1'000 rETH
+- Borrow cap: 1'200 rETH
 - No eMode category
 - No isolation mode
 - Flashlonable
