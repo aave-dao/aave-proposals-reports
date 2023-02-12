@@ -86,6 +86,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 150  | [Aave v3 Polygon. wMATIC rate strategy update and caps](./reports/150-aave-v3-polygon-update-interest-rate-strategy-wmatic.md)  |
 | 151  | [Aave v3 Polygon. BAL rate strategy update and borrow cap](./reports/151-bal-rate-strategy-update-multi-pool.md)  |
 | 152  | [Aave v3 Ethereum. USDT listing](./reports/152-aave-v3-ethereum-USDT-listing.md)  |
+| 153  | [Aave v3 Ethereum. rETH listing](./reports/153-aave-v3-ethereum-rETH-listing.md)  |
 
 <br>
 <br>
