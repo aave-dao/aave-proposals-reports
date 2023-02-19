@@ -88,6 +88,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 152  | [Aave v3 Ethereum. USDT listing](./reports/152-aave-v3-ethereum-USDT-listing.md)  |
 | 153  | [Aave v3 Ethereum. rETH listing](./reports/153-aave-v3-ethereum-rETH-listing.md)  |
 | 154  | [Aave v3 Ethereum. LUSD listing](./reports/154-aave-v3-ethereum-LUSD-listing.md)  |
+| 155  | [Aave v3 Polygon/Arbitrum. Supply/borrow caps update](./reports/155-aave-v3-supply-borrow-caps-update.md)  |
 
 <br>
 <br>
