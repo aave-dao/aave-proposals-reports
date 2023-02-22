@@ -89,6 +89,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 153  | [Aave v3 Ethereum. rETH listing](./reports/153-aave-v3-ethereum-rETH-listing.md)  |
 | 154  | [Aave v3 Ethereum. LUSD listing](./reports/154-aave-v3-ethereum-LUSD-listing.md)  |
 | 155  | [Aave v3 Polygon/Arbitrum. Supply/borrow caps update](./reports/155-aave-v3-supply-borrow-caps-update.md)  |
+| 156  | [Aave v3 Polygon. MAI Supply/borrow caps update](./reports/156-aave-v3-polygon-supply-borrow-caps-mai.md)  |
+| 157  | [Aave v3 Ethereum/Optimism/Arbitrum. LDO EMISSION_ADMIN](./reports/157-aave-v3-addition-emission-admins.md)  |
+| 158  | [Aave v2 Ethereum. WETH rate strategy update](./reports/158-aave-v2-ethereum-update-interest-rate-strategy-weth.md)  |
+| 159  | [Aave v3 Optimism. wstETH listing](./reports/159-aave-v3-optimism-wstETH-listing.md)  |
 
 <br>
 <br>
