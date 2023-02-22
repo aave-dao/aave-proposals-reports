@@ -54,9 +54,9 @@ Transaction: [https://etherscan.io/tx/0x5abb107e6ba59d8bb8f065334743a669041c9bcd
 
 ### Aave Seatbelt report
 
-**IMPORTANT. The underlying Tenderly infrastructure used by Aave Seatbelt is creating problems at the moment in the tool, affecting reports generation. We have double checked everything even without the reports, and working in a solution**
+[https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/158.md](https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/158.md)
 
-[TBA]()
+**There is a infrastructural problem on Tenderly, which causes the state transitions to show erroneously. We have double checked both payload code and events emitted, and everything seems correct**
 
 <br>
 

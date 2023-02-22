@@ -56,15 +56,13 @@ Transaction: [https://etherscan.io/tx/0x9e1c2670a6fe4316a5fc149484b749f88619bff8
 
 ### Aave Seatbelt report
 
-**IMPORTANT. The underlying Tenderly infrastructure used by Aave Seatbelt is creating problems at the moment in the tool, affecting reports generation. We have double checked everything even without the reports, and working in a solution**
-
 **Ethereum**
 
-[TBA]()
+[https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/159.md](https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/159.md)
 
 **Optimism**
 
-[TBA]()
+[https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/159_optimism_5_0.md](https://github.com/bgd-labs/seatbelt-for-ghosts/blob/main/reports/Aave/0xEC568fffba86c094cf06b22134B23074DFE2252c/159_optimism_5_0.md)
 
 <br>
 
