@@ -96,6 +96,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 160  | [Aave v2 Ethereum. Update xSUSHI price fee](./reports/160-aave-v2-etherum-update-xSUSHI-price-feed.md)  |
 | 161  | [Aave v3 Ethereum. Update cbETH supply cap](./reports/161-aave-v3-ethereum-update-cbETH-supply-cap.md)  |
 | 162  | [Aave v2 Ethereum. Freeze BUSD](./reports/162-aave-v2-ethereum-freeze-busd.md)  |
+| 163  | [Aave v3 Arbitrum. wstETH listing ](./reports/163-aave-v3-arbitrum-wstETH-listing.md)  |
 
 <br>
 <br>
