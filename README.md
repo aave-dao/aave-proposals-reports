@@ -93,6 +93,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 157  | [Aave v3 Ethereum/Optimism/Arbitrum. LDO EMISSION_ADMIN](./reports/157-aave-v3-addition-emission-admins.md)  |
 | 158  | [Aave v2 Ethereum. WETH rate strategy update](./reports/158-aave-v2-ethereum-update-interest-rate-strategy-weth.md)  |
 | 159  | [Aave v3 Optimism. wstETH listing](./reports/159-aave-v3-optimism-wstETH-listing.md)  |
+| 160  | [Aave v2 Ethereum. Update xSUSHI price fee](./reports/160-aave-v2-etherum-update-xSUSHI-price-feed.md)  |
 
 <br>
 <br>
