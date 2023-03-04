@@ -98,6 +98,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 162  | [Aave v2 Ethereum. Freeze BUSD](./reports/162-aave-v2-ethereum-freeze-busd.md)  |
 | 163  | [Aave v3 Arbitrum. wstETH listing](./reports/163-aave-v3-arbitrum-wstETH-listing.md)  |
 | 164  | [Aave v3 Optimism. Risk Parameters updates](./reports/164-aave-v3-optimism-risk-parameter-updates.md)  |
+| 165  | [Rescue Mission Phase 1. Level 1 (Short executor) (BGD project)](https://github.com/bgd-labs/rescue-mission-phase-1#governance-payloads)  |
+| 166  | [Rescue Mission Phase 1. Level 2 (Long executor) (BGD project)](https://github.com/bgd-labs/rescue-mission-phase-1#governance-payloads)  |
+| 167  | [Aave v3 Polygon. MATICX params update](./reports/167-aave-v3-polygon-maticx-params-update.md)  |
 
 <br>
 <br>
