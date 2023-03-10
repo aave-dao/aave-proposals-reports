@@ -103,6 +103,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 167  | [Aave v3 Polygon. MATICX params update](./reports/167-aave-v3-polygon-maticx-params-update.md)  |
 | 168  | [Aave v3 Ethereum. CRV listing](./reports/168-aave-v3-ethereum-CRV-listing.md)  |
 | 169  | [Aave v3 Arbitrum. Update wstETH supply cap](./reports/169-aave-v3-arbitrum-update-wstETH-supply-cap.md)  |
+| 170  | [Aave v3 Polygon/Optimism/Arbitrum. Caps update](./reports/170-aave-v3-multichain-caps-update.md)  |
+| 171  | [Aave v3 Arbitrum. Risk params update](./reports/171-aave-v3-arbitrum-risk-params-update.md)  |
 
 <br>
 <br>
