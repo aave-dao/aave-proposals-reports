@@ -109,6 +109,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 173  | [Aave v3 Ethereum. cbETH caps update](./reports/173-aave-v3-ethereum-cbeth-caps-update.md)  |
 | 174  | [Aave v2 Ethereum. MKR risk parameters update](./reports/174-aave-v2-ethereum-risk-params-update.md)  |
 | 175  | [Aave v2/v3 Multichain. CRV rates and caps updates](./reports/175-aave-v2-v3-multichain-update-interest-rate-strategy-crv.md)  |
+| 176  | [Aave v2 Ethereum. BUSD rates update](./reports/176-aave-v2-ethereum-update-busd-rate-strategy.md)  |
 
 <br>
 <br>

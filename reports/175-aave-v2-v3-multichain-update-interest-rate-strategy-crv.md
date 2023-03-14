@@ -100,10 +100,10 @@ Additionally, the proposal updates the supply cap of CRV on Aave v3 Polygon from
 
 :white_check_mark: The code on the proposal payload corresponds to the proposal specification.
 
-:white_check_mark: Payload encoded via multiple targets and calldatas, no delegatecall
+:white_check_mark: The proposal includes a proper tests suite, checking all necessary post-conditions.
 
 :white_check_mark: BGD reviewed the payload before the proposal was submitted.
 
-:question: The proposal includes a proper tests suite, checking all necessary post-conditions.
+:white_check_mark: Only one payload used via delegatecall
 
-:x: BGD reviewed the procedure followed to submit the proposal.
+:white_check_mark: BGD reviewed the procedure followed to submit the proposal.
