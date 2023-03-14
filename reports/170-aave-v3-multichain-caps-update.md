@@ -1,4 +1,4 @@
-# Proposal 170. Aave v3 Polygo, Optimism, Arbitrum - update of supply/borrow caps
+# Proposal 170. Aave v3 Polygon, Optimism, Arbitrum - update of supply/borrow caps
 
 <br>
 
@@ -26,7 +26,7 @@
 
 ### Context
 
-This proposal multiple supply and borrow caps on Aave v3 Polygon, Optimism and Arbitrum.
+This proposal updates multiple supply and borrow caps on Aave v3 Polygon, Optimism and Arbitrum.
 
 <br>
 
