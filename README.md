@@ -111,6 +111,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 175  | [Aave v2/v3 Multichain. CRV rates and caps updates](./reports/175-aave-v2-v3-multichain-update-interest-rate-strategy-crv.md)  |
 | 176  | [Aave v2 Ethereum. BUSD rates update](./reports/176-aave-v2-ethereum-update-busd-rate-strategy.md)  |
 | 177  | [Aave v3 Polygon. GHST parameters change](./reports/177-aave-v3-polygon-ghst-parameters-update.md)  |
+| 178  | [Aave v3 Polygon. MATICX caps update](./reports/178-aave-v3-polygon-matix-caps-update.md)  |
+| 179  | [Aave v3 Polygon. Disable borrowing of agEUR](./reports/179-aave-v3-polygon-disable-borrowing-agEUR.md)  |
+| 180  | [Aave v3 Optimism. Update of EMISSION_ADMIN on Aave v3 Optimism](./reports/180-aave-v3-optimism-OP-emission-admin-update.md)  |
+| 181  | [Aave v3 Ethereum. LUSD caps update](./reports/181-aave-v3-ethereum-lusd-caps-update.md)  |
 
 <br>
 <br>
