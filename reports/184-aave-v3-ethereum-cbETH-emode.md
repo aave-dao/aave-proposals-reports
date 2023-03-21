@@ -20,7 +20,7 @@
 
 ### Proposal types
 
-:wrench: :bar_chart: params-update
+:zap: emode
 
 <br>
 
