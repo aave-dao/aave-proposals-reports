@@ -115,6 +115,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 179  | [Aave v3 Polygon. Disable borrowing of agEUR](./reports/179-aave-v3-polygon-disable-borrowing-agEUR.md)  |
 | 180  | [Aave v3 Optimism. Update of EMISSION_ADMIN on Aave v3 Optimism](./reports/180-aave-v3-optimism-OP-emission-admin-update.md)  |
 | 181  | [Aave v3 Ethereum. LUSD caps update](./reports/181-aave-v3-ethereum-lusd-caps-update.md)  |
+| 182  | [Aave v3 Polygon. MATICX caps update](./reports/182-aave-v3-polygon-maticx-caps-update.md)  |
+| 183  | [Aave v3 Optimism. Update of EMISSION_ADMIN on Aave v3 Optimism](./reports/183-aave-v3-optimism-OP-emission-admin-update.md)  |
+| 184  | [Aave v3 Ethereum. cbETH addition to ETH-correlated eMode](./reports/184-aave-v3-ethereum-cbETH-emode.md)  |
 
 <br>
 <br>
