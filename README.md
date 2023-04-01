@@ -122,6 +122,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 186  | [Aave v3 Multichain. Caps update](./reports/186-aave-v3-multichain-caps-update.md)  |
 | 187  | [Aave v3 Multichain. Rate strategies updates](./reports/187-aave-v3-multichain-update-interest-rate-strategy.md)  |
 | 188  | [Aave v3 Ethereum. Caps updates](./reports/188-aave-v3-ethereum-caps-update.md)  |
+| 189  | [Aave v2 Ethereum. Freeze DPI](./reports/189-aave-v2-ethereum-freeze-dpi.md)  |
 
 <br>
 <br>
