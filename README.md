@@ -124,6 +124,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 188  | [Aave v3 Ethereum. Caps updates](./reports/188-aave-v3-ethereum-caps-update.md)  |
 | 189  | [Aave v2 Ethereum. Freeze DPI](./reports/189-aave-v2-ethereum-freeze-dpi.md)  |
 | 190  | [Aave v3 Multichain. Caps update](./reports/190-aave-v3-multichain-caps-update.md)  |
+| 191  | [Aave v3 Optimism. LUSD listing](./reports/191-aave-v3-optimism-LUSD-listing.md)  |
+| 192  | [Aave v3 Ethereum. cbETH caps update](./reports/192-aave-v3-ethereum-cbeth-caps-update.md)  |
 
 <br>
 <br>
