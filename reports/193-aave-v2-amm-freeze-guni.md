@@ -74,4 +74,4 @@ The proposal payload (submitted via calldata) interacts with the [Aave v2 Ethere
 
 :white_check_mark: BGD reviewed the payload before the proposal was submitted.
 
-:x: BGD reviewed the payload before the proposal was submitted.
+:x: BGD reviewed the procedure followed to submit the proposal.
