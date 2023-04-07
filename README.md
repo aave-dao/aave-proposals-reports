@@ -127,6 +127,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 191  | [Aave v3 Optimism. LUSD listing](./reports/191-aave-v3-optimism-LUSD-listing.md)  |
 | 192  | [Aave v3 Ethereum. cbETH caps update](./reports/192-aave-v3-ethereum-cbeth-caps-update.md)  |
 | 193  | [Aave v2 Ethereum AMM. Freeze G-UNI assets](./reports/193-aave-v2-amm-freeze-guni.md)  |
+| 194  | [Aave v3 Ethereum. Enable borrowables in isolation](./reports/194-aave-v3-ethereum-borrowables-isolation.md)  |
+| 195  | [Aave v2 Ethereum AMM. Freeze G-UNI assets](./reports/195-aave-v2-amm-freeze-guni.md)  |
 
 <br>
 <br>
