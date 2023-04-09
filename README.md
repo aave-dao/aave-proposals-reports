@@ -131,6 +131,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 195  | [Aave v2 Ethereum AMM. Freeze G-UNI assets](./reports/195-aave-v2-amm-freeze-guni.md)  |
 | 196  | [Aave v2 Multichain. Whitelist DefiSaver as flash borrower](./reports/196-aave-v3-multichain-add-defisaver-flashborrower.md)  |
 | 197  | [Aave v3 Ethereum. UNI, MKR, BAL and SNX listings](./reports/197-aave-v3-ethereum-UNI-MKR-BAL-SNX-listings.md)  |
+| 198  | [Aave v3 Multichain. Debt ceilings update](./reports/198-aave-v3-multichain-debt-ceiling-updates.md)  |
 
 <br>
 <br>
