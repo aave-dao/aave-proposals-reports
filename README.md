@@ -134,6 +134,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 198  | [Aave v3 Multichain. Debt ceilings update](./reports/198-aave-v3-multichain-debt-ceiling-updates.md)  |
 | 199  | [Aave v3 Polygon. Caps update](./reports/199-aave-v3-polygon-caps-update.md)  |
 | 200  | [Aave v3 Arbitrum. Caps update](./reports/200-aave-v3-arbitrum-caps-update.md)  |
+| 201  | [Aave v3 Ethereum. LDO listing](./reports/201-aave-v3-ethereum-LDO-listing.md)  |
 
 <br>
 <br>
