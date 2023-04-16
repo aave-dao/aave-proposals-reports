@@ -89,7 +89,7 @@ We have verified the payload respects the interface required by the v3 config en
 - Flashlonable
 - Not enabled for borrowing on isolation
 
-The oracle used is a BGD CL Synchronicity Price Adapter using the underlying LDO/ETH and ETH/USD, with a resulting [LDO/USD]((https://etherscan.io/address/0xb01e6C9af83879B8e06a092f0DD94309c0D497E4#readContract#F6))
+The oracle used is a BGD CL Synchronicity Price Adapter using the underlying LDO/ETH and ETH/USD, with a resulting [LDO/USD](https://etherscan.io/address/0xb01e6C9af83879B8e06a092f0DD94309c0D497E4#readContract#F6)
 
 The initial configuration is completely aligned with [pre-approved Snapshot](https://snapshot.org/#/aave.eth/proposal/0x953f0edc544fe50e68a0aa19d31542d15458bc3394478a31a294f748198fa906).
 
