@@ -135,6 +135,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 199  | [Aave v3 Polygon. Caps update](./reports/199-aave-v3-polygon-caps-update.md)  |
 | 200  | [Aave v3 Arbitrum. Caps update](./reports/200-aave-v3-arbitrum-caps-update.md)  |
 | 201  | [Aave v3 Ethereum. LDO listing](./reports/201-aave-v3-ethereum-LDO-listing.md)  |
+| 202  | [Aave Chan Initiative (ACI) <> Aave](./reports/202-Aavechan-Initiative-aave-engagement.md)  |
 
 <br>
 <br>
