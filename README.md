@@ -136,6 +136,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 200  | [Aave v3 Arbitrum. Caps update](./reports/200-aave-v3-arbitrum-caps-update.md)  |
 | 201  | [Aave v3 Ethereum. LDO listing](./reports/201-aave-v3-ethereum-LDO-listing.md)  |
 | 202  | [Aave Chan Initiative (ACI) <> Aave](./reports/202-Aavechan-Initiative-aave-engagement.md)  |
+| 203  | [Aave v2/v3 Collectors unification (BGD project)](https://github.com/bgd-labs/aave-collector-unification)  |
+| 204  | [Aave v3 Ethereum. AAVE parameters change](./reports/204-aave-v3-ethereum-aave-parameters-update.md)  |
+| 205  | [WRONG DESCRIPTION PROPOSAL. Aave v3 Optimism. Risk params update](./reports/205-aave-v3-optimism-risk-params-update.md)  |
+| 206  | [Aave v3 Optimism. Risk params update](./reports/206-aave-v3-optimism-risk-params-update.md)  |
 
 <br>
 <br>
