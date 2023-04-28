@@ -140,6 +140,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 204  | [Aave v3 Ethereum. AAVE parameters change](./reports/204-aave-v3-ethereum-aave-parameters-update.md)  |
 | 205  | [WRONG DESCRIPTION PROPOSAL. Aave v3 Optimism. Risk params update](./reports/205-aave-v3-optimism-risk-params-update.md)  |
 | 206  | [Aave v3 Optimism. Risk params update](./reports/206-aave-v3-optimism-risk-params-update.md)  |
+| 207  | [Aave v3 Polygon. Caps update](./reports/207-aave-v3-polygon-caps-update.md)  |
 
 <br>
 <br>
