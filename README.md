@@ -143,6 +143,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 207  | [Aave v3 Polygon. Caps update](./reports/207-aave-v3-polygon-caps-update.md)  |
 | 208  | [Aave v3.0.2 upgrade](https://github.com/bgd-labs/proposal-3.0.2-upgrade)  |
 | 209  | [Aave v3 Multichain. Caps update](./reports/209-aave-v3-multichain-caps-update.md)  |
+| 210  | [Aave v3 Polygon. wstETH listing](./reports/210-aave-v3-polygon-wstETH-listing.md)  |
 
 <br>
 <br>
