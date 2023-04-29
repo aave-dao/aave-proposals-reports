@@ -144,6 +144,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 208  | [Aave v3.0.2 upgrade](https://github.com/bgd-labs/proposal-3.0.2-upgrade)  |
 | 209  | [Aave v3 Multichain. Caps update](./reports/209-aave-v3-multichain-caps-update.md)  |
 | 210  | [Aave v3 Polygon. wstETH listing](./reports/210-aave-v3-polygon-wstETH-listing.md)  |
+| 211  | [Aave v2/v3 Multichain. BAL Rate strategies update](./reports/211-aave-v2-v3-multichain-update-interest-rate-strategy-bal.md)  |
 
 <br>
 <br>
