@@ -145,6 +145,12 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 209  | [Aave v3 Multichain. Caps update](./reports/209-aave-v3-multichain-caps-update.md)  |
 | 210  | [Aave v3 Polygon. wstETH listing](./reports/210-aave-v3-polygon-wstETH-listing.md)  |
 | 211  | [Aave v2/v3 Multichain. BAL Rate strategies update](./reports/211-aave-v2-v3-multichain-update-interest-rate-strategy-bal.md)  |
+| 212  | [Aave v3 Metis activation](https://github.com/bgd-labs/aave-v3-metis-proposal)  |
+| 213  | [Safety Module 1.5 upgrade](https://github.com/bgd-labs/aave-stk-v1-5)  |
+| 214  | [Aave v3.0.2 upgrade](https://github.com/bgd-labs/proposal-3.0.2-upgrade)  |
+| 215  | [Aave v3 Arbitrum. EURS caps updates](./reports/215-aave-v3-arbitrum-caps-update.md)  |
+| 216  | [Aave v3 Polygon. Risk parameters updates](./reports/216-aave-v3-polygon-params-update.md)  |
+
 
 <br>
 <br>
