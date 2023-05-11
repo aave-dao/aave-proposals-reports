@@ -150,6 +150,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 214  | [Aave v3.0.2 upgrade](https://github.com/bgd-labs/proposal-3.0.2-upgrade)  |
 | 215  | [Aave v3 Arbitrum. EURS caps updates](./reports/215-aave-v3-arbitrum-caps-update.md)  |
 | 216  | [Aave v3 Polygon. Risk parameters updates](./reports/216-aave-v3-polygon-params-update.md)  |
+| 217  | [Aave v3 Multichain. Caps updates]()  |
+| 218  | [Aave v3 Optimism. MAI listing](./reports/218-aave-v3-optimism-MAI-listing.md)  |
+| 219  | [Aave v3 Arbitrum. MAI listing](./reports/219-aave-v3-arbitrum-MAI-listing.md)  |
 
 
 <br>
