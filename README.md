@@ -157,6 +157,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 221  | [Safety Module 1.5 upgrade (stkABPT)](https://github.com/bgd-labs/aave-stk-v1-5)  |
 | 222  | [Aave v3 Polygon. Risk parameters updates](./reports/222-aave-v3-polygon-params-update.md)  |
 | 223  | [Aave v3 Multichain. Caps updates](./reports/223-aave-v3-multichain-caps-update.md)  |
+| 224  | [Aave v2 Multichain. Rate strategies update](./reports/224-aave-v2-multichain-update-interest-rate-strategies.md)  |
 
 
 <br>
