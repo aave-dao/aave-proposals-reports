@@ -159,6 +159,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 223  | [Aave v3 Multichain. Caps updates](./reports/223-aave-v3-multichain-caps-update.md)  |
 | 224  | [Aave v2 Multichain. Rate strategies update](./reports/224-aave-v2-multichain-update-interest-rate-strategies.md)  |
 | 225  | [Aave v3 Multichain. Caps updates](./reports/225-aave-v3-multichain-caps-update.md)  |
+| 226  | [Aave v3 Ethereum. LUSD cap update](./reports/226-aave-v3-ethereum-caps-update.md)  |
+| 227  | [Aave v3 Multichain. Rate strategies update](./reports/227-aave-v3-multichain-update-interest-rate-strategies.md)  |
 
 
 <br>
