@@ -161,6 +161,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 225  | [Aave v3 Multichain. Caps updates](./reports/225-aave-v3-multichain-caps-update.md)  |
 | 226  | [Aave v3 Ethereum. LUSD cap update](./reports/226-aave-v3-ethereum-caps-update.md)  |
 | 227  | [Aave v3 Multichain. Rate strategies update](./reports/227-aave-v3-multichain-update-interest-rate-strategies.md)  |
+| 228  | [Aave Ethereum. Correction of AGD allowance](./reports/228-aave-ethereum-agd-allowance-correction.md)  |
+| 229  | [Aave v3 Polygon. MATICX supply cap update](./reports/229-aave-v3-polygon-caps-update.md)  |
 
 
 <br>
