@@ -103,8 +103,6 @@ Regarding each payload, the changes applied are the following:
 
 <br>
 
-The caps updates are aligned with those defined in the Aave governance forum.
-
 <br>
 
 ### BGD validations
