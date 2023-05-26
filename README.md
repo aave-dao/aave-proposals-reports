@@ -166,6 +166,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 230  | [Fix rate strategies issue on Aave v2 Polygon](https://app.aave.com/governance/proposal/?proposalId=230)  |
 | 231  | [Aave v3 Polygon. WMATIC caps update](./reports/231-aave-v3-polygon-caps-update.md)  |
 | 232  | [Aave v3 Ethereum. rETH addition to ETH-correlated eMode](./reports/232-aave-v3-ethereum-add-reth-to-emode.md)  |
+| 233  | [Aave v3 Multichain. e-Mode USD-correlated params update](./reports/233-aave-v3-multichain-emode-params-update.md)  |
 
 
 <br>
