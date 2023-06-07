@@ -168,6 +168,11 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 232  | [Aave v3 Ethereum. rETH addition to ETH-correlated eMode](./reports/232-aave-v3-ethereum-add-reth-to-emode.md)  |
 | 233  | [Aave v3 Multichain. e-Mode USD-correlated params update](./reports/233-aave-v3-multichain-emode-params-update.md)  |
 | 234  | [Aave v3 Multichain. Activation CapsPlusRiskSteward](https://github.com/bgd-labs/aave-helpers/blob/master/src/riskstewards/CapsPlusRiskSteward.sol)  |
+| 235  | [Aave v3 Optimism. Whitelist DefiSaver as flash borrower](./reports/235-aave-v3-optimism-add-defisaver-flashborrower.md)  |
+| 236  | [Aave v3 Multichain. Price feeds operational update](https://github.com/aave/aip/blob/main/content/aips/PRICE-FEEDS-UPDATE-AAVE-V2-V3-04-05-2023.md)  |
+| 237  | [Aave v2 Ethereum. BUSD off-boarding part 2](./reports/237-aave-v2-ethereum-busd-offboarding-pt2.md)  |
+
+
 
 
 <br>
