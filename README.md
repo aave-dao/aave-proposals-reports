@@ -171,7 +171,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 235  | [Aave v3 Optimism. Whitelist DefiSaver as flash borrower](./reports/235-aave-v3-optimism-add-defisaver-flashborrower.md)  |
 | 236  | [Aave v3 Multichain. Price feeds operational update](https://github.com/aave/aip/blob/main/content/aips/PRICE-FEEDS-UPDATE-AAVE-V2-V3-04-05-2023.md)  |
 | 237  | [Aave v2 Ethereum. BUSD off-boarding part 2](./reports/237-aave-v2-ethereum-busd-offboarding-pt2.md)  |
-
+| 238  | [Aave v3 Multichain. Update MAI token implementations](https://github.com/bgd-labs/aave-proposals/blob/main/src/AaveV3OPARBMAIFixes_20230606/MAI-TOKEN_IMPL_FIX.md)  |
+| 239  | [Aave v2 Ethereum AMM. Freeze reserves](./reports/239-aave-v2-amm-freeze-pending-assets.md)  |
+| 240  | [Aave v3 Arbitrum. LUSD listing](./reports/240-aave-v3-arbitrum-LUSD-listing.md)  |
+| 241  | [Aave v3 Polygon. Caps update](./reports/241-aave-v3-polygon-caps-update.md)  |
 
 
 
