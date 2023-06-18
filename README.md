@@ -177,6 +177,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 241  | [Aave v3 Polygon. Caps update](./reports/241-aave-v3-polygon-caps-update.md)  |
 | 242  | [Aave v3 Arbitrum. rETH listing](./reports/242-aave-v3-arbitrum-rETH-listing.md)  |
 | 243  | [Aave v3 Arbitrum. LUSD listing](./reports/243-aave-v3-arbitrum-LUSD-listing.md)  |
+| 244  | [Aave v3 Ethereum. ENS listing](./reports/244-aave-v3-ethereum-ENS-listing.md)  |
+| 245  | [Aave v3 Ethereum. 1INCH listing](./reports/245-aave-v3-ethereum-1INCH-listing.md)  |
 
 
 
