@@ -175,6 +175,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 239  | [Aave v2 Ethereum AMM. Freeze reserves](./reports/239-aave-v2-amm-freeze-pending-assets.md)  |
 | 240  | [Aave v3 Arbitrum. LUSD listing](./reports/240-aave-v3-arbitrum-LUSD-listing.md)  |
 | 241  | [Aave v3 Polygon. Caps update](./reports/241-aave-v3-polygon-caps-update.md)  |
+| 242  | [Aave v3 Arbitrum. rETH listing](./reports/242-aave-v3-arbitrum-rETH-listing.md)  |
+| 243  | [Aave v3 Arbitrum. LUSD listing](./reports/243-aave-v3-arbitrum-LUSD-listing.md)  |
 
 
 
