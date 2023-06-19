@@ -179,6 +179,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 243  | [Aave v3 Arbitrum. LUSD listing](./reports/243-aave-v3-arbitrum-LUSD-listing.md)  |
 | 244  | [Aave v3 Ethereum. ENS listing](./reports/244-aave-v3-ethereum-ENS-listing.md)  |
 | 245  | [Aave v3 Ethereum. 1INCH listing](./reports/245-aave-v3-ethereum-1INCH-listing.md)  |
+| 246  | [Aave v2 Ethereum. CRV params update](./)  |
+| 247  | [Aave v3 Ethereum. Risk params update](./reports/247-aave-v3-ethereum-params-update.md)  |
 
 
 
