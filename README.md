@@ -181,6 +181,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 245  | [Aave v3 Ethereum. 1INCH listing](./reports/245-aave-v3-ethereum-1INCH-listing.md)  |
 | 246  | [Aave v2 Ethereum. CRV params update](./)  |
 | 247  | [Aave v3 Ethereum. Risk params update](./reports/247-aave-v3-ethereum-params-update.md)  |
+| 248  | [Aave v3 Multichain. Price feeds operational update pt2](https://github.com/bgd-labs/aave-proposals/blob/main/src/AaveV2-V3PriceFeedsUpdate_20230613/PRICE-FEEDS-UPDATE-20230613.md)  |
+| 249  | [Treasury Management. Acquire B-80BAL-20WETH](./)  |
+| 250  | [Aave v2 Polygon. Rate strategies update and RF](./reports/250-aave-v2-polygon-update-interest-rate-strategies.md)  |
 
 
 
