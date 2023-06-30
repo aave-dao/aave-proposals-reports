@@ -185,6 +185,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 249  | [Treasury Management. Acquire B-80BAL-20WETH](./)  |
 | 250  | [Aave v2 Polygon. Rate strategies update and RF](./reports/250-aave-v2-polygon-update-interest-rate-strategies.md)  |
 | 251  | [Aave v3 Arbitrum. USDC (native) listing](./reports/251-aave-v3-arbitrum-native-USDC-listing.md)  |
+| 252  | [Aave v2 Ethereum. Multiple freezings for v3 migration](./reports/252-aave-v2-ethereum-freeze-multiple-assets.md)  |
+| 253  | [Aave v2 Ethereum. TUSD freezing](./reports/253-aave-v2-ethereum-freeze-TUSD.md)  |
+| 254  | [Chaos Labs <> Aave. Payment instalment](./reports/254-aave-ethereum-chaos-labs-payment.md)  |
 
 
 
