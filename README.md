@@ -188,7 +188,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 252  | [Aave v2 Ethereum. Multiple freezings for v3 migration](./reports/252-aave-v2-ethereum-freeze-multiple-assets.md)  |
 | 253  | [Aave v2 Ethereum. TUSD freezing](./reports/253-aave-v2-ethereum-freeze-TUSD.md)  |
 | 254  | [Chaos Labs <> Aave. Payment instalment](./reports/254-aave-ethereum-chaos-labs-payment.md)  |
-
+| 255  | [Aave v2 Ethereum. CRV risk params update](./reports/255-aave-v2-ethereum-riks-params-update.md)  |
+| 256  | [Aave v2 Ethereum. TUSD risk params update](./reports/256-aave-v2-ethereum-riks-params-update.md)  |
 
 
 <br>
