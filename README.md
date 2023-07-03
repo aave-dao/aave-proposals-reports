@@ -190,6 +190,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 254  | [Chaos Labs <> Aave. Payment instalment](./reports/254-aave-ethereum-chaos-labs-payment.md)  |
 | 255  | [Aave v2 Ethereum. CRV risk params update](./reports/255-aave-v2-ethereum-riks-params-update.md)  |
 | 256  | [Aave v2 Ethereum. TUSD risk params update](./reports/256-aave-v2-ethereum-riks-params-update.md)  |
+| 257  | [Aave v3 Optimism. Create ETH-correlated e-mode](./reports/257-aave-v3-optimism-create-ETH-emode.md)  |
 
 
 <br>
