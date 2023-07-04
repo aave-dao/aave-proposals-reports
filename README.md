@@ -191,7 +191,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 255  | [Aave v2 Ethereum. CRV risk params update](./reports/255-aave-v2-ethereum-riks-params-update.md)  |
 | 256  | [Aave v2 Ethereum. TUSD risk params update](./reports/256-aave-v2-ethereum-riks-params-update.md)  |
 | 257  | [Aave v3 Optimism. Create ETH-correlated e-mode](./reports/257-aave-v3-optimism-create-ETH-emode.md)  |
-
+| 258  | [WRONG PROPOSAL](./reports/258-WRONG-PROPOSAL.md)  |
+| 259  | [Aave v3 Arbitrum. FRAX listing](./reports/259-aave-v3-arbitrum-FRAX-listing.md)  |
+| 260  | [Aave v3 Ethereum. FRAX listing](./reports/260-aave-v3-ethereum-FRAX-listing.md)  |
 
 <br>
 <br>
