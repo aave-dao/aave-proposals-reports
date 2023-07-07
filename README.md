@@ -194,6 +194,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 258  | [WRONG PROPOSAL](./reports/258-WRONG-PROPOSAL.md)  |
 | 259  | [Aave v3 Arbitrum. FRAX listing](./reports/259-aave-v3-arbitrum-FRAX-listing.md)  |
 | 260  | [Aave v3 Ethereum. FRAX listing](./reports/260-aave-v3-ethereum-FRAX-listing.md)  |
+| 261  | [Treasury Management. Acquire stETH and rETH](./reports/261-treasury-management-buy-steth-reth.md)  |
 
 <br>
 <br>
