@@ -1,4 +1,4 @@
-# Proposal 261. Treasury Management - swap ETH Collector holdings to stETH and rETH
+# Proposal 261. Treasury Management - swap ETH Collector holdings to wstETH and rETH
 
 <br>
 
