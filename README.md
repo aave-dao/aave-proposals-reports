@@ -195,6 +195,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 259  | [Aave v3 Arbitrum. FRAX listing](./reports/259-aave-v3-arbitrum-FRAX-listing.md)  |
 | 260  | [Aave v3 Ethereum. FRAX listing](./reports/260-aave-v3-ethereum-FRAX-listing.md)  |
 | 261  | [Treasury Management. Acquire wstETH and rETH](./reports/261-treasury-management-buy-wsteth-reth.md)  |
+| 262  | [Aave v3 Polygon. Price feeds operational update pt2.5. Polygon wstETH](https://github.com/bgd-labs/aave-proposals/blob/main/src/AaveV3PriceFeedsUpdate_20230626/PRICE-FEEDS-UPDATE-20230626.md)  |
+| 263  | [Treasury Management. Gas rebate for delegates](./reports/263-gas-rebate-for-delegates.md)  |
+
 
 <br>
 <br>
