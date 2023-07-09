@@ -198,6 +198,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 262  | [Aave v3 Polygon. Price feeds operational update pt2.5. Polygon wstETH](https://github.com/bgd-labs/aave-proposals/blob/main/src/AaveV3PriceFeedsUpdate_20230626/PRICE-FEEDS-UPDATE-20230626.md)  |
 | 263  | [Treasury Management. Gas rebate for delegates](./reports/263-gas-rebate-for-delegates.md)  |
 | 264  | [Aave v3 Polygon. CRV risk params update](./reports/264-aave-v3-polygon-risk-params-update.md)  |
+| 265  | [Aave v3 Arbitrum. wstETH caps update](./reports/265-aave-v3-arbitrum-caps-update.md)  |
 
 <br>
 <br>
