@@ -200,6 +200,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 264  | [Aave v3 Polygon. CRV risk params update](./reports/264-aave-v3-polygon-risk-params-update.md)  |
 | 265  | [Aave v3 Arbitrum. wstETH caps update](./reports/265-aave-v3-arbitrum-caps-update.md)  |
 | 266  | [Aave v2 Ethereum. Reserve Factor updates](./reports/266-aave-v2-ethereum-reserve-factor-updates.md)  |
+| 267  | [Treasury Management. B-80BAL-20ETH acquisition](./reports/267-treasury-management-bal-weth.md)  |
 
 <br>
 <br>
