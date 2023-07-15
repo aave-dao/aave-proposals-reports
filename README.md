@@ -201,7 +201,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 265  | [Aave v3 Arbitrum. wstETH caps update](./reports/265-aave-v3-arbitrum-caps-update.md)  |
 | 266  | [Aave v2 Ethereum. Reserve Factor updates](./reports/266-aave-v2-ethereum-reserve-factor-updates.md)  |
 | 267  | [Treasury Management. B-80BAL-20ETH acquisition](./reports/267-treasury-management-bal-weth.md)  |
-| 267  | [Aave v3 Ethereum. GHO activation and listing](./reports/268-aave-v3-ethereum-GHO-activation-and-listing.md)  |
+| 268  | [Aave v3 Ethereum. GHO activation and listing](./reports/268-aave-v3-ethereum-GHO-activation-and-listing.md)  |
+| 269  | [Aave v3 Multichain. Caps update](./reports/269-aave-v3-multichain-caps-update.md)  |
 
 <br>
 <br>
