@@ -204,6 +204,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 268  | [Aave v3 Ethereum. GHO activation and listing](./reports/268-aave-v3-ethereum-GHO-activation-and-listing.md)  |
 | 269  | [Aave v3 Multichain. Caps update](./reports/269-aave-v3-multichain-caps-update.md)  |
 | 270  | [Aave v3 Ethereum. RPL listing](./reports/270-aave-v3-ethereum-RPL-listing.md)  |
+| 271  | [Aave v3 Ethereum. Enabled USDT as collateral](./reports/271-aave-v3-ethereum-USDT-collateral.md)  |
 
 <br>
 <br>
