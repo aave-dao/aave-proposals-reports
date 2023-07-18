@@ -205,6 +205,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 269  | [Aave v3 Multichain. Caps update](./reports/269-aave-v3-multichain-caps-update.md)  |
 | 270  | [Aave v3 Ethereum. RPL listing](./reports/270-aave-v3-ethereum-RPL-listing.md)  |
 | 271  | [Aave v3 Ethereum. Enabled USDT as collateral](./reports/271-aave-v3-ethereum-USDT-collateral.md)  |
+| 272  | [Aave v2 Ethereum. Risk params update](./reports/272-aave-v2-ethereum-risk-params-update.md)  |
+| 273  | [Aave v3 Arbitrum. ARB listing](./reports/273-aave-v3-arbitrum-ARB-listing.md)  |
+| 274  | [Bounties payouts May 2023](https://github.com/bgd-labs/aave-proposals/blob/main/src/AaveV3_Eth_BugBounty_20230710/BugBounty.md)  |
 
 <br>
 <br>
