@@ -208,6 +208,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 272  | [Aave v2 Ethereum. Risk params update](./reports/272-aave-v2-ethereum-risk-params-update.md)  |
 | 273  | [Aave v3 Arbitrum. ARB listing](./reports/273-aave-v3-arbitrum-ARB-listing.md)  |
 | 274  | [Bounties payouts May 2023](https://github.com/bgd-labs/aave-proposals/blob/main/src/AaveV3_Eth_BugBounty_20230710/BugBounty.md)  |
+| 275  | [Aave v3 Optimism. rETH listing](./reports/275-aave-v3-optimisim-rETH-listing.md)  |
 
 <br>
 <br>

@@ -87,6 +87,7 @@ We have verified this payload respects the interface required by the v3 config e
 - Reserve Factor: 20%
 - Supply cap: 20'000'000 ARB
 - Borrow cap: 16'500'000 ARB
+- Debt ceiling: 12'000'000 USD
 - No eMode category
 - Flashlonable
 - Not enabled for borrowing on isolation
