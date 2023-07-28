@@ -209,6 +209,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 273  | [Aave v3 Arbitrum. ARB listing](./reports/273-aave-v3-arbitrum-ARB-listing.md)  |
 | 274  | [Bounties payouts May 2023](https://github.com/bgd-labs/aave-proposals/blob/main/src/AaveV3_Eth_BugBounty_20230710/BugBounty.md)  |
 | 275  | [Aave v3 Optimism. rETH listing](./reports/275-aave-v3-optimisim-rETH-listing.md)  |
+| 276  | [Aave v3 Polygon. MATICx supply cap update](./reports/276-aave-v3-polygon-caps-update.md)  |
+| 277  | [Aave Multichain. Risk params update](./reports/277-aave-multichain-risk-params-update.md)  |
+| 278  | [Aave v3 Polygon. MATICx supply cap update](./reports/278-aave-v3-polygon-caps-update.md)  |
 
 <br>
 <br>
