@@ -214,6 +214,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 278  | [Aave v3 Polygon. MATICx supply cap update](./reports/278-aave-v3-polygon-caps-update.md)  |
 | 279  | [Aave v3 Multichain. MAI caps update](./reports/279-aave-multichain-mai-caps-update.md)  |
 | 280  | [Aave v2 Ethereum. CRV risk params update](./reports/280-aave-v2-ethereum-crv-risk-params-update.md)  |
+| 281  | [Aave v3 Metis. Update of EMISSION_ADMIN on Aave v3 Metis](./reports/281-aave-v3-metis-METIS-emission-admin.md)  |
+| 282  | [Treasury management. Increase aUSDC v2 position](./reports/282-treasury-management-increase-aUSDCv2-position.md)  |
 
 <br>
 <br>
