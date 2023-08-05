@@ -218,6 +218,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 282  | [Treasury management. Increase aUSDC v2 position](./reports/282-treasury-management-increase-aUSDCv2-position.md)  |
 | 283  | [Aave v2 Ethereum. FEI risk params update](./reports/283-aave-v2-ethereum-fei-risk-params-update.md)  |
 | 284  | [Aave v2 Polygon. RF updates](./reports/284-aave-v2-polygon-rf-updates.md)  |
+| 285  | [Aave v2 Ethereum. TUSD off-boarding](./reports/285-aave-v2-ethereum-tusd-offboarding.md)  |
 
 <br>
 <br>
