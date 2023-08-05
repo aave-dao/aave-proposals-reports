@@ -216,6 +216,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 280  | [Aave v2 Ethereum. CRV risk params update](./reports/280-aave-v2-ethereum-crv-risk-params-update.md)  |
 | 281  | [Aave v3 Metis. Update of EMISSION_ADMIN on Aave v3 Metis](./reports/281-aave-v3-metis-METIS-emission-admin.md)  |
 | 282  | [Treasury management. Increase aUSDC v2 position](./reports/282-treasury-management-increase-aUSDCv2-position.md)  |
+| 283  | [Aave v2 Ethereum. FEI risk params update](./reports/283-aave-v2-ethereum-fei-risk-params-update.md)  |
+| 284  | [Aave v2 Polygon. RF updates](./reports/284-aave-v2-polygon-rf-updates.md)  |
 
 <br>
 <br>
