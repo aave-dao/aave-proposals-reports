@@ -219,6 +219,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 283  | [Aave v2 Ethereum. FEI risk params update](./reports/283-aave-v2-ethereum-fei-risk-params-update.md)  |
 | 284  | [Aave v2 Polygon. RF updates](./reports/284-aave-v2-polygon-rf-updates.md)  |
 | 285  | [Aave v2 Ethereum. TUSD off-boarding](./reports/285-aave-v2-ethereum-tusd-offboarding.md)  |
+| 286  | [Aave v2 Ethereum. CRV LTV 0](./reports/286-aave-v2-ethereum-crv-risk-params-update.md)  |
 
 <br>
 <br>
