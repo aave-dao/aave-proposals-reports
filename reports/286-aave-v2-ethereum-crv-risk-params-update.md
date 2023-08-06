@@ -72,7 +72,7 @@ The proposal is consistent with the discussions on the Aave governance forum.
 
 :white_check_mark: The code on the proposal payload corresponds to the proposal specification.
 
-:?: The proposal includes a proper tests suite, checking all necessary post-conditions.
+:question: The proposal includes a proper tests suite, checking all necessary post-conditions.
 
 :x: BGD reviewed the payload before the proposal was submitted.
 
