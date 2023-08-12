@@ -222,6 +222,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 286  | [Aave v2 Ethereum. CRV LTV 0](./reports/286-aave-v2-ethereum-crv-risk-params-update.md)  |
 | 287  | [Treasury management. Cancel and replace Llama's streams](./reports/287-treasury-management-cancel-and-replace-Llama-stream.md)  |
 | 288  | [Aave Multichain. CRV risk params update](./reports/288-aave-multichain-risk-params-update.md)  |
+| 289  | [Treasury management. USDT to aCRV OTC](./reports/289-treasury-management-acrv-usdt-otc.md)  |
 
 <br>
 <br>
