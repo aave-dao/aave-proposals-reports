@@ -223,6 +223,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 287  | [Treasury management. Cancel and replace Llama's streams](./reports/287-treasury-management-cancel-and-replace-Llama-stream.md)  |
 | 288  | [Aave Multichain. CRV risk params update](./reports/288-aave-multichain-risk-params-update.md)  |
 | 289  | [Treasury management. USDT to aCRV OTC](./reports/289-treasury-management-acrv-usdt-otc.md)  |
+| 290  | [WRONG PROPOSAL](./reports/290-CANCELED-aave-v3-polygon-maticx-caps-update.md)  |
+| 291  | [WRONG DESCRIPTION](./reports/291-WRONG-DESCRIPTION-aave-v2-ethereum-busd-offboarding-pt-3.md)  |
+| 292  | [Aave v2 Ethereum. CRV risk params update](./reports/292-aave-v2-ethereum-crv-risk-params-update.md)  |
 
 <br>
 <br>
