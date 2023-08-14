@@ -227,6 +227,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 291  | [WRONG DESCRIPTION](./reports/291-WRONG-DESCRIPTION-aave-v2-ethereum-busd-offboarding-pt-3.md)  |
 | 292  | [Aave v2 Ethereum. CRV risk params update](./reports/292-aave-v2-ethereum-crv-risk-params-update.md)  |
 | 293  | [Aave v3 Multichain. Disable CRV borrowing](./reports/293-aave-v3-multichain-crv-disable-borrowing.md)  |
+| 294  | [Aave v2 Ethereum. BUSD off-boarding part 3](./reports/294-aave-v2-ethereum-busd-offboarding-pt3.md)  |
 
 <br>
 <br>
