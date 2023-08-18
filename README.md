@@ -229,6 +229,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 293  | [Aave v3 Multichain. Disable CRV borrowing](./reports/293-aave-v3-multichain-crv-disable-borrowing.md)  |
 | 294  | [Aave v2 Ethereum. BUSD off-boarding part 3](./reports/294-aave-v2-ethereum-busd-offboarding-pt3.md)  |
 | 295  | [Aave v3 Multichain. wstETH caps update](./reports/295-aave-v3-multichain-caps-update.md)  |
+| 296  | [Aave v3 Ethereum. LUSD risk params update](./reports/296-aave-v3-ethereum-lusd-risk-params-update.md)  |
+| 297  | [Aave v2 Ethereum. CRV freezing](./reports/297-aave-v2-ethereum-freeze-CRV.md)  |
+| 298  | [Aave misc Multichain. stataToken operational update](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230815_AaveV3_Multi_StataTokenOperationalUpdate/StataTokenOperationalUpdate.md)  |
+| 299  | [Aave v2 Base. Activation](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230815_AaveV3_Bas_BaseActivation/BaseActivation.md)  |
 
 <br>
 <br>
