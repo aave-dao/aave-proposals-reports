@@ -233,6 +233,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 297  | [Aave v2 Ethereum. CRV freezing](./reports/297-aave-v2-ethereum-freeze-CRV.md)  |
 | 298  | [Aave misc Multichain. stataToken operational update](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230815_AaveV3_Multi_StataTokenOperationalUpdate/StataTokenOperationalUpdate.md)  |
 | 299  | [Aave v2 Base. Activation](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230815_AaveV3_Bas_BaseActivation/BaseActivation.md)  |
+| 300  | [Aave v3 Polygon. stMATIC caps update](./reports/300-aave-v3-polygon-caps-update.md)  |
+| 301  | [Aave v3 Polygon. MATICx caps update](./reports/301-aave-v3-polygon-caps-update.md)  |
 
 <br>
 <br>
