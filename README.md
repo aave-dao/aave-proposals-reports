@@ -235,6 +235,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 299  | [Aave v2 Base. Activation](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230815_AaveV3_Bas_BaseActivation/BaseActivation.md)  |
 | 300  | [Aave v3 Polygon. stMATIC caps update](./reports/300-aave-v3-polygon-caps-update.md)  |
 | 301  | [Aave v3 Polygon. MATICx caps update](./reports/301-aave-v3-polygon-caps-update.md)  |
+| 302  | [Treasury management. Increase aUSDC v2 position](./reports/302-treasury-management-increase-aUSDCv2-position.md)  |
 
 <br>
 <br>
