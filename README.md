@@ -237,6 +237,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 301  | [Aave v3 Polygon. MATICx caps update](./reports/301-aave-v3-polygon-caps-update.md)  |
 | 302  | [Treasury management. Increase aUSDC v2 position](./reports/302-treasury-management-increase-aUSDCv2-position.md)  |
 | 303  | [Treasury management. Polygon aToken v2->v3 migration](./reports/303-treasury-management-polygon-v2-v3-migration.md)  |
+| 304  | [Treasury management. Chaos Labs scope amendment](./reports/304-treasury-management-chaos-labs-budget-extension.md)  |
 
 <br>
 <br>
