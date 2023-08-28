@@ -239,6 +239,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 303  | [Treasury management. Polygon aToken v2->v3 migration](./reports/303-treasury-management-polygon-v2-v3-migration.md)  |
 | 304  | [Treasury management. Chaos Labs scope amendment](./reports/304-treasury-management-chaos-labs-budget-extension.md)  |
 | 305  | [Aave v2 Ethereum. CRV risk params update](./reports/305-aave-v2-ethereum-crv-risk-params-update.md)  |
+| 306  | [Aave v3/v2 Ethereum. sDAI listing and misc params update](./reports/306-aave-v3-ethereum-sDAI-listing.md)  |
 
 <br>
 <br>
