@@ -240,6 +240,11 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 304  | [Treasury management. Chaos Labs scope amendment](./reports/304-treasury-management-chaos-labs-budget-extension.md)  |
 | 305  | [Aave v2 Ethereum. CRV risk params update](./reports/305-aave-v2-ethereum-crv-risk-params-update.md)  |
 | 306  | [Aave v3/v2 Ethereum. sDAI listing and misc params update](./reports/306-aave-v3-ethereum-sDAI-listing.md)  |
+| 307  | [Aave v3 Ethereum. GHO unpause and freezing](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230825_AaveV3_Eth_GhoFreezing/GhoFreezing.md)  |
+| 308  | [Aave v3 Ethereum. vGHO fix](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230826_AaveV3_Eth_VGHOImprovement/VGHOImprovement.md)  |
+| 309  | [Aave v3 Optimism. Risk parameters update](./reports/309-aave-v3-optimism-risk-params-update.md)  |
+| 310  | [Aave Robot. Governance v2 Activation](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230817_AaveRobotActivation/AaveRobotActivation.md)  |
+| 311  | [Aave Service Providers. BGD Phase 2](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230828_AaveV3_Eth_AaveBGDPhase2/AaveBGDPhase2.md)  |
 
 <br>
 <br>
