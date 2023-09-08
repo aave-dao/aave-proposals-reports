@@ -246,6 +246,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 310  | [Aave Robot. Governance v2 Activation](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230817_AaveRobotActivation/AaveRobotActivation.md)  |
 | 311  | [Aave Service Providers. BGD Phase 2](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230828_AaveV3_Eth_AaveBGDPhase2/AaveBGDPhase2.md)  |
 | 312  | [Aave v2 Polygon. Reserve Factor updates](./reports/312-aave-v2-polygon-reserve-factor-updates.md)  |
+| 313  | [Aave Service Providers. SigmaP budget extension](./reports/313-treasury-management-sigmap-budget-extension.md)  |
 
 <br>
 <br>
