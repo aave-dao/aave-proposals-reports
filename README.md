@@ -249,6 +249,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 313  | [Aave Service Providers. SigmaP budget extension](./reports/313-treasury-management-sigmap-budget-extension.md)  |
 | 314  | [Aave v3 Polygon. Caps update](./reports/314-aave-v3-polygon-caps-update.md)  |
 | 315  | [Aave v2 Ethereum. Risk parameters update](./reports/315-aave-v2-ethereum-risk-params-update.md)  |
+| 316  | [Treasury Management. Gas rebate delegates](./reports/316-treasury-management-gas-rebate-delegates.md)  |
+| 317  | [Treasury management. aDAI to AURA OTC](./reports/317-treasury-management-aura-dai-otc.md)  |
 
 <br>
 <br>
