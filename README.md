@@ -252,6 +252,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 316  | [Treasury Management. Gas rebate delegates](./reports/316-treasury-management-gas-rebate-delegates.md)  |
 | 317  | [Treasury management. aDAI to AURA OTC](./reports/317-treasury-management-aura-dai-otc.md)  |
 | 318  | [Aave v3 Multichain. Freeze MAI](./reports/318-aave-v3-multichain-freeze-MAI.md)  |
+| 322  | [Aave v3 Ethereum. MKR risk parameters update](./reports/322-aave-v3-ethereum-mkr-risk-params-update.md)  |
+| 323  | [Aave v3 Ethereum. GHO rate strategy update](./reports/323-aave-v3-ethereum-gho-rate-strategy-update.md)  |
 
 <br>
 <br>
