@@ -257,6 +257,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 324  | [Rescue Mission Phase 2&3 (BGD project)](https://github.com/bgd-labs/aave-proposals/blob/main/src/Aave_Multi_RescueMissionPhase_2_3_20233107/RescueMissionPhase_2_3.md)  |
 | 325  | [Aave <> Immunefi. Bug bounty program activation](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230920_AaveV3_Eth_AaveImmunefiActivation/AaveImmunefiActivation.md)  |
 | 326  | [Aave v2 Ethereum. CRV risk params update](./reports/326-aave-v2-ethereum-crv-risk-params-update.md)  |
+| 327  | [Aave v3 Multichain. WETH rate strategy update](./reports/327-aave-v3-multichain-weth-rate-strategy-update.md)  |
 
 
 <br>
