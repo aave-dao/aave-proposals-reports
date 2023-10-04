@@ -259,7 +259,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 326  | [Aave v2 Ethereum. CRV risk params update](./reports/326-aave-v2-ethereum-crv-risk-params-update.md)  |
 | 327  | [Aave v3 Multichain. WETH rate strategy update](./reports/327-aave-v3-multichain-weth-rate-strategy-update.md)  |
 | 331  | [Treasury management. RWA allocation part 1](./reports/331-treasury-management-rwa-allocation-pt1.md)  |
-
+| 332  | [Treasury management. Transition of Orbit to DAO funding](./reports/332-treasury-management-dao-funded-orbit.md)  |
 
 <br>
 <br>
