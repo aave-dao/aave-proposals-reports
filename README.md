@@ -261,6 +261,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 331  | [Treasury management. RWA allocation part 1](./reports/331-treasury-management-rwa-allocation-pt1.md)  |
 | 332  | [Treasury management. Transition of Orbit to DAO funding](./reports/332-treasury-management-dao-funded-orbit.md)  |
 | 333  | [Treasury management. Acquire GHO and replace AGD allowance](./reports/333-treasury-management-replace-agd-allowance-to-gho.md)  |
+| 334  | [Aave v2 Polygon. Reserve Factor updates](./reports/334-aave-v2-polygon-reserve-factor-updates.md)  |
+| 335  | [Treasury management. Polygon aToken v2->v3 migration](./reports/335-treasury-management-polygon-v2-v3-migration.md)  |
 
 <br>
 <br>
