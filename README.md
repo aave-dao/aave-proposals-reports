@@ -263,6 +263,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 333  | [Treasury management. Acquire GHO and replace AGD allowance](./reports/333-treasury-management-replace-agd-allowance-to-gho.md)  |
 | 334  | [Aave v2 Polygon. Reserve Factor updates](./reports/334-aave-v2-polygon-reserve-factor-updates.md)  |
 | 335  | [Treasury management. Polygon aToken v2->v3 migration](./reports/335-treasury-management-polygon-v2-v3-migration.md)  |
+| 336  | [Aave v2 Ethereum. TUSD off-boarding part 2](./reports/336-aave-v2-ethereum-tusd-offboarding-2.md)  |
+| 337  | [Aave v3 Optimism. Enabled OP as non-isolated collateral and borrowable](./reports/337-aave-v3-optimism-OP-collateral.md)  |
 
 <br>
 <br>
