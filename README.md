@@ -265,6 +265,13 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 335  | [Treasury management. Polygon aToken v2->v3 migration](./reports/335-treasury-management-polygon-v2-v3-migration.md)  |
 | 336  | [Aave v2 Ethereum. TUSD off-boarding part 2](./reports/336-aave-v2-ethereum-tusd-offboarding-2.md)  |
 | 337  | [Aave v3 Optimism. Enabled OP as non-isolated collateral and borrowable](./reports/337-aave-v3-optimism-OP-collateral.md)  |
+| 338  | [Aave v3 Multichain. Enabled DebtSwapAdapter as FlashBorrower](https://github.com/bgd-labs/aave-proposals/blob/main/src/20230809_AaveV3_Multi_AddDebtSwapAdapterAsFlashBorrower/AddDebtSwapAdapterAsFlashBorrower.md)  |
+| 339  | [Aave v3 Polygon. Risk params updates](./reports/339-aave-v3-polygon-risk-params-update.md)  |
+| 340  | [Aave v3 Multichain. WETH rate strategy update](./reports/340-aave-v3-multichain-weth-rate-strategy-update.md)  |
+| 341  | [Aave v2 Ethereum. Risk parameters update](./reports/341-aave-v2-ethereum-risk-params-update.md)  |
+| 342  | [Aave v3 Ethereum. STG listing](./reports/342-aave-v3-ethereum-STG-listing.md)  |
+
+
 
 <br>
 <br>
