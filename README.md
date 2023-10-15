@@ -270,6 +270,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 340  | [Aave v3 Multichain. WETH rate strategy update](./reports/340-aave-v3-multichain-weth-rate-strategy-update.md)  |
 | 341  | [Aave v2 Ethereum. Risk parameters update](./reports/341-aave-v2-ethereum-risk-params-update.md)  |
 | 342  | [Aave v3 Ethereum. STG listing](./reports/342-aave-v3-ethereum-STG-listing.md)  |
+| 343  | [Treasury management. Acquire GHO and fund the GLC with GHO and ETH](./reports/343-treasury-management-gho-funding-to-GLC.md)  |
+| 344  | [Aave v3 Ethereum. KNC listing](./reports/344-aave-v3-ethereum-KNC-listing.md)  |
 
 
 
