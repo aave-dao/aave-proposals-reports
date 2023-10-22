@@ -272,8 +272,11 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 342  | [Aave v3 Ethereum. STG listing](./reports/342-aave-v3-ethereum-STG-listing.md)  |
 | 343  | [Treasury management. Acquire GHO and fund the GLC with GHO and ETH](./reports/343-treasury-management-gho-funding-to-GLC.md)  |
 | 344  | [Aave v3 Ethereum. KNC listing](./reports/344-aave-v3-ethereum-KNC-listing.md)  |
+| 345  | [Cancelled. Aave Governance v3 activation (BGD project)](https://github.com/bgd-labs/aave-proposals/blob/main/src/20231010_AaveV3_Multi_GovernanceV3Activation/GovernanceV3Activation.md)  |
 | 346  | [Treasury management. Addition of TokenLogic to Orbit](./reports/346-treasury-management-tokenlogic-orbit.md)  |
 | 347  | [Treasury management. Acquire GHO](./reports/347-treasury-management-gho-acquisition.md)  |
+| 348  | [Aave v3 Optimism. Enabled OP as borrowable asset](./reports/348-aave-v3-optimism-OP-borrowing.md)  |
+| 349  | [Aave v3 Ethereum. GHO rate strategy update](./reports/349-aave-v3-ethereum-gho-rate-strategy-update.md)  |
 
 
 
