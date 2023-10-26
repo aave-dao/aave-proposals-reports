@@ -277,7 +277,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 347  | [Treasury management. Acquire GHO](./reports/347-treasury-management-gho-acquisition.md)  |
 | 348  | [Aave v3 Optimism. Enabled OP as borrowable asset](./reports/348-aave-v3-optimism-OP-borrowing.md)  |
 | 349  | [Aave v3 Ethereum. GHO rate strategy update](./reports/349-aave-v3-ethereum-gho-rate-strategy-update.md)  |
-
+| 350  | [Treasury management. Fund Aave Companies for late-2023 events](./reports/350-treasury-management-gho-funding-events.md)  |
 
 
 <br>
