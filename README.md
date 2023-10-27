@@ -278,7 +278,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 348  | [Aave v3 Optimism. Enabled OP as borrowable asset](./reports/348-aave-v3-optimism-OP-borrowing.md)  |
 | 349  | [Aave v3 Ethereum. GHO rate strategy update](./reports/349-aave-v3-ethereum-gho-rate-strategy-update.md)  |
 | 350  | [Treasury management. Fund Aave Companies for late-2023 events](./reports/350-treasury-management-gho-funding-events.md)  |
-
+| 351  | [Aave Multichain. Unify disabled fallback oracles (BGD project)](https://github.com/bgd-labs/aave-proposals/blob/main/src/AaveV2_Eth_UnifyFallbackOracles_20230507/UnifyFallbackOracles.md)  |
+| 352  | [Treasury management. Enhance incentives strategy on Balancer](./reports/352-treasury-management-enhance-incentives-balancer.md)  |
+| 353  | [Aave v2 Polygon. Reserve Factor updates](./reports/353-aave-v2-polygon-reserve-factor-updates.md)  |
+| 354  | [Treasury management. Bridge Polygon Collector's holdings to Ethereum](./reports/354-treasury-management-bridge-polygon-holdings-to-ethereum.md)  |
 
 <br>
 <br>
