@@ -283,6 +283,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 353  | [Aave v2 Polygon. Reserve Factor updates](./reports/353-aave-v2-polygon-reserve-factor-updates.md)  |
 | 354  | [Treasury management. Bridge Polygon Collector's holdings to Ethereum](./reports/354-treasury-management-bridge-polygon-holdings-to-ethereum.md)  |
 
+
+| 360  | [Treasury management. Chaos Labs scope engagement renewal](./reports/360-treasury-management-chaos-labs-yearly-engagement.md)  |
+
 <br>
 <br>
 
