@@ -286,6 +286,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 362  | [Aave v2 Ethereum. Risk parameters update](./reports/362-aave-v2-ethereum-risk-params-update.md)  |
 | 365  | [Aave v3 Ethereum. GHO rate strategy update](./reports/365-aave-v3-ethereum-gho-rate-strategy-update.md)  |
 | 366  | [Aave Safety Module. Reduce emissions](./reports/366-aave-safety-module-reduce-emissions.md)  |
+| 367  | [Aave v2 Polygon. Reserve Factor updates](./reports/367-aave-v2-polygon-reserve-factor-updates.md)  |
+| 368  | [Aave v3 Ethereum. WETH rate strategy update](./reports/368-aave-v3-ethereum-weth-rate-strategy-update.md)  |
 
 <br>
 <br>
