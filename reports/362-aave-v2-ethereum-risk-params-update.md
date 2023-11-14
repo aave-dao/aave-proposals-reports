@@ -77,13 +77,12 @@ MANA
 
 1INCH
 - Liquidation Threshold: 24% -> **1%**
-- LTV: 30% -> **0%**
 
 DPI:
 - Liquidation threshold: 16% -> **14%**
 
 UNI
-- LTV: 70% -> **64%**
+- Liquidation Threshold: 70% -> **64%**
 
 REN
 - Liquidation Threshold: 27% -> **25%**
@@ -110,7 +109,7 @@ ENS
 - Liquidation Threshold: 50% -> **47%**
 
 CRV:
-- Reserve Factor: 42% -> **38%**
+- Liquidation Threshold: 42% -> **38%**
 
 ZRX
 - Liquidation Threshold: 37% -> **34%**
