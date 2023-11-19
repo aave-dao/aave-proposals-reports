@@ -290,6 +290,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 368  | [Aave v3 Ethereum. WETH rate strategy update](./reports/368-aave-v3-ethereum-weth-rate-strategy-update.md)  |
 | 369  | [Aave v3 Polygon. CRV risk parameters update](./reports/369-aave-v3-polygon-risk-params-update.md)  |
 | 370  | [Aave v3 Polygon. WMATIC rate strategy update](./reports/370-aave-v3-ethereum-wmatic-rate-strategy-update.md)  |
+| 371  | [Aave v3 Ethereum. WETH rate strategy update](./reports/371-aave-v3-ethereum-weth-rate-strategy-update.md)  |
+| 372  | [Aave v3 Ethereum. FXS listing](./reports/372-aave-v3-ethereum-FXS-listing.md)  |
+| 373  | [Aave Service Providers. TokenLogic retroactive funding](./reports/373-treasury-management-tokenlogic-retroactive-funding.md)  |
 
 <br>
 <br>
