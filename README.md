@@ -293,6 +293,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 371  | [Aave v3 Ethereum. WETH rate strategy update](./reports/371-aave-v3-ethereum-weth-rate-strategy-update.md)  |
 | 372  | [Aave v3 Ethereum. FXS listing](./reports/372-aave-v3-ethereum-FXS-listing.md)  |
 | 373  | [Aave Service Providers. TokenLogic retroactive funding](./reports/373-treasury-management-tokenlogic-retroactive-funding.md)  |
+| 374  | [Treasury management. Acquire rETH](./reports/374-treasury-management-reth-acquisition.md)  |
 
 <br>
 <br>
