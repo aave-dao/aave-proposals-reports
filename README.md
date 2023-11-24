@@ -294,6 +294,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 372  | [Aave v3 Ethereum. FXS listing](./reports/372-aave-v3-ethereum-FXS-listing.md)  |
 | 373  | [Aave Service Providers. TokenLogic retroactive funding](./reports/373-treasury-management-tokenlogic-retroactive-funding.md)  |
 | 374  | [Treasury management. Acquire rETH](./reports/374-treasury-management-reth-acquisition.md)  |
+| 375  | [Aave v3 Multichain. Stablecoins interest rate strategies update](./reports/375-aave-v3-multichain-stablecoins-rate-strategy-updates.md)  |
+| 376  | [Aave v3 Multichain. MAI deprecation](./reports/376-aave-v3-multichain-mai-deprecation.md)  |
+| 377  | [Aave v3 Polygon. stMATIC/MATICx risk params updates](./reports/377-aave-v3-polygon-risk-params-update.md)  |
 
 <br>
 <br>
