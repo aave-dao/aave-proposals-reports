@@ -297,6 +297,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 375  | [Aave v3 Multichain. Stablecoins interest rate strategies update](./reports/375-aave-v3-multichain-stablecoins-rate-strategy-updates.md)  |
 | 376  | [Aave v3 Multichain. MAI deprecation](./reports/376-aave-v3-multichain-mai-deprecation.md)  |
 | 377  | [Aave v3 Polygon. stMATIC/MATICx risk params updates](./reports/377-aave-v3-polygon-risk-params-update.md)  |
+| 378  | [Aave v3 Ethereum. crvUSD listing](./reports/378-aave-v3-ethereum-crvUSD-listing.md)  |
+| 379  | [Aave v3 Ethereum. MKR risk parameters update](./reports/379-aave-v3-ethereum-mkr-risk-params-update.md)  |
 
 <br>
 <br>
