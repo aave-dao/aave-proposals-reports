@@ -301,6 +301,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 379  | [Aave v3 Ethereum. MKR risk parameters update](./reports/379-aave-v3-ethereum-mkr-risk-params-update.md)  |
 | 380  | [Aave v3 Polygon. Caps update](./reports/380-aave-v3-polygon-caps-update.md)  |
 | 381  | [Aave v3 Ethereum. GHO rate strategy update](./reports/381-aave-v3-ethereum-gho-rate-strategy-update.md)  |
+| 382  | [Aave v3 Optimism. Native USDC listing](./reports/382-aave-v3-optimism-native-USDC-listing.md)  |
 
 <br>
 <br>
