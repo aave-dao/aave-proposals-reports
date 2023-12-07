@@ -304,6 +304,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 382  | [Aave v3 Optimism. Native USDC listing](./reports/382-aave-v3-optimism-native-USDC-listing.md)  |
 | 383  | [Aave v2 Ethereum. Risk parameters update](./reports/383-aave-v2-ethereum-risk-params-update.md)  |
 | 388  | [Bounty for GHO incident ](./reports/388-bounty-for-gho-incident.md)  |
+| 391  | [Aave v3 Multichain. Price oracle sentinel update (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231125_Multi_UpdatePriceOracleSentinel/UpdatePriceOracleSentinel.md)  |
+| 392  | [Treasury management. Stablecoins consolidation](./reports/392-treasury-management-stablecoins-consolidation.md)  |
+| 393  | [Aave v2 Polygon. Reserve Factor updates](./reports/393-aave-v2-polygon-reserve-factor-updates.md)  |
 
 
 <br>
