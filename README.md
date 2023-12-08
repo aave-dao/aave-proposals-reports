@@ -308,6 +308,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 392  | [Treasury management. Stablecoins consolidation](./reports/392-treasury-management-stablecoins-consolidation.md)  |
 | 393  | [Aave v2 Polygon. Reserve Factor updates](./reports/393-aave-v2-polygon-reserve-factor-updates.md)  |
 | 394  | [Aave v3 Base. wstETH listing](./reports/394-aave-v3-base-wstETH-listing.md)  |
+| 395  | [Aave Governance v3 activation (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231114_AaveV3Ethereum_AaveGovernanceV3Activation/AaveGovernanceV3Activation.md)  |
+| 396  | [Treasury management. Gauntlet scope engagement renewal](./reports/396-treasury-management-gauntlet-yearly-engagement.md)  |
 
 
 <br>
