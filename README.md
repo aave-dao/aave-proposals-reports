@@ -307,6 +307,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 391  | [Aave v3 Multichain. Price oracle sentinel update (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231125_Multi_UpdatePriceOracleSentinel/UpdatePriceOracleSentinel.md)  |
 | 392  | [Treasury management. Stablecoins consolidation](./reports/392-treasury-management-stablecoins-consolidation.md)  |
 | 393  | [Aave v2 Polygon. Reserve Factor updates](./reports/393-aave-v2-polygon-reserve-factor-updates.md)  |
+| 394  | [Aave v3 Base. wstETH listing](./reports/394-aave-v3-base-wstETH-listing.md)  |
 
 
 <br>
