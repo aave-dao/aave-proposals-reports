@@ -310,6 +310,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 394  | [Aave v3 Base. wstETH listing](./reports/394-aave-v3-base-wstETH-listing.md)  |
 | 395  | [Aave Governance v3 activation (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231114_AaveV3Ethereum_AaveGovernanceV3Activation/AaveGovernanceV3Activation.md)  |
 | 396  | [Treasury management. Gauntlet scope engagement renewal](./reports/396-treasury-management-gauntlet-yearly-engagement.md)  |
+| 397  | [Aave v2 Ethereum. Rate strategies and Reserve Factor updates](./reports/397-aave-v2-ethereum-rates-rf-update.md)  |
+| 398  | [Treasury management. Transfer AURA to GHO Liquidity Commitee](./reports/398-treasury-management-aura-to-glc.md)  |
+| 399  | [Aave v3 Ethereum. GHO variable debt token upgrade](./reports/399-aave-v3-ethereum-vGHO-upgrade.md)  |
+
 
 
 <br>
