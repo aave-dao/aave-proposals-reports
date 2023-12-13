@@ -313,7 +313,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 397  | [Aave v2 Ethereum. Rate strategies and Reserve Factor updates](./reports/397-aave-v2-ethereum-rates-rf-update.md)  |
 | 398  | [Treasury management. Transfer AURA to GHO Liquidity Commitee](./reports/398-treasury-management-aura-to-glc.md)  |
 | 399  | [Aave v3 Ethereum. GHO variable debt token upgrade](./reports/399-aave-v3-ethereum-vGHO-upgrade.md)  |
-
+| 400  | [Aave v3 Multichain. CRV risk parameters update](./reports/400-aave-v3-multichain-crv-risk-params-update.md)  |
 
 
 <br>
