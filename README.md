@@ -314,6 +314,12 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 398  | [Treasury management. Transfer AURA to GHO Liquidity Commitee](./reports/398-treasury-management-aura-to-glc.md)  |
 | 399  | [Aave v3 Ethereum. GHO variable debt token upgrade](./reports/399-aave-v3-ethereum-vGHO-upgrade.md)  |
 | 400  | [Aave v3 Multichain. CRV risk parameters update](./reports/400-aave-v3-multichain-crv-risk-params-update.md)  |
+| 401  | [Aave v2 Ethereum AMM. Sync emergency admin with v2 Ethereum (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231207_AaveV2EthereumAMM_SyncEmergencyAdminOnV2AMM/SyncEmergencyAdminOnV2AMM.md)  |
+| 402  | [Aave v2 Avalanche. Activate Aave Proof of Reserve (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231206_AaveV2Avalanche_ActivateProofOfReserve/ActivateProofOfReserveV2.md)  |
+| 403  | [Treasury management. Acquire rETH](./reports/403-treasury-management-reth-acquisition.md)  |
+| 404  | [Aave v2 Multichain. Risk parameters update](./reports/404-aave-v2-multichain-risk-params-update.md)  |
+| 405  | [Aave v3 Polygon. Caps update](./reports/405-aave-v3-polygon-wsteth-caps-update.md)  |
+| 406  | [Aave v3 Ethereum. GHO rate strategy update](./reports/406-aave-v3-ethereum-gho-rate-strategy-update.md)  |
 
 
 <br>
