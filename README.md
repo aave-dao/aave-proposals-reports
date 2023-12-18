@@ -320,6 +320,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 404  | [Aave v2 Multichain. Risk parameters update](./reports/404-aave-v2-multichain-risk-params-update.md)  |
 | 405  | [Aave v3 Polygon. Caps update](./reports/405-aave-v3-polygon-wsteth-caps-update.md)  |
 | 406  | [Aave v3 Ethereum. GHO rate strategy update](./reports/406-aave-v3-ethereum-gho-rate-strategy-update.md)  |
+| 407  | [Treasury management. TokenLogic & Karpatkey engagement](./reports/407-treasury-management-tokenlogic-karpatkey-engagement.md)  |
+| 408  | [Aave v2 Polygon. Reserve Factor updates](./reports/408-aave-v2-polygon-reserve-factor-updates.md)  |
+| 409  | [Aave v3 Multichain. Native USDC listing and parameters change](./reports/409-aave-v3-multichain-native-USDC-listing.md)  |
 
 
 <br>
