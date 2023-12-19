@@ -323,7 +323,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 407  | [Treasury management. TokenLogic & Karpatkey engagement](./reports/407-treasury-management-tokenlogic-karpatkey-engagement.md)  |
 | 408  | [Aave v2 Polygon. Reserve Factor updates](./reports/408-aave-v2-polygon-reserve-factor-updates.md)  |
 | 409  | [Aave v3 Multichain. Native USDC listing and parameters change](./reports/409-aave-v3-multichain-native-USDC-listing.md)  |
-
+| 410  | [Treasury management. Certora engagement](./reports/410-treasury-management-certora-engagement.md)  |
+| 411  | [Aave v3 Gnosis. GNO borrowing and parameters update](./reports/411-aave-v3-gnosis-gno-params-update.md)  |
+| 412  | [Treasury management. Transfer CRV to GHO Liquidity Commitee](./reports/412-treasury-management-crv-to-glc.md)  |
+| 413  | [Request for Bounty Payout. December 2023 (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231213_AaveV3Ethereum_RequestForBountyPayoutDecember2023/RequestForBountyPayoutDecember2023.md)  |
 
 <br>
 <br>
