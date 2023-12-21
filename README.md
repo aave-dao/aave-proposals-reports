@@ -327,6 +327,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 411  | [Aave v3 Gnosis. GNO borrowing and parameters update](./reports/411-aave-v3-gnosis-gno-params-update.md)  |
 | 412  | [Treasury management. Transfer CRV to GHO Liquidity Commitee](./reports/412-treasury-management-crv-to-glc.md)  |
 | 413  | [Request for Bounty Payout. December 2023 (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231213_AaveV3Ethereum_RequestForBountyPayoutDecember2023/RequestForBountyPayoutDecember2023.md)  |
+| 414  | [Treasury management. Migration Aave v2->v3 of Polygon Collector funds](./reports/414-treasury-management-migrate-v2-to-v3-polygon.md)  |
+| 415  | [Aave Governance v3 Short activation (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/f86a4dd8beadd43e3a202fc031d21b76a1075d2e/src/20231207_Multi_AaveGovernanceV3Activation/AaveGovernanceV3Activation.md)  |
+| 416  | [(Re-submission of 415) Aave Governance v3 Short activation (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231207_Multi_AaveGovernanceV3Activation/AaveGovernanceV3Activation.md)  |
 
 <br>
 <br>
