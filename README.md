@@ -1,8 +1,21 @@
 # Aave <> BGD. Governance reports :lock: :eyes: :ghost:
 
-<br>
 
 This repository is a public registry of all the Aave governance proposals verified and security-reviewed by BGD. It will be updated with new reports as proposals enter into the Aave governance voting process.
+
+<br>
+
+### Aave Governance v3
+
+| Proposal  | Report |
+| ------------- | ------------- |
+| 0  | [Aave Pool update](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240104_Multi_Patch/Patch.md)  |
+| 1  | [Aave v2 Polygon. Reserve Factor updates](./reports/v3-1-aave-v2-polygon-reserve-factor-updates.md)  |
+
+<br>
+<br>
+
+### Aave Governance v2
 
 | Proposal  | Report |
 | ------------- | ------------- |
