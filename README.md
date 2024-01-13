@@ -11,6 +11,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | ------------- | ------------- |
 | 0  | [Aave Pool update](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240104_Multi_Patch/Patch.md)  |
 | 1  | [Aave v2 Polygon. Reserve Factor updates](./reports/v3-1-aave-v2-polygon-reserve-factor-updates.md)  |
+| 2  | [Aave v2/v3 Avalanche. WBTC.e risk params update](./reports/v3-2-aave-v2-v3-avalanche-risk-parameters-update.md)  |
 
 <br>
 <br>
