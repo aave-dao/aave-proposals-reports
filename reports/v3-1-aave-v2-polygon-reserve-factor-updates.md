@@ -1,4 +1,4 @@
-# V3. Proposal 0. Aave v2 Polygon - Reserve Factor updates
+# V3. Proposal 1. Aave v2 Polygon - Reserve Factor updates
 
 <br>
 
