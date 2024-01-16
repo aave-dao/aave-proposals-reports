@@ -12,6 +12,9 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 0  | [Aave Pool update](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240104_Multi_Patch/Patch.md)  |
 | 1  | [Aave v2 Polygon. Reserve Factor updates](./reports/v3-1-aave-v2-polygon-reserve-factor-updates.md)  |
 | 2  | [Aave v2/v3 Avalanche. WBTC.e risk params update](./reports/v3-2-aave-v2-v3-avalanche-risk-parameters-update.md)  |
+| 3  | [Aave v2/v3 Multichain. Rate strategies updates](./reports/v3-3-aave-v2-v3-multichain-rates-update.md)  |
+| 4  | [Aave v2 Ethereum. Risk params updates](./reports/v3-4-aave-v2-ethereum-risk-parameters-update.md)  |
+| 5  | [Treasury management. Consolidation of stablecoins holdings](./reports/v3-5-treasury-management-stablecoins-consolidation.md)  |
 
 <br>
 <br>
