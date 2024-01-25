@@ -15,6 +15,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 3  | [Aave v2/v3 Multichain. Rate strategies updates](./reports/v3-3-aave-v2-v3-multichain-rates-update.md)  |
 | 4  | [Aave v2 Ethereum. Risk params updates](./reports/v3-4-aave-v2-ethereum-risk-parameters-update.md)  |
 | 5  | [Treasury management. Consolidation of stablecoins holdings](./reports/v3-5-treasury-management-stablecoins-consolidation.md)  |
+| 6  | [Aave v3 BNB Chain. Activation proposal](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231122_AaveV3Bnb_AaveV3BNBActivation/AaveV3BNBActivation.md)  |
+| 7  | [Safety Module. stkGHO activation](./reports/v3-7-aave-safety-module-stkgho-activation.md)  |
 
 <br>
 <br>
