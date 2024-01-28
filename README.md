@@ -17,6 +17,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 5  | [Treasury management. Consolidation of stablecoins holdings](./reports/v3-5-treasury-management-stablecoins-consolidation.md)  |
 | 6  | [Aave v3 BNB Chain. Activation proposal](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231122_AaveV3Bnb_AaveV3BNBActivation/AaveV3BNBActivation.md)  |
 | 7  | [Safety Module. stkGHO activation](./reports/v3-7-aave-safety-module-stkgho-activation.md)  |
+| 8  | [GHO. GSM activation](./reports/v3-8-gho-gsm-activation.md)  |
 
 <br>
 <br>
