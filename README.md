@@ -18,6 +18,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 6  | [Aave v3 BNB Chain. Activation proposal](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20231122_AaveV3Bnb_AaveV3BNBActivation/AaveV3BNBActivation.md)  |
 | 7  | [Safety Module. stkGHO activation](./reports/v3-7-aave-safety-module-stkgho-activation.md)  |
 | 8  | [GHO. GSM activation](./reports/v3-8-gho-gsm-activation.md)  |
+| 9  | [Aave v2 Polygon. Reserve Factor updates](./reports/v3-9-aave-v2-polygon-reserve-factor-updates.md)  |
+| 10  | [Request for Bounty Payout. January 2024 (BGD project)](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240125_AaveV3Ethereum_RequestForBountyPayoutJanuary2024/RequestForBountyPayoutJanuary2024.md)  |
+| 11  | [Aave v3 Multichain. ETH e-mode parameters updates](./reports/v3-11-aave-v3-multichain-ETH-emode-parameters-update.md)  |
+
 
 <br>
 <br>
