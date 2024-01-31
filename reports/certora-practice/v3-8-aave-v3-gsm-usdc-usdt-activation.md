@@ -1,4 +1,4 @@
-# Proposal 3. Stablecoin IR Curves Updates
+# Proposal 8. GHO Stability Module
 
 <br>
 

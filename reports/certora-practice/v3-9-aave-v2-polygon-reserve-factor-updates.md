@@ -1,4 +1,4 @@
-# Proposal 3. Stablecoin IR Curves Updates
+# Proposal 9. Reserve Factor Updates (Jan 15, 2024)
 
 <br>
 
