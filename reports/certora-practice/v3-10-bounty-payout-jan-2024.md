@@ -26,7 +26,7 @@
 
 ### Context
 
-This proposal is a bounty payment execution for security reports on submitted on immunify as per Aave's bug bounty program on immunify.
+This proposal is a bounty payment execution for security reports submitted on immunify as per Aave's bug bounty program on immunify.
 
 <br>
 
@@ -54,7 +54,7 @@ Transaction: [https://etherscan.io/tx/0x85a414e6b338ca1a0a776185df5499097ab259ed
       "payloadId": "49"
     },
   ],
-  "votingPortal": "	0x9b24C168d6A76b5459B1d47071a54962a4df36c3",
+  "votingPortal": "0x9b24C168d6A76b5459B1d47071a54962a4df36c3",
   "ipfsHash": "0x7aecf9ccc292c69084e164b3eaf105de4cfa18e19d3ec749d55cec850c805a13"
 }
 ```
@@ -75,7 +75,7 @@ Transaction: [https://etherscan.io/tx/0x85a414e6b338ca1a0a776185df5499097ab259ed
 
 ### Technical analysis
 
-We have verified the [proposal payload](https://etherscan.io/address/0xd4f7dc4f63d99b0224cE8c7E2aa81DE8Ca7530ad#code#F1#L34) pays the specified addresses (and no others) with exactly the specified amount of Aave V2 aUSDC tokens.
+We have verified the [proposal payload](https://etherscan.io/address/0xd4f7dc4f63d99b0224cE8c7E2aa81DE8Ca7530ad#code#F1#L34) pays the specified addresses (and no others) with exactly the specified amounts of Aave V2 aUSDC tokens.
 
 0x8689e84af34A18Bc461928aa554a71C649beED89 is being paid 5,000e6 in aUSDC.
 

@@ -20,7 +20,7 @@
 
 ### Proposal types
 
-:wrench: :bar_chart: configuration updates
+:wrench: :bar_chart: configuration update
 
 <br>
 
