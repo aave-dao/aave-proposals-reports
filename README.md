@@ -23,6 +23,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 11  | [Aave v3 Multichain. ETH e-mode parameters updates](./reports/v3-11-aave-v3-multichain-ETH-emode-parameters-update.md)  |
 | 12  | [a.DI. Enabled initial Scroll adapter](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240122_AaveV3Ethereum_RegisterADIScrollAdapter/RegisterADIScrollAdapter.md)  |
 | 13  | [Aave v3 Multichain. USDT risk parameters update](./reports/v3-13-aave-v3-multichain-USDT-parameters-update.md)  |
+| 14  | [Treasury management. GSM, RWA Centrifuge and Frontier funding preparations](./reports/v3-14-treasury-management-gsm-rwa-frontier-funding.md)  |
 
 
 <br>
