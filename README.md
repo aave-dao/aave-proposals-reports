@@ -27,6 +27,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 15  | [Aave v1 Ethereum. Further deprecation Phase 1](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240115_AaveV1Ethereum_AaveV1Deprecation/AaveV1Deprecation.md)  |
 | 16  | [Aave v2 Ethereum. AMPL rate strategy update](./reports/v3-16-aave-v2-ethereum-rate-strategy-update.md)  |
 | 17  | [Aave v3 BNB. fdUSD listing](./reports/v3-17-aave-v3-bnb-fdUSD-listing.md)  |
+| 18  | [Aave v3 Polygon. Risk parameters update](./reports/v3-18-aave-v3-polygon-risk-parameters-update.md)  |
 
 <br>
 <br>
