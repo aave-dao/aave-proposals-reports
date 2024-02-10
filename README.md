@@ -28,6 +28,14 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 16  | [Aave v2 Ethereum. AMPL rate strategy update](./reports/v3-16-aave-v2-ethereum-rate-strategy-update.md)  |
 | 17  | [Aave v3 BNB. fdUSD listing](./reports/v3-17-aave-v3-bnb-fdUSD-listing.md)  |
 | 18  | [Aave v3 Polygon. Risk parameters update](./reports/v3-18-aave-v3-polygon-risk-parameters-update.md)  |
+| 19  | [Aave v3 Optimism. Risk parameters update](./reports/v3-19-aave-v3-optimism-risk-parameters-update.md)  |
+| 20  | [Aave v3 Scroll. Activation proposal](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240122_AaveV3Scroll_AaveV3ScrollActivation/AaveV3ScrollActivation.md)  |
+| 21  | [Safety Module. stkABPT migration](https://github.com/bgd-labs/abpt-migration)  |
+| 22  | [Maintenance proposal. Gov v2 permissions clean-up and Paraswap legacy claim](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240130_AaveV2Ethereum_MigrationOfRemainingGovV2Permissions/MigrationOfRemainingGovV2Permissions.md)  |
+| 23  | [Aave v2 Ethereum. Risk params updates](./reports/v3-23-aave-v2-ethereum-risk-parameters-update.md)  |
+
+
+
 
 <br>
 <br>
