@@ -1,4 +1,4 @@
-# Proposal 14. Retroactive Bug Bounty Pre-Immunefi.
+# Proposal 27. Retroactive Bug Bounty Pre-Immunefi.
 
 <br>
 
