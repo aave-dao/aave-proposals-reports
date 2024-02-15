@@ -62,7 +62,7 @@ Transaction: [https://etherscan.io/tx/0xfb2218bb6631a1a31aeaf9eb3d8038a60cd515e1
     },
   ],
   "votingPortal": "0x9b24C168d6A76b5459B1d47071a54962a4df36c3",
-  "ipfsHash": "0xee81375a113564e990021db582f787e045b68d85f146e4a6dc6def36dd06ace9"
+  "ipfsHash": "0x599229f841648a3d59bfd25079ff627f2b631856d494db31e3c219a0b53818b3"
 }
 ```
 
