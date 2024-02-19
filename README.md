@@ -33,6 +33,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 21  | [Safety Module. stkABPT migration](https://github.com/bgd-labs/abpt-migration)  |
 | 22  | [Maintenance proposal. Gov v2 permissions clean-up and Paraswap legacy claim](https://github.com/bgd-labs/aave-proposals-v3/blob/main/src/20240130_AaveV2Ethereum_MigrationOfRemainingGovV2Permissions/MigrationOfRemainingGovV2Permissions.md)  |
 | 23  | [Aave v2 Ethereum. Risk params updates](./reports/v3-23-aave-v2-ethereum-risk-parameters-update.md)  |
+| 26  | [Aave v2 AMM market deprecation step2](./reports/v3-26-deprecate-aave-v2-amm-market-step2.md)  |
+| 27  | [Retroactive bug bounty payment pre Immunefi](./reports/v3-27-retroactive-bug-bounty-pre-Immunefi.md) |  
+| 28  | [Aave v3 Ethereum debt ceiling increase for snx and mkr](./reports/v3-28-aave-v3-ethereum-debt-ceiling-increase-for-snx-and-mkr.md)  |
+| 29  | [Aave v3 BNB set ACI as emission manager for fdusd](./reports/v3-29-aave-v3-bnb-set-aave-chan-initiative-as-emission-manager-for-fdusd.md)  |
 
 
 
