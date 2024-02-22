@@ -37,6 +37,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 27  | [Retroactive bug bounty payment pre Immunefi](./reports/v3-27-retroactive-bug-bounty-pre-Immunefi.md) |  
 | 28  | [Aave v3 Ethereum debt ceiling increase for snx and mkr](./reports/v3-28-aave-v3-ethereum-debt-ceiling-increase-for-snx-and-mkr.md)  |
 | 29  | [Aave v3 BNB set ACI as emission manager for fdusd](./reports/v3-29-aave-v3-bnb-set-aave-chan-initiative-as-emission-manager-for-fdusd.md)  |
+| 30  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-30-reserve-factor-updates.md)  |
 
 
 
