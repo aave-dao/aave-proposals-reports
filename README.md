@@ -39,6 +39,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 29  | [Aave v3 BNB set ACI as emission manager for fdusd](./reports/v3-29-aave-v3-bnb-set-aave-chan-initiative-as-emission-manager-for-fdusd.md)  |
 | 30  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-30-aave-v2-polygon-reserve-factor-updates.md)  |
 | 32  | [Aave v3 Polygon MaticX supply cap increase](./reports/v3-31-aave-v3-polygon-maticx-supply-cap-increase.md)  |
+| 33  | [Aave v3 Ethereum Orbit Program](./reports/v3-33-orbit-program.md)  |
+| 34  | [Aave v3 Arbitrum Aave Protocol Embassy](./reports/v3-34-aave-protocol-embassy.md)  |
+| 35  | [Aave v3 Ethereum Treasury management. GSM, RWA Centrifuge and Frontier funding preparations part B](./reports/v3-35-treasury-management-gsm-rwa-frontier-funding-part-b.md)  |
+| 36  | [Aave v3 Ethereum bug bounty payment](./reports/v3-36-stable-rate-bug-bounty.md)  |
 
 
 
