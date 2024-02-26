@@ -41,6 +41,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 32  | [Aave v3 Polygon MaticX supply cap increase](./reports/v3-31-aave-v3-polygon-maticx-supply-cap-increase.md)  |
 | 33  | [Aave v3 Ethereum Orbit Program](./reports/v3-33-orbit-program.md)  |
 | 34  | [Aave v3 Arbitrum Aave Protocol Embassy](./reports/v3-34-aave-protocol-embassy.md)  |
+| 35  | [Aave v3 Ethereum Treasury management. GSM, RWA Centrifuge and Frontier funding preparations part B](./reports/v3-35-treasury-management-gsm-rwa-frontier-funding-part-b.md)  |
 | 36  | [Aave v3 Ethereum bug bounty payment](./reports/v3-36-stable-rate-bug-bounty.md)  |
 
 
