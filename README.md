@@ -43,6 +43,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 34  | [Aave v3 Arbitrum Aave Protocol Embassy](./reports/v3-34-aave-protocol-embassy.md)  |
 | 35  | [Aave v3 Ethereum Treasury management. GSM, RWA Centrifuge and Frontier funding preparations part B](./reports/v3-35-treasury-management-gsm-rwa-frontier-funding-part-b.md)  |
 | 36  | [Aave v3 Ethereum bug bounty payment](./reports/v3-36-stable-rate-bug-bounty.md)  |
+| 37  | [Aave v1 Ethereum Deprecation Phase 2](./reports/v3-37-aave-v1-deprecation-phase-2.md)  |
+| 38  | [Aave v2 Ethereum Cut gauntlet service provider stream](./reports/v3-38-cut-gauntlet-service-provider-stream.md)  |
 
 
 
