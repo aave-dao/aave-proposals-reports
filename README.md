@@ -46,10 +46,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 37  | [Aave v1 Ethereum Deprecation Phase 2](./reports/v3-37-aave-v1-deprecation-phase-2.md)  |
 | 38  | [Aave v2 Ethereum Cut gauntlet service provider stream](./reports/v3-38-cut-gauntlet-service-provider-stream.md)  |
 | 39  | [Aave v3 Multichain Set wstETH Emission Manager](./reports/v3-39-aave-v3-multichain-set-wstETH-emission-manager.md)  |
-
-
-
-
+| 40  | [Aave v3 Gho borrow rate increase](./reports/v3-40-aave-v3-Ethereum-gho-borrow-rate-increase.md)  |
+| 41  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-41-aave-v2-polygon-reserve-factor-updates.md)  |
 
 <br>
 <br>
