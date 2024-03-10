@@ -49,6 +49,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 40  | [Aave v3 Gho borrow rate increase](./reports/v3-40-aave-v3-Ethereum-gho-borrow-rate-increase.md)  |
 | 41  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-41-aave-v2-polygon-reserve-factor-updates.md)  |
 | 42  | [Aave v3 Multichain Assign Emission Admin - Ethereum, Arbitrum and Optimism](./reports/v3-42-aave-v3-assign-emission-admin-ethereum-arbitrum-and-optimism.md)  |
+| 43  | [Aave v3 Approval For Merit Program](./reports/v3-43-aave-v3-approval-for-Merit-program.md)  |
+| 44  | [Aave v3 Treasury Management Funding Update](./reports/v3-44-aave-v3-treasury-management-funding-update.md) |
 
 <br>
 <br>
