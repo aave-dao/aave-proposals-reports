@@ -51,6 +51,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 42  | [Aave v3 Multichain Assign Emission Admin - Ethereum, Arbitrum and Optimism](./reports/v3-42-aave-v3-assign-emission-admin-ethereum-arbitrum-and-optimism.md)  |
 | 43  | [Aave v3 Approval For Merit Program](./reports/v3-43-aave-v3-approval-for-Merit-program.md)  |
 | 44  | [Aave v3 Treasury Management Funding Update](./reports/v3-44-aave-v3-treasury-management-funding-update.md) |
+| 45  | [Amend Safety Module Emissions](./reports/v3-45-amend-safety-module-emissions.md) |
 
 <br>
 <br>
