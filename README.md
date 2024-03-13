@@ -56,6 +56,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 48  | [Add Flash Borrowers](./reports/v3-48-multichain-add-flash-borrowers.md) |
 | 49  | [Aave v2 Ethereum Reserve Factor Adjustment](./reports/v3-49-ethereum-v2-reserve-factor-adjustment.md) |
 | 50  | [Aave v3 Ethereum GHO Borrow Rate Increase](./reports/v3-50-ethereum-gho-borrow-rate-increase.md) |
+| 51  | [Aave v3 Multichain Set Price Cap Adapters (CAPO)](./reports/v3-51-multichain-set-price-cap-adapters-capo.md) |
 
 <br>
 <br>
