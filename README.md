@@ -52,6 +52,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 43  | [Aave v3 Approval For Merit Program](./reports/v3-43-aave-v3-approval-for-Merit-program.md)  |
 | 44  | [Aave v3 Treasury Management Funding Update](./reports/v3-44-aave-v3-treasury-management-funding-update.md) |
 | 45  | [Amend Safety Module Emissions](./reports/v3-45-amend-safety-module-emissions.md) |
+| 47  | [Activation Of A-C Prime Foundation](./reports/v3-47-activation-of-a-c-prime-foundation.md) |
+| 48  | [Add Flash Borrowers](./reports/v3-48-multichain-add-flash-borrowers.md) |
+| 49  | [Aave v2 Ethereum Reserve Factor Adjustment](./reports/v3-49-ethereum-v2-reserve-factor-adjustment.md) |
+| 50  | [Aave v3 Ethereum GHO Borrow Rate Increase](./reports/v3-50-ethereum-gho-borrow-rate-increase.md) |
 
 <br>
 <br>
