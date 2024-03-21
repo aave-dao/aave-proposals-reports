@@ -59,6 +59,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 51  | [Aave v3 Multichain Set Price Cap Adapters (CAPO)](./reports/v3-51-multichain-set-price-cap-adapters-capo.md) |
 | 52  | [ALC Funding](./reports/v3-52-ALC-funding.md) |
 | 53  | [Aave v3 Multichain Periphery Maintenance](./reports/v3-53-v3-periphery-maintenance.md) |
+| 54  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-54-aave-v2-polygon-reserve-factor-updates.md)  |
 
 <br>
 <br>
