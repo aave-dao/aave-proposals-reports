@@ -58,6 +58,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 50  | [Aave v3 Ethereum GHO Borrow Rate Increase](./reports/v3-50-ethereum-gho-borrow-rate-increase.md) |
 | 51  | [Aave v3 Multichain Set Price Cap Adapters (CAPO)](./reports/v3-51-multichain-set-price-cap-adapters-capo.md) |
 | 52  | [ALC Funding](./reports/v3-52-ALC-funding.md) |
+| 53  | [Aave v3 Multichain Periphery Maintenance](./reports/v3-53-v3-periphery-maintenance.md) |
 
 <br>
 <br>
