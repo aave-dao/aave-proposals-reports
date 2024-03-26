@@ -60,6 +60,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 52  | [ALC Funding](./reports/v3-52-ALC-funding.md) |
 | 53  | [Aave v3 Multichain Periphery Maintenance](./reports/v3-53-v3-periphery-maintenance.md) |
 | 54  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-54-aave-v2-polygon-reserve-factor-updates.md)  |
+| 55  | [Aave v3 Multichain Stablecoin Harmonization](./reports/v3-55-aave-v3-multichain-stablecoin-harmonization.md)  |
+| 56  | [Gov v3 a.DI Implementation and CCIP Adapters Update](./reports/v3-56-gov-v3-aDI-and-ccip-update.md)  |
 
 <br>
 <br>
