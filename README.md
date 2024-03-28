@@ -64,6 +64,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 56  | [Gov v3 a.DI Implementation and CCIP Adapters Update](./reports/v3-56-gov-v3-aDI-and-ccip-update.md)  |
 | 57  | [Aave v2 Ethereum Reserve Factor Adjustment 25-03-24](./reports/v3-57-ethereum-v2-reserve-factor-adjustment.md) |
 | 58  | [Aave v3 Arbitrum Disable ARB Isolation Mode](./reports/v3-58-arbitrum-v3-disable-ARB-isolation.md) |
+| 59  | [BGDLabs Phase 3](./reports/v3-59-bgdLabs-Phase-3.md) |
+| 60  | [Aave V3 Adding Contango FlashBorrowers](./reports/v3-60-aave-v3-multichain-contango-flash-borrower-addition.md) |
 
 <br>
 <br>
