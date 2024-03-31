@@ -66,6 +66,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 58  | [Aave v3 Arbitrum Disable ARB Isolation Mode](./reports/v3-58-arbitrum-v3-disable-ARB-isolation.md) |
 | 59  | [BGDLabs Phase 3](./reports/v3-59-bgdLabs-Phase-3.md) |
 | 60  | [Aave V3 Adding Contango FlashBorrowers](./reports/v3-60-aave-v3-multichain-contango-flash-borrower-addition.md) |
+| 61  | [Aave V3 Gho Steward Activation](./reports/v3-61-aave-v3-gho-steward-activation.md) |
 
 <br>
 <br>
