@@ -69,6 +69,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 61  | [Aave V3 Gho Steward Activation](./reports/v3-61-aave-v3-ethereum-gho-steward-activation.md) |
 | 62  | [Aave V3 Gho Borrow Rate Update](./reports/v3-62-aave-v3-ethereum-gho-rate-update.md) |
 | 63  | [Aave v3 Treasury Management Funding Update Part 2](./reports/v3-63-aave-v3-treasury-management-funding-update-part-2.md) |
+| 64  | [Aave v3 Gnosis Setting EURe Emission Admin](./reports/v3-64-aave-v3-gnosis-EURe-emissions-manager.md) |
+| 65  | [Aave v3 Ethereum Borrow Cap Reduction](./reports/v3-65-aave-v3-ethereum-borrow-cap-reduction.md) |
 
 <br>
 <br>
