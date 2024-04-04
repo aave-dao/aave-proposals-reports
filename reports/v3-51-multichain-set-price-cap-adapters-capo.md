@@ -44,7 +44,7 @@
 
 ### Proposal types
 
-:handshake: contract upgrade
+:scroll::small_red_triangle: contract upgrade
 
 <br>
 
