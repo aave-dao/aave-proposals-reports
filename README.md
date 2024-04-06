@@ -71,6 +71,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 63  | [Aave v3 Treasury Management Funding Update Part 2](./reports/v3-63-aave-v3-treasury-management-funding-update-part-2.md) |
 | 64  | [Aave v3 Gnosis Setting EURe Emission Admin](./reports/v3-64-aave-v3-gnosis-EURe-emissions-manager.md) |
 | 65  | [Aave v3 Ethereum Borrow Cap Reduction](./reports/v3-65-aave-v3-ethereum-borrow-cap-reduction.md) |
+| 66  | [Aave v2 Ethereum TUSD And BUSD Rates Update](./reports/v3-66-aave-v2-ethereum-tusd-busd-rates-update.md) |
+| 67  | [Aave v3 Multichain WETH Interest Rate Update](./reports/v3-67-aave-v3-multichain-weth-interest-rate-update.md) |
 
 <br>
 <br>

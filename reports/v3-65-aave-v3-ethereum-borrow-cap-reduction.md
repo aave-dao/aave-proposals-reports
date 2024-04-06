@@ -1,5 +1,4 @@
-# Proposal 65. Borrow Cap Reductions on Aave V3 Ethereum
-.
+# Proposal 65. Borrow Cap Reductions on Aave V3 Ethereum.
 
 <br>
 
