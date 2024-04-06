@@ -66,7 +66,13 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 58  | [Aave v3 Arbitrum Disable ARB Isolation Mode](./reports/v3-58-arbitrum-v3-disable-ARB-isolation.md) |
 | 59  | [BGDLabs Phase 3](./reports/v3-59-bgdLabs-Phase-3.md) |
 | 60  | [Aave V3 Adding Contango FlashBorrowers](./reports/v3-60-aave-v3-multichain-contango-flash-borrower-addition.md) |
-| 61  | [Aave V3 Gho Steward Activation](./reports/v3-61-aave-v3-gho-steward-activation.md) |
+| 61  | [Aave V3 Gho Steward Activation](./reports/v3-61-aave-v3-ethereum-gho-steward-activation.md) |
+| 62  | [Aave V3 Gho Borrow Rate Update](./reports/v3-62-aave-v3-ethereum-gho-rate-update.md) |
+| 63  | [Aave v3 Treasury Management Funding Update Part 2](./reports/v3-63-aave-v3-treasury-management-funding-update-part-2.md) |
+| 64  | [Aave v3 Gnosis Setting EURe Emission Admin](./reports/v3-64-aave-v3-gnosis-EURe-emissions-manager.md) |
+| 65  | [Aave v3 Ethereum Borrow Cap Reduction](./reports/v3-65-aave-v3-ethereum-borrow-cap-reduction.md) |
+| 66  | [Aave v2 Ethereum TUSD And BUSD Rates Update](./reports/v3-66-aave-v2-ethereum-tusd-busd-rates-update.md) |
+| 67  | [Aave v3 Multichain WETH Interest Rate Update](./reports/v3-67-aave-v3-multichain-weth-interest-rate-update.md) |
 
 <br>
 <br>

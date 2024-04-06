@@ -27,7 +27,7 @@
 ### Proposal types
 
 :wrench: :bar_chart: configuration update
-:handshake: contract upgrade
+:scroll::small_red_triangle: contract upgrade
 
 <br>
 
