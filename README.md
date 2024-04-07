@@ -75,6 +75,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 67  | [Aave v3 Multichain WETH Interest Rate Update](./reports/v3-67-aave-v3-multichain-weth-interest-rate-update.md) |
 | 68  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-68-aave-v2-polygon-reserve-factor-updates.md)  |
 | 69  | [Aave v2/v3 Multichain Stablecoin Interest Rate Update](./reports/v3-69-aave-v2-v3-multichain-stablecoin-ir-updates.md)  |
+| 70  | [Gov v3 a.DI Bridge Adapters Update](./reports/v3-70-gov-v3-aDI-bridge-adapters-update.md)  |
 
 <br>
 <br>
