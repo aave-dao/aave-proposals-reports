@@ -74,6 +74,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 66  | [Aave v2 Ethereum TUSD And BUSD Rates Update](./reports/v3-66-aave-v2-ethereum-tusd-busd-rates-update.md) |
 | 67  | [Aave v3 Multichain WETH Interest Rate Update](./reports/v3-67-aave-v3-multichain-weth-interest-rate-update.md) |
 | 68  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-68-aave-v2-polygon-reserve-factor-updates.md)  |
+| 69  | [Aave v2/v3 Multichain Stablecoin Interest Rate Update](./reports/v3-69-aave-v2-v3-multichain-stablecoin-ir-updates.md)  |
 
 <br>
 <br>
