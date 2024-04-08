@@ -73,6 +73,11 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 65  | [Aave v3 Ethereum Borrow Cap Reduction](./reports/v3-65-aave-v3-ethereum-borrow-cap-reduction.md) |
 | 66  | [Aave v2 Ethereum TUSD And BUSD Rates Update](./reports/v3-66-aave-v2-ethereum-tusd-busd-rates-update.md) |
 | 67  | [Aave v3 Multichain WETH Interest Rate Update](./reports/v3-67-aave-v3-multichain-weth-interest-rate-update.md) |
+| 68  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-68-aave-v2-polygon-reserve-factor-updates.md)  |
+| 69  | [Aave v2/v3 Multichain Stablecoin Interest Rate Update](./reports/v3-69-aave-v2-v3-multichain-stablecoin-ir-updates.md)  |
+| 70  | [Gov v3 a.DI Bridge Adapters Update](./reports/v3-70-gov-v3-aDI-bridge-adapters-update.md)  |
+| 71  | [Aave v3 Multichain Stablecoin LT/LTV Reduction](./reports/v3-71-aave-v3-multichain-stablecoin-lt-ltv-reduction.md)  |
+| 72  | [Aave v2 Ethereum AMPL Upgrade And IR Update](./reports/v3-72-aave-v2-ethereum-ampl-upgrade-and-ir-update.md)  |
 
 <br>
 <br>
