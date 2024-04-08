@@ -76,6 +76,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 68  | [Aave v2 Polygon Reserve Factor updates](./reports/v3-68-aave-v2-polygon-reserve-factor-updates.md)  |
 | 69  | [Aave v2/v3 Multichain Stablecoin Interest Rate Update](./reports/v3-69-aave-v2-v3-multichain-stablecoin-ir-updates.md)  |
 | 70  | [Gov v3 a.DI Bridge Adapters Update](./reports/v3-70-gov-v3-aDI-bridge-adapters-update.md)  |
+| 71  | [Aave v3 Multichain Stablecoin LT/LTV Reduction](./reports/v3-71-aave-v3-multichain-stablecoin-lt-ltv-reduction.md)  |
+| 72  | [Aave v2 Ethereum AMPL Upgrade And IR Update](./reports/v3-72-aave-v2-ethereum-ampl-upgrade-and-ir-update.md)  |
 
 <br>
 <br>
