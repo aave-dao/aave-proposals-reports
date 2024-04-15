@@ -80,6 +80,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 72  | [Aave v2 Ethereum AMPL Upgrade And IR Update](./reports/v3-72-aave-v2-ethereum-ampl-upgrade-and-ir-update.md)  |
 | 73  | [Aave v2 Ethereum And Avalanche Reserve Factor Adjustment](./reports/v3-73-aave-v2-multichain-reserve-factor-adjusment.md)  |
 | 74  | [Aave v3 Ethereum weETH Onboarding](./reports/v3-74-aave-v3-ethereum-weETH-onboarding.md)  |
+| 75  | [Aave v2 Ethereum Interim aAMPL Distribution](./reports/v3-75-aave-v2-ethereum-interim-aAMPL-distribution.md)  |
 
 <br>
 <br>
