@@ -81,6 +81,10 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 73  | [Aave v2 Ethereum And Avalanche Reserve Factor Adjustment](./reports/v3-73-aave-v2-multichain-reserve-factor-adjusment.md)  |
 | 74  | [Aave v3 Ethereum weETH Onboarding](./reports/v3-74-aave-v3-ethereum-weETH-onboarding.md)  |
 | 75  | [Aave v2 Ethereum Interim aAMPL Distribution](./reports/v3-75-aave-v2-ethereum-interim-aAMPL-distribution.md)  |
+| 76  | [Aave v3 weETH Arbitrum onboarding](./reports/v3-76-aave-v3-arbitrum-weETH-onboarding.md)  |
+| 77  | [Aave v3 Ethereum Setting PYUSD Emission Admin](./reports/v3-77-aave-v3-ethereum-PYUSD-emissions-admin.md)  |
+| 78  | [Aave v3 Optimism Setting sUSD Emission Admin](./reports/v3-78-aave-v3-optimism-susd-emission-admin.md)  |
+| 79  | [Aave v3 Scroll Setting wstETH Emission Manager](./reports/v3-79-aave-v3-scroll-wstETH-emission-manager.md)  |
 
 <br>
 <br>
