@@ -88,6 +88,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 80  | [Aave v2 Multichain Temporary Freeze Of Long-Tail V2 Assets](./reports/v3-80-aave-v2-multichain-temporary-freeze-of-long-tail-v2-assets.md)  |
 | 81  | [Aave v2 Ethereum LT Reductions](./reports/v3-81-aave-v2-ethereum-lt-reductions.md)  |
 | 82  | [Aave v2 Set Price Cap Adapters](./reports/v3-82-aave-v2-multichain-set-price-cap-adapters.md)  |
+| 83  | [Aave v2 LayerZero Bridge Adapter Update](./reports/v3-83-gov-v3-LayerZero-bridge-adapter-update.md)  |
 | 84  | [Aave v3 Risk Parameter Updates - OP](./reports/v3-84-aave-v3-optimism-risk-parameter-updates-op.md)  |
 
 <br>
