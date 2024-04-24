@@ -90,6 +90,8 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 82  | [Aave v2 Set Price Cap Adapters](./reports/v3-82-aave-v2-multichain-set-price-cap-adapters.md)  |
 | 83  | [Aave v2 LayerZero Bridge Adapter Update](./reports/v3-83-gov-v3-LayerZero-bridge-adapter-update.md)  |
 | 84  | [Aave v3 Risk Parameter Updates - OP](./reports/v3-84-aave-v3-optimism-risk-parameter-updates-op.md)  |
+| 85  | [Chaos Labs Engagement Amendment](./reports/v3-85-chaos-labs-engagement-amendment.md)  |
+| 86  | [Aave v2 Ethereum Stable Debt Offboarding](./reports/v3-86-aave-v2-ethereum-stable-debt-offboarding.md)  |
 
 <br>
 <br>
