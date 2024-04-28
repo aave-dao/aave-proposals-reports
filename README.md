@@ -92,6 +92,11 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 84  | [Aave v3 Risk Parameter Updates - OP](./reports/v3-84-aave-v3-optimism-risk-parameter-updates-op.md)  |
 | 85  | [Chaos Labs Engagement Amendment](./reports/v3-85-chaos-labs-engagement-amendment.md)  |
 | 86  | [Aave v2 Ethereum Stable Debt Offboarding](./reports/v3-86-aave-v2-ethereum-stable-debt-offboarding.md)  |
+| 87  | [Aave v2+v3 Multichain Update Of Risk Parameters For DAI ](./reports/v3-87-aave-v2+v3-multichain-risk-parameters-for-DAI-update.md)  |
+| 88  | [Aave v3 Gnosis Risk Parameter Updates GNO](./reports/v3-88-aave-v3-gnosis-risk-parameter-updates-GNO.md)  |
+| 89  | [Aave v2 Ethereum And Avalanche Reserve Factor Updates](./reports/v3-89-aave-v2-multichain-reserve-factor-updates.md)  |
+| 90  | [Onboard Llamarisk as a Risk Provider](./reports/v3-90-onboard-Llamarisk-as-a-risk-provider.md)  |
+| 91  | [stkGHO Incentives](./reports/v3-91-stkGHO-incentives.md)  |
 
 <br>
 <br>
