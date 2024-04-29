@@ -1,7 +1,9 @@
-# Aave <> BGD. Governance reports :lock: :eyes: :ghost:
+# Aave Governance reports :lock: :eyes: :ghost:
 
 
-This repository is a public registry of all the Aave governance proposals verified and security-reviewed by BGD. It will be updated with new reports as proposals enter into the Aave governance voting process.
+This repository is a public registry of all the Aave governance proposals verified and security-reviewed by Aave DAO service providers. It will be updated with new reports as proposals enter into the Aave governance voting process.
+
+As of 29th April 2024, Certora is the service provider of the Aave DAO writing the reports, within their engagement for services formally approved [HERE](https://governance-v2.aave.com/governance/proposal/410/)
 
 <br>
 
@@ -434,4 +436,4 @@ This repository is a public registry of all the Aave governance proposals verifi
 <br>
 
 ### Copyright
-2023 BGD Labs
+2024 Aave DAO
