@@ -97,6 +97,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 89  | [Aave v2 Ethereum And Avalanche Reserve Factor Updates](./reports/v3-89-aave-v2-multichain-reserve-factor-updates.md)  |
 | 90  | [Onboard Llamarisk as a Risk Provider](./reports/v3-90-onboard-Llamarisk-as-a-risk-provider.md)  |
 | 91  | [stkGHO Incentives](./reports/v3-91-stkGHO-incentives.md)  |
+| 93  | [aAMPL Second Distribution](./reports/v3-93-aAMPL-second-distribution.md)  |
 
 <br>
 <br>
