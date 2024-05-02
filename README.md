@@ -102,6 +102,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 92  | [Hyperlane Bridge Adapter Update](./reports/v3-92-gov-v3-hyperlane-bridge-adapter-update.md)  |
 | 93  | [aAMPL Second Distribution](./reports/v3-93-aAMPL-second-distribution.md)  |
 | 94  | [Stablecoin Interest Rate Updates](./reports/v3-94-aave-v2+v3-multichain-stablecoin-interest-rate-updates.md)  |
+| 95  | [Updating weETH Risk Parameters](./reports/v3-95-aave-v3-ethereum-updating-weETH-risk-parameters.md)  |
+| 96  | [Polygon V2 Reserve Factor Updates And Interest Rate Increases](./reports/v3-96-aave-v2-polygon-reserve-factor-updates-and-interest-rate-increases.md)  |
 
 <br>
 <br>
