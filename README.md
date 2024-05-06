@@ -104,6 +104,7 @@ This repository is a public registry of all the Aave governance proposals verifi
 | 96  | [Aave v2 Polygon Reserve Factor Updates And Interest Rate Increases](./reports/v3-96-aave-v2-polygon-reserve-factor-updates-and-interest-rate-increases.md)  |
 | 97  | [Aave v3.1 Cantina competition](./reports/v3-97-aave-v3.1-Cantina-competition.md)  |
 | 98  | [Aave v1 Deprecation Phase 3](./reports/v3-98-aave-v1-deprecation-phase-3.md)  |
+| 99  | [ACI Ad Astra](./reports/v3-99-ACI-Ad-Astra.md)  |
 
 <br>
 <br>
