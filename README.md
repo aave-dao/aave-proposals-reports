@@ -101,9 +101,11 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 91  | [stkGHO Incentives](./reports/v3-91-stkGHO-incentives.md)  |
 | 92  | [Hyperlane Bridge Adapter Update](./reports/v3-92-gov-v3-hyperlane-bridge-adapter-update.md)  |
 | 93  | [aAMPL Second Distribution](./reports/v3-93-aAMPL-second-distribution.md)  |
-| 94  | [Stablecoin Interest Rate Updates](./reports/v3-94-aave-v2+v3-multichain-stablecoin-interest-rate-updates.md)  |
-| 95  | [Updating weETH Risk Parameters](./reports/v3-95-aave-v3-ethereum-updating-weETH-risk-parameters.md)  |
-| 96  | [Polygon V2 Reserve Factor Updates And Interest Rate Increases](./reports/v3-96-aave-v2-polygon-reserve-factor-updates-and-interest-rate-increases.md)  |
+| 94  | [Aave v2+v3 Multichain Stablecoin Interest Rate Updates](./reports/v3-94-aave-v2+v3-multichain-stablecoin-interest-rate-updates.md)  |
+| 95  | [Aave v3 Ethereum Updating weETH Risk Parameters](./reports/v3-95-aave-v3-ethereum-updating-weETH-risk-parameters.md)  |
+| 96  | [Aave v2 Polygon Reserve Factor Updates And Interest Rate Increases](./reports/v3-96-aave-v2-polygon-reserve-factor-updates-and-interest-rate-increases.md)  |
+| 97  | [Aave v3.1 Cantina competition](./reports/v3-97-aave-v3.1-Cantina-competition.md)  |
+| 98  | [Aave v1 Deprecation Phase 3](./reports/v3-98-aave-v1-deprecation-phase-3.md)  |
 
 <br>
 <br>
