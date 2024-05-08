@@ -107,6 +107,9 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 97  | [Aave v3.1 Cantina competition](./reports/v3-97-aave-v3.1-Cantina-competition.md)  |
 | 98  | [Aave v1 Deprecation Phase 3](./reports/v3-98-aave-v1-deprecation-phase-3.md)  |
 | 99  | [ACI Ad Astra](./reports/v3-99-ACI-Ad-Astra.md)  |
+| 100  | [Aave v3 Multichain Generalized LT/LTV Reductions - Step 2](./reports/v3-100-aave-v3-multichain-generalized-lt-and-ltv-reductions-step-2.md)  |
+| 102  | [Aave v2 Ethereum And Avalanche Reserve Factor Updates](./reports/v3-102-aave-v2-multichain-reserve-factor-upgrades.md)  |
+| 104  | [Aave v3 Ethereum osETH Onboarding](./reports/v3-104-aave-v3-ethereum-osETH-onboarding.md)  |
 
 <br>
 <br>
