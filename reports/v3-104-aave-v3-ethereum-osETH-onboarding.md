@@ -1,4 +1,4 @@
-# Proposal 74. osETH Onboarding On Ethereum.
+# Proposal 104. osETH Onboarding On Ethereum.
 
 <br>
 
