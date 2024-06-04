@@ -116,9 +116,11 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 107  | [Aave v3 Optimism SUSD Parameters Change](./reports/v3-107-aave-v3-optimism-susd-parameter-updates.md)  |
 | 108  | [Aave v2 Multichain LT/LTV Reductions of Stablecoins](./reports/v3-108-aave-v2-multichain-lt-and-ltv-reductions-stablecoins.md)  |
 | 109  | [Aave Migrate Robots to Chainlink Automation v2](./reports/v3-109-migrate-robots-to-chainlink-automation-v2.md)  |
-| 110  | [Aave v3 Base weETH Onboarding](./reports/v3-110-aave-v3-base-weETH-onboarding.md)  |
+| 110  | [Aave V3 Base weETH Onboarding](./reports/v3-110-aave-v3-base-weETH-onboarding.md)  |
 | 111  | [Aave v2 Ethereum And Avalanche Reserve Factor Updates](./reports/v3-111-aave-v2-multichain-reserve-factor-upgrades.md)  |
 | 112  | [Orbit Program Renewal](./reports/v3-112-orbit-program-renewal.md)  |
+| 113  | [Aave V3 Ethereum USDe Onboarding](./reports/v3-113-aave-v3-ethereum-USDe-onboarding.md)  |
+| 114  | [Aave V3 Optimism sUSD Risk Parameters Update](./reports/v3-114-aave-v3-optimism-sUSD-risk-parameters-update.md)  |
 
 <br>
 <br>
