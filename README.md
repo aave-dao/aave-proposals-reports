@@ -122,6 +122,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 113  | [Aave V3 Ethereum USDe Onboarding](./reports/v3-113-aave-v3-ethereum-USDe-onboarding.md)  |
 | 114  | [Aave V3 Optimism sUSD Risk Parameters Update](./reports/v3-114-aave-v3-optimism-sUSD-risk-parameters-update.md)  |
 | 115  | [Aave V3 April Finance Update Part B](./reports/v3-115-aave-v3-april-finance-update-part-b.md)  |
+| 116  | [Gho Steward Update](./reports/v3-116-gho-steward-update.md)  |
 
 <br>
 <br>
