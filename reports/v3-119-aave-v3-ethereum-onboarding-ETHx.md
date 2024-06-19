@@ -1,4 +1,4 @@
-# Proposal 113. Onboard USDe Aave V3 Ethereum.
+# Proposal 119. Onboarding ETHx to Aave V3 Ethereum.
 
 <br>
 
