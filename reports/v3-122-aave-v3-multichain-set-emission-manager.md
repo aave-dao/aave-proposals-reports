@@ -18,7 +18,7 @@
 
 * Ethereum - [proposal payloads](https://etherscan.io/address/0xBb615C054A50D73aA60F1C5b9aB1Ffc0CD03c506#code#F1#L17)
 
-* Avalanche - [proposal payloads](https://arbiscan.io/address/0x443Cf2c974c5b63f8173296431207996010841D9#code#F1#L22)
+* Arbitrum - [proposal payloads](https://arbiscan.io/address/0x443Cf2c974c5b63f8173296431207996010841D9#code#F1#L22)
 
 <br>
 
@@ -28,7 +28,7 @@
 
 ### Proposal types
 
-:wrench: :bar_chart: configuration update
+:handshake: permission granting or revoking
 
 <br>
 
