@@ -131,6 +131,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 122  | [Aave V3 Multichain Set Emission Manager](./reports/v3-122-aave-v3-multichain-set-emission-manager.md)  |
 | 123  | [Aave V3 Avalanche Set Emission Manager](./reports/v3-123-aave-v3-avalanche-set-emission-manager.md)  |
 | 124  | [Aave V3 Onboarding sUSDe to Aave V3 Ethereum](./reports/v3-124-aave-v3-ethereum-onboarding-sUSDe.md)  |
+| 125  | [GHO Cross-Chain - Part 2](./reports/v3-125-aave-v3-arbitrum-gho-cross-chain-part-2.md)  |
 
 <br>
 <br>
