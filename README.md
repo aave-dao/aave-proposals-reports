@@ -133,7 +133,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 124  | [Aave V3 Onboarding sUSDe to Aave V3 Ethereum](./reports/v3-124-aave-v3-ethereum-onboarding-sUSDe.md)  |
 | 125  | [GHO Cross-Chain - Part 2](./reports/v3-125-aave-v3-arbitrum-gho-cross-chain-part-2.md)  |
 | 126  | [Aave labs engagement](./reports/v3-126-AL-Service-Provider-Proposal.md)  |
-| 127  | [Increase Bridged USDC Reserve Factor Across All Deployments](./reports/v3-127-aave-v3-multichain-Increase Bridged-USDC-Reserve-Factor-Across-All-Deployments.md)  |
+| 127  | [Increase Bridged USDC Reserve Factor Across All Deployments](./reports/v3-127-aave-v3-multichain-Increase-Bridged-USDC-Reserve-Factor-Across-All-Deployments.md)  |
+| 128  | [Request for Bounty Payout - June 2024](./reports/v3-128-request-for-bounty-payout-june-2024.md)  |
 
 <br>
 <br>
