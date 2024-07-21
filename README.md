@@ -136,6 +136,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 127  | [Increase Bridged USDC Reserve Factor Across All Deployments](./reports/v3-127-aave-v3-multichain-Increase-Bridged-USDC-Reserve-Factor-Across-All-Deployments.md)  |
 | 128  | [Request for Bounty Payout - June 2024](./reports/v3-128-request-for-bounty-payout-june-2024.md)  |
 | 129  | [Aave V3 Base Increase weETH Caps on Base](./reports/v3-129-aave-v3-base-increase-weETH-caps-on-base.md)  |
+| 130  | [Aave V2+V3 Multichain Interest Rate Strategy Update](./reports/v3-130-aave-v2-v3-multichain-interest-rate-update.md)  |
 
 
 <br>
