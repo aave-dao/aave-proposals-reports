@@ -138,6 +138,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 129  | [Aave V3 Base Increase weETH Caps on Base](./reports/v3-129-aave-v3-base-increase-weETH-caps-on-base.md)  |
 | 130  | [Aave V2+V3 Multichain Interest Rate Strategy Update](./reports/v3-130-aave-v2-v3-multichain-interest-rate-update.md)  |
 | 131  | [Aave V3 Multichain Increase CCIP Facilitator Capacity](./reports/v3-131-aave-v3-multichain-increase-ccip-facilitator-capacity.md)  |
+| 132  | [Aave v3.1 upgrade](./reports/v3-132-multichain-aave-v3.1-upgrade.md)  |
 
 <br>
 <br>
