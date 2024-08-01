@@ -140,6 +140,11 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 131  | [Aave V3 Multichain Increase CCIP Facilitator Capacity](./reports/v3-131-aave-v3-multichain-increase-ccip-facilitator-capacity.md)  |
 | 132  | [Aave v3.1 upgrade](./reports/v3-132-multichain-aave-v3.1-upgrade.md)  |
 | 133 | [Aave V3 Lido Ethereum Instance Activation](./reports/v3-133-aave-v3-lido-ethereum-instance-activation.md)  |
+| 135 | [Treasury Tooling Payment](./reports/v3-135-treasury-tooling-payment.md)  |
+| 136 | [Events Grant 2024](./reports/v3-136-events-grant-2024.md)  |
+| 137 | [Aave V3 Lido Ethereum wETH LTV0 Instance](./reports/v3-137-aave-v3-ethereumlido-wETH-ltv0-instance.md)  |
+| 138 | [Aave V3 Avalanche Risk Parameter Updates - sAVAX](./reports/v3-138-aave-v3-avalanche-risk-parameter-updates-sAVAX.md)  |
+| 139 | [Aave V3 Gnosis Onboard USDC.e](./reports/v3-139-aave-v3-gnosis-onboard-USDCe.md)  |
 
 <br>
 <br>
