@@ -146,6 +146,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 138 | [Aave V3 Avalanche Risk Parameter Updates - sAVAX](./reports/v3-138-aave-v3-avalanche-risk-parameter-updates-sAVAX.md)  |
 | 139 | [Aave V3 Gnosis Onboard USDC.e](./reports/v3-139-aave-v3-gnosis-onboard-USDCe.md)  |
 | 140 | [Aave V3 Scroll Onboard weETH](./reports/v3-140-aave-v3-scroll-onboard-weETH.md)  |
+| 141 | [Aave V3 Arbitrum Increase Gho Bridge Limit And Caps](./reports/v3-141-aave-v3-arbitrum-gho-bridge-limit-and-caps-increase.md)  |
 
 <br>
 <br>
