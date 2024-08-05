@@ -132,7 +132,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 123  | [Aave V3 Avalanche Set Emission Manager](./reports/v3-123-aave-v3-avalanche-set-emission-manager.md)  |
 | 124  | [Aave V3 Onboarding sUSDe to Aave V3 Ethereum](./reports/v3-124-aave-v3-ethereum-onboarding-sUSDe.md)  |
 | 125  | [GHO Cross-Chain - Part 2](./reports/v3-125-aave-v3-arbitrum-gho-cross-chain-part-2.md)  |
-| 126  | [Aave labs engagement](./reports/v3-126-AL-Service-Provider-Proposal.md)  |
+| 126  | [Aave Labs Engagement](./reports/v3-126-AL-Service-Provider-Proposal.md)  |
 | 127  | [Increase Bridged USDC Reserve Factor Across All Deployments](./reports/v3-127-aave-v3-multichain-Increase-Bridged-USDC-Reserve-Factor-Across-All-Deployments.md)  |
 | 128  | [Request for Bounty Payout - June 2024](./reports/v3-128-request-for-bounty-payout-june-2024.md)  |
 | 129  | [Aave V3 Base Increase weETH Caps on Base](./reports/v3-129-aave-v3-base-increase-weETH-caps-on-base.md)  |
@@ -147,6 +147,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 139 | [Aave V3 Gnosis Onboard USDC.e](./reports/v3-139-aave-v3-gnosis-onboard-USDCe.md)  |
 | 140 | [Aave V3 Scroll Onboard weETH](./reports/v3-140-aave-v3-scroll-onboard-weETH.md)  |
 | 141 | [Aave V3 Arbitrum Increase Gho Bridge Limit And Caps](./reports/v3-141-aave-v3-arbitrum-gho-bridge-limit-and-caps-increase.md)  |
+| 142 | [Karpatkey And TokenLogic Phase 2 Engagement](./reports/v3-142-karpatkey-tokenlogic-phase-2-engagement.md)  |
 
 <br>
 <br>
