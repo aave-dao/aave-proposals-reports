@@ -148,6 +148,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 140 | [Aave V3 Scroll Onboard weETH](./reports/v3-140-aave-v3-scroll-onboard-weETH.md)  |
 | 141 | [Aave V3 Arbitrum Increase Gho Bridge Limit And Caps](./reports/v3-141-aave-v3-arbitrum-gho-bridge-limit-and-caps-increase.md)  |
 | 142 | [Karpatkey And TokenLogic Phase 2 Engagement](./reports/v3-142-karpatkey-tokenlogic-phase-2-engagement.md)  |
+| 143 | [ADI Shuffle Update](./reports/v3-143-aDI-shuffle-update.md)  |
 
 <br>
 <br>
