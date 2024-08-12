@@ -153,6 +153,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 145 | [Aave V3 Multichain Reduce Reserve Factor on wstETH](./reports/v3-145-aave-v3-multichain-reduce-reserve-factor-on-wstETH.md)  |
 | 146 | [May Funding Update](./reports/v3-146-may-funding-update.md)  |
 | 147 | [Reserve Factor Updates Mid July](./reports/v3-147-aave-v2+v3-multichain-reserve-factor-updates-mid-july.md)  |
+| 148 | [a.DI ZkSync path activation](./reports/v3-148-aave-v3-ZKSync-register-bridge-adapters-ZKSynch.md)  |
+| 149 | [Update PoR Executor V3 Robot](./reports/v3-149-aave-v3-avalanche-update-PoR-robot-executor.md)  |
 
 <br>
 <br>
