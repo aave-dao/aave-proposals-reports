@@ -156,6 +156,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 148 | [a.DI ZkSync path activation](./reports/v3-148-aave-v3-ZKSync-register-bridge-adapters-ZKSynch.md)  |
 | 149 | [Update PoR Executor V3 Robot](./reports/v3-149-aave-v3-avalanche-update-PoR-robot-executor.md)  |
 | 150 | [Merit Base Incentives and Superfest Matching](./reports/v3-150-aave-v3-base-merit-incentives-superfest-matching.md)  |
+| 151 | [GHO borrow rate update](./reports/v3-151-aave-v3-ethereum-GHO-borrow-rate-update.md)  |
 
 <br>
 <br>
