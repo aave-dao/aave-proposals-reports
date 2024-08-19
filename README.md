@@ -159,6 +159,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 151 | [GHO borrow rate update](./reports/v3-151-aave-v3-ethereum-GHO-borrow-rate-update.md)  |
 | 152 | [Enable Metis as collateral](./reports/v3-152-aave-v3-metis-enable-metis-as-collateral.md)  |
 | 153 | [zkSync Activation](./reports/v3-153-aave-v3-zksync-activation.md)  |
+| 154 | [Multichain Reserve Factor Updates August](./reports/v3-154-aave-v2-multichain-reserve-factor-updates-august.md)  |
+
 
 <br>
 <br>
