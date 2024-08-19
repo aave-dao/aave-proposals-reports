@@ -37,7 +37,7 @@ This proposal enables Metis token as collateral on Aave V3 withing the Metis Cha
 
 ### Proposal creation
 
-Transaction: [https://explorer.metis.io/tx/0x4ff18f8f61801948a1a1b383d9c653ea3e4189b747e756b42c4459153a1da3d1](https://explorer.metis.io/tx/0x4ff18f8f61801948a1a1b383d9c653ea3e4189b747e756b42c4459153a1da3d1)
+Transaction: [https://etherscan.io/tx/0x1ee8e13e5af3426a2dea4e4b3be56c1e8041af88083fd64053cf64812f2debae](https://etherscan.io/tx/0x1ee8e13e5af3426a2dea4e4b3be56c1e8041af88083fd64053cf64812f2debae)
 
 ```
 - proposalId: 152

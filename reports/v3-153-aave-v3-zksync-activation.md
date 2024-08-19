@@ -42,7 +42,7 @@ This proposal deploys Aave V3 on zkSync to leverage the scalability and cost-eff
 
 ### Proposal creation
 
-Transaction: [https://era.zksync.network//tx/0xdd46911b409d56cccd0461a01d8c84ac0437ce739e30ceeacb7e3dd55a088929](https://era.zksync.network//tx/0xdd46911b409d56cccd0461a01d8c84ac0437ce739e30ceeacb7e3dd55a088929)
+Transaction: [https://etherscan.io/tx/0x189e1f308b9867086c18d42007368efdd31e946066198b120b6f721953309860](https://etherscan.io/tx/0x189e1f308b9867086c18d42007368efdd31e946066198b120b6f721953309860)
 
 ```
 - proposalId: 153
