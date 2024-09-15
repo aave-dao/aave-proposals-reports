@@ -168,6 +168,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 160 | [Aave V2+V3 Multichain Reserve Factor & Slope1 Update](./reports/v3-160-aave-v2+v3-multichain-reserver-factor-slope1-update.md)  |
 | 161 | [Aave V3 Multichain Supply and Borrow Cups Decrease](./reports/v3-161-aave-v3-multichain-supply-borrow-cup-decrease.md)  |
 | 162 | [Orbit Program Renewal - Q3 2024](./reports/v3-162-orbit-program-renewal-Q3-2024.md)  |
+| 163 | [Aave V3 Multichain weETH Parameters Configuration](./reports/v3-163-aave-v3-multichain-weETH-parameters-configuration.md)  |
+
 
 
 
