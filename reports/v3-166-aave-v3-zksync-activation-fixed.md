@@ -16,7 +16,7 @@
 
 ### Payloads
 
-* zkSync - [proposal payloads](https://era.zksync.network//address/0x14A2aBb02E5C5fA9890ae831A7EAdAc7846923c3#code#F1#L72)
+* zkSync - [proposal payloads](https://era.zksync.network//address/0x14A2aBb02E5C5fA9890ae831A7EAdAc7846923c3#code#F1#L1)
 
 <br>
 
@@ -80,6 +80,7 @@ Transaction: [https://etherscan.io/tx/0xb3e30ec738bff9bfbbf15aea1bca0cac34bbf9e1
 
 **Payload reports**
 
+* zkSync - [https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/payloads/324/0x2E79349c3F5e4751E87b966812C9E65E805996F1/4_forge.md](https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/payloads/324/0x2E79349c3F5e4751E87b966812C9E65E805996F1/4_forge.md)
 
 <br>
 
