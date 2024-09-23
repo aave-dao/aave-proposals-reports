@@ -16,9 +16,9 @@
 
 ### Payloads
 
-* Ethereum - [proposal payloads](https://etherscan.io/address/0x9edaC3Ce0Fc919f792d3B72D767d22FD382Faf21#code#F1#L33)
+* Ethereum - [proposal payloads](https://etherscan.io/address/0x9edaC3Ce0Fc919f792d3B72D767d22FD382Faf21#code#F1#L1)
 
-* Base - [proposal payloads](https://basescan.org/address/0x8C97eC66De2A0167fF1048E4D9A77E90067c98eb#code#F1#L37)
+* Base - [proposal payloads](https://basescan.org/address/0x8C97eC66De2A0167fF1048E4D9A77E90067c98eb#code#F1#L1)
 
 
 <br>

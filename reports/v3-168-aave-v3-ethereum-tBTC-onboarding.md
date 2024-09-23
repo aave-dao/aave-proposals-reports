@@ -16,7 +16,7 @@
 
 ### Payloads
 
-* Ethereum - [proposal payloads](https://etherscan.io/address/0x785c44862ed5026Bbe4DcD1f7103b1D30cBf7cBa#code#F1#L37)
+* Ethereum - [proposal payloads](https://etherscan.io/address/0x785c44862ed5026Bbe4DcD1f7103b1D30cBf7cBa#code#F1#L1)
 
 <br>
 
@@ -41,10 +41,10 @@ The proposal aims to onboard Threshold Network’s tBTC, to the Aave v3 protocol
 Transaction: [https://etherscan.io/tx/0xea7d8a468ba6501eb80c0c6d6ef1f0e0e84413c90347d3c201c43d7174752c69](https://etherscan.io/tx/0xea7d8a468ba6501eb80c0c6d6ef1f0e0e84413c90347d3c201c43d7174752c69)
 
 ```
-- proposalId: 169
+- proposalId: 168
 - creator: 0x57ab7ee15ce5ecacb1ab84ee42d5a9d0d8112922
 - accessLevel: 1
-- ipfsHash: 0x81a5fdd7fab7ee5b45231af1b8934dea3a93ce530575bcce16dc7bb74691b6c7
+- ipfsHash: 0xc6a9b3c0acd8996082cfea92cb8b8bd150f68425ad355909539311f710b8c40f
 ```
 
 <br>
