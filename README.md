@@ -175,6 +175,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 168 | [Aave v3 Ethereum tBTC Onboarding](./reports/v3-168-aave-v3-ethereum-tBTC-onboarding.md)  |
 | 169 | [Aave v3 Ethereum and Base cbBTC Onboarding](./reports/v3-169-aave-v3-ethereum-base-cbBTC-onboarding.md)  |
 | 170 | [Aave v2 + v3 Multichain Reserve Factor Updates Late September](./reports/v3-170-aave-v2+v3-multichain-reserve-factor-updates-late-september.md)  |
+| 172 | [Aave v3 Avalanche Chaos Labs Risk Parameter Updates - sAVAX LT/LTV Adjustment](./reports/v3-172-aave-v3-avalanche-chaos-labs-risk-parameter-updates-sAVAX-lt-and-ltv-adjustment.md)  |
 
 
 
