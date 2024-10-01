@@ -178,7 +178,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 171 | [Aave v3 Ethereum Set ACI as Emission Manager for wstETH & tBTC on Ethereum Mainet and Lido Instances](./reports/v3-171-aave-v3-ethereum-lido-aci-emission-manager-wstETH-tBTC.md)  |
 | 172 | [Aave v3 Avalanche Chaos Labs Risk Parameter Updates - sAVAX LT/LTV Adjustment](./reports/v3-172-aave-v3-avalanche-chaos-labs-risk-parameter-updates-sAVAX-lt-and-ltv-adjustment.md)  |
 | 173 | [Aave v3 Multichain Chaos Labs Risk Parameter Updates - LTV and LT Alignment](./reports/v3-173-aave-v3-multichain-chaos-labs-risk-parameter-updates-ltv-and-lt-alignment.md)  |
-| 174 | [Aave v3 Multichain Upadte Flash Borrowers addresses](./reports/v3-174-aave-v3-multichain-update-flash-borrowers-.md)  |
+| 174 | [Aave v3 Multichain Update Flash Borrowers addresses](./reports/v3-174-aave-v3-multichain-update-flash-borrowers-.md)  |
+| 175 | [Aave v3 Ethereum and EthereumLido USDS onboarding](./reports/v3-175-aave-v3-Ethereum-and-EthereumLido-onboard-USDS.md)  |
 
 
 
