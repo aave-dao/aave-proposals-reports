@@ -185,6 +185,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 178 | [v3.20 Upgrade to Liquid EMode and StableDebt Removel](./reports/v3-178-aave-v3-multichain-v3.20-upgrade-liquid-EMode.md)  |
 | 179 | [Onboard USDC to Aave V3 Lido Instance](./reports/v3-179-ALC-funding-phase-IV.md)  |
 | 180 | [May Funding Update part B](./reports/v3-180-may-funding-part-B.md)  |
+| 181 | [Aave v3 Multichain Increase cbBTC Supply Caps](./reports/v3-181-aave-v3-multichain-cbBTC-supply-cap-update.md)  |
+| 182 | [Aave v3 Multichain 3.2 patch for legacy periphery](./reports/v3-182-aave-v3-multichain-3.2-patch-for-legacy-periphery.md)  |
 
 
 <br>
