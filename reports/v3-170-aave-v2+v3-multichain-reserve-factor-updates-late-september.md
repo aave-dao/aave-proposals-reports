@@ -24,7 +24,9 @@
 
 * Ethereum - [proposal payloads](https://etherscan.io/address/0xb62695372eAC5134a330AB0Aa6C22cdCB93Da051#code#F1#L1)
 
-* Polygon - [proposal payloads](https://polygonscan.com/address/0xf7179bD6a888BfC14710241EFe706A576e3AFEe1#code#F1#L1)
+* Polygon V2 - [proposal payloads](https://polygonscan.com/address/0xf7179bD6a888BfC14710241EFe706A576e3AFEe1#code#F1#L1)
+
+* Polygon V3 - [proposal payloads](https://polygonscan.com/address/0xf85470e83254426C7d7C945058E1Bf7250BaAbAa#code#F1#L1)
 
 * Avalanche - [proposal payloads](https://snowtrace.io/address/0xd5E1876D6bFe791f24Cf4302C21B76946Bcc1819/contract/43114/code)
 
