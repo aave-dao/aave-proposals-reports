@@ -193,6 +193,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 186 | [Chaos Labs <> Aave Risk Management Service Renewal](./reports/v3-186-chaos-labs-aave-risk-management-service-renewal.md)  |
 | 188 | [Aave v2 + v3 Multichain Reserve Factor Updates Mid October](./reports/v3-188-aave-v2+v3-multichain-reserve-factor-updates-mid-october.md)  |
 | 189 | [Aave v3 EthereumLido wstETH Slope1 & Uoptimal Update](./reports/v3-189-aave-v3-ethereumLido-wstETH-slope1-and-uoptimal-update.md)  |
+| 190 | [Aave v3 Renew Certora as a Security Service Provider](./reports/v3-190-renew-certora-security-services.md)  |
 
 
 <br>
