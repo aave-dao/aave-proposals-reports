@@ -71,11 +71,11 @@ Transaction: [https://etherscan.io/tx/0x3a393f0e74ef2049b1f81902905a1107cca2c394
 
 **Proposal report**
 
-[https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/proposals/191.md](https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/proposals/191.md)
+[https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/proposals/195.md](https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/proposals/191.md)
 
 **Payload reports**
 
-* EthereumLIdo - [https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/payloads/1/0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5/198.md](https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/payloads/1/0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5/198.md)
+* BNB Chain - [https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/payloads/56/0xE5EF2Dd06755A97e975f7E282f828224F2C3e627/26.md](https://github.com/bgd-labs/seatbelt-gov-v3/blob/main/reports/payloads/56/0xE5EF2Dd06755A97e975f7E282f828224F2C3e627/26.md)
 
 <br>
 
