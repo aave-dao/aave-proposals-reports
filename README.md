@@ -204,6 +204,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 198 | [Aave v3 GHO CCIP Integration Maintenance](./reports/v3-198-aave-v3-Ethereum-and-Arbitrum-GHO-CCIP-maintenance.md)  |
 | 199 | [Aave v3 stkAAVE - Re-enable Rewards](./reports/v3-199-aave-v3-Ethereum-reenable-rewards-stkAAVE.md)  |
 | 201 | [Aave v3 PYUSD Campaign](./reports/v3-201-aave-v3-Ethereum-PYUSD-campaign.md)  |
+| 202 | [Aave v3 wstETH Reserve Borrow Rate Update](./reports/v3-202-aave-v3-Ethereum-wstETH-reserve-borrow-rate-update.md)  |
 
 
 
