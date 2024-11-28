@@ -1,4 +1,4 @@
-# Proposal 202. Onboard and Enable sUSDe liquid E-Mode on Aave v3 Mainnet and Lido Instances
+# Proposal 204. Onboard and Enable sUSDe liquid E-Mode on Aave v3 Mainnet and Lido Instances
 
 
 <br>
