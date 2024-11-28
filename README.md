@@ -208,6 +208,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 202 | [Aave v3 wstETH Reserve Borrow Rate Update](./reports/v3-202-aave-v3-Ethereum-wstETH-reserve-borrow-rate-update.md)  |
 | 204 | [Aave v3 Onboard and Enable sUSDe liquid E-Mode](./reports/v3-204-aave-v3-EthereumLido-sUSDe-onboarding-and-Ethtereum-new-Emode.md)  |
 | 205 | [Aave v3 Onboard rsETH to V3 Ethereum](./reports/v3-205-aave-v3-Ethereum-onboard-rsETH.md)  |
+| 205 | [Aave v3 Enable sUSDe/USDT Liquid E-Mode on Core Instance](./reports/v3-206-aave-v3-Ethereum-sUSDe-USDT-liquid-emode.md)  |
 
 
 
