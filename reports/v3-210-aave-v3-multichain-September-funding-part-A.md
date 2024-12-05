@@ -19,11 +19,11 @@
 
 * Ethereum - [proposal payloads](https://etherscan.io/address/0xC554058d890d7faaa98A55649fbE9E727ff74C18#code)
 
-* Polygon - [proposal payloads](https://etherscan.io/address/0x44E02610ad4ae33d7D199E51e982201C5E389c3A#code)
+* Polygon - [proposal payloads](https://polygonscan.com/address/0x44E02610ad4ae33d7D199E51e982201C5E389c3A)
 
-* Optimism - [proposal payloads](https://etherscan.io/address/0x22765bC8B8997d24d47282FaB164279eDd9a39Ed#code)
+* Optimism - [proposal payloads](https://optimistic.etherscan.io/address/0x22765bC8B8997d24d47282FaB164279eDd9a39Ed#code)
 
-* Arbitrum - [proposal payloads](https://etherscan.io/address/0x24C5ae65Ec7921F6F8A5Be79D458000250E5A89b#code)
+* Arbitrum - [proposal payloads](https://arbiscan.io/address/0x24C5ae65Ec7921F6F8A5Be79D458000250E5A89b#code)
 
 <br>
 
