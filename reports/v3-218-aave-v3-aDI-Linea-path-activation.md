@@ -15,7 +15,6 @@
 ## Certora Analysis
 
 ### Proposal Types
-{**TODO: Choose types from the following list.**}
 
 * :handshake: Permission granting and revoking
 
