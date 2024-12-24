@@ -225,6 +225,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 220 | [Aave v3 Orbit Program Renewal - Q4 2024](./reports/v3-220-aave-v3-orbit-program-renewal-q4-2024.md)  |
 | 221 | [Aave v3 Onboard AUSD](./reports/v3-221-aave-v3-AUSD-onboarding.md)  |
 | 222 | [Aave v3 TokenLogic Financial Service Provider](./reports/v3-222-aave-v3-tokenlogic-service-provider.md)  |
+| 223 | [Aave v3 USDS Interest Rate Curve Update](./reports/v3-223-aave-v3-USDS-ir-curve-update.md)  |
 
 
 
