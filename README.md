@@ -228,6 +228,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 223 | [Aave v3 USDS Interest Rate Curve Update](./reports/v3-223-aave-v3-Ethereum-prime-core-USDS-ir-curve-update.md)  |
 | 224 | [Aave v3 weETH Risk Parameter Adjustment](./reports/v3-224-aave-v3-Ethereum-weETH-risk-paramter-adjustment.md)  |
 | 225 | [Aave v3 Remove USDS from sUSDe Liquid E-Mode](./reports/v3-225-aave-v3-Ethereum-prime-core-removal-USDS-from-sUSDe-emode.md)  |
+| 226 | [Aave v3 Gnosis Instance Updates Part 1](./reports/v3-226-aave-v3-Gnosis-instance-update-part-1.md)  |
 
 
 
