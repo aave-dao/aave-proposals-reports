@@ -230,7 +230,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 225 | [Aave v3 Remove USDS from sUSDe Liquid E-Mode](./reports/v3-225-aave-v3-Ethereum-prime-core-removal-USDS-from-sUSDe-emode.md)  |
 | 226 | [Aave v3 Gnosis Instance Updates Part 1](./reports/v3-226-aave-v3-Gnosis-instance-update-part-1.md)  |
 | 227 | [Aave v3 Ethereum Lido Instance Direct Gho Mint](./reports/v3-227-aave-v3-Ethereum-Lido-direct-gho-mint.md)  |
-| 228 | [Aave v3 Ethereum Sherlock Contest Payment](./reports/v3-228-Ethereum-sherlock-contest-payment.md)  |
+| 228 | [Aave v3 Ethereum Sherlock Contest Payment](./reports/v3-228-aave-v3-Ethereum-sherlock-contest-payment.md)  |
+| 229 | [Aave v3 Ethereum Karpatkey as GHO Growth Service Provider](./reports/v3-229-aave-v3-Ethereum-karpatkey-GHO-growth-SP.md)  |
 
 
 
