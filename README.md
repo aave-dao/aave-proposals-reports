@@ -235,6 +235,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 230 | [Aave v3 Base Arbitrum Onboard ezETH](./reports/v3-230-aave-v3-multichain-ezETH-onboarding.md)  |
 | 231 | [Aave v3 ZkSync onboarding weETH and sUSDe](./reports/v3-231-aave-v3-Zksync-onboard-weETH-and-sUSDe.md)  |
 | 232 | [a.DI Celo path activation](./reports/v3-232-aave-v3-Ethereum-register-bridge-adapters-Celo.md)  |
+| 233 | [Aave v3 Ethereum Onboard LBTC & Enable LBTC/WBTC liquid E-Mode](./reports/v3-233-aave-v3-Ethereum-LBTC-onboarding.md)  |
 
 
 
