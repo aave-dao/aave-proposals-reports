@@ -238,6 +238,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 233 | [Aave v3 Ethereum Onboard LBTC & Enable LBTC/WBTC liquid E-Mode](./reports/v3-233-aave-v3-Ethereum-LBTC-onboarding.md)  |
 | 234 | [Aave v3 Ethereum Update Lido GHO base borrow rate](./reports/v3-234-aave-v3-Ethereum-GHO-base-borrow-rate-update.md)  |
 | 235 | [Aave v3 Ethereum Set REZ, KERNEL, rsETH Emission Admin to ACI](./reports/v3-235-aave-v3-Ethereum-emission-admin-setting.md)  |
+| 236 | [Aave v3 multichain GHO Risk Stewards Update and GHO CCIP Integration Upgrade](./reports/v3-236-aave-v3-multichian-GHO-CCIP-1.5.1-upgrade.md)  |
 
 
 
