@@ -243,6 +243,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 239 | [Aave v3 multichain Collector upgrade](./reports/v3-239-aave-v3-multichain-collector-upgrade.md)  |
 | 240 | [Aave v3 multichain GHO Base Launch](./reports/v3-240-aave-v3-multichain-GHO-Base-launch.md)  |
 | 241 | [Aave v3 polygon stMATIC freeze](./reports/v3-241-aave-v3-polygon-stMATIC-freeze.md)  |
+| 243 | [Aave v3 Ethereum + Gnosis  Allow Balancer To Claim Mining Rewards](./reports/v3-243-aave-v3-Ethereum+Gnosis-balancer-claiming-rewards.md)  |
 
 
 
