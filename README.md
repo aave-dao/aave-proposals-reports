@@ -245,6 +245,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 241 | [Aave v3 polygon stMATIC freeze](./reports/v3-241-aave-v3-polygon-stMATIC-freeze.md)  |
 | 243 | [Aave v3 Ethereum + Gnosis  Allow Balancer To Claim Mining Rewards](./reports/v3-243-aave-v3-Ethereum+Gnosis-balancer-claiming-rewards.md)  |
 | 244 | [Aave v3 multichain wstETH borrow rate update](./reports/v3-244-aave-v3-multichain-wstETH-borrow-update.md)  |
+| 245 | [Aave v3 Linea Activation](./reports/v3-245-aave-v3-Linea-Activation.md)  |
 
 
 
