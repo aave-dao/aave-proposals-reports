@@ -255,6 +255,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 252 | [Aave v3 multichain Upgrade Aave instances to v3.3](./reports/v3-252-aave-v3-multichain-v3_3-upgrade.md)  |
 | 253 | [Aave v3 Arbitrum Caps Risk Oracle Activation ](./reports/v3-253-aave-v3-Arbitrum-caps-oracle-activation.md)  |
 | 254 | [Aave v2+v3 Polygon risk parameters adjustments](./reports/v3-254-aave-v2+v3-polygon-risk-parameter-adjustments.md)  |
+| 255 | [Aave v3 Multichain Aave risk parameters adjustments](./reports/v3-255-aave-v3-multichain-update-AAVE-parameters.md)  |
 
 
 
