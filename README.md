@@ -257,6 +257,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 254 | [Aave v2+v3 Polygon risk parameters adjustments](./reports/v3-254-aave-v2+v3-polygon-risk-parameter-adjustments.md)  |
 | 255 | [Aave v3 Multichain AAVE risk parameters adjustments](./reports/v3-255-aave-v3-multichain-update-AAVE-parameters.md)  |
 | 256 | [Aave v3 Optimism sUSD risk parameters adjustments](./reports/v3-256-aave-v3-optimism-sUSD-parameter-adjustments.md)  |
+| 257 | [Aave v3 Sonic Activation](./reports/v3-257-aave-v3-Sonic-activation.md)  |
+| 258 | [Aave v3 Ethereum Prime (Lido) Gho Steward Activation](./reports/v3-258-aave-v3-Ethereum-Lido-activate-gho-steward.md)  |
 
 
 
