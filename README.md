@@ -266,6 +266,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 263 | [Aave v3 Base wrsETH Base Onboarding](./reports/v3-263-aave-v3-Base-wrsETH-onboarding.md)  |
 | 264 | [Aave v3 Multichain Core & Base - BTC Correlated Asset Update](./reports/v3-264-aave-v3-Multichain-BTC-asset-update.md)  |
 | 265 | [Aave v3 Base Add EURC to BASE Aave V3](./reports/v3-265-aave-v3-Base-EURC-onboarding.md)  |
+| 266 | [Aave v3 Avalanche Collateralize AUSD on V3 Avalanche](./reports/v3-266-aave-v3-Avalanche-AUSD-collateralize.md)  |
 
 
 
