@@ -261,9 +261,15 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 258 | [Aave v3 Ethereum Prime (Lido) Gho Steward Activation](./reports/v3-258-aave-v3-Ethereum-Lido-activate-gho-steward.md)  |
 | 259 | [Aave v3 multichain February Funding Update - Part B](./reports/v3-259-aave-v3-multichain-funding-part-b.md)  |
 | 260 | [Aave v3 Polygon Adjust Aave Polygon V3 Risk Parameters](./reports/v3-260-aave-v3-Polygon-risk-parameters-update.md)  |
-| 260 | [Aave v2 multuichain Aave V2 Deprecation Update](./reports/v3-261-aave-v2-multichain-deprecation-update.md)  |
+| 261 | [Aave v2 multuichain Aave V2 Deprecation Update](./reports/v3-261-aave-v2-multichain-deprecation-update.md)  |
 | 262 | [Aave v3 multichain sUSDe and USDe Price Feed Update](./reports/v3-262-aave-v3-multichain-sUSDe-USDE-price-feed-update.md)  |
 | 263 | [Aave v3 Base wrsETH Base Onboarding](./reports/v3-263-aave-v3-Base-wrsETH-onboarding.md)  |
+| 264 | [Aave v3 Multichain Core & Base - BTC Correlated Asset Update](./reports/v3-264-aave-v3-Multichain-BTC-asset-update.md)  |
+| 265 | [Aave v3 Base Add EURC to BASE Aave V3](./reports/v3-265-aave-v3-Base-EURC-onboarding.md)  |
+| 266 | [Aave v3 Avalanche Collateralize AUSD on V3 Avalanche](./reports/v3-266-aave-v3-Avalanche-AUSD-collateralize.md)  |
+| 267 | [Aave v3 Ethereum GSMs Migration to stataGSM4626](./reports/v3-267-aave-v3-Ethereum-GSMs-migration.md)  |
+| 268 | [Aave v3 Base Recreate wrstETH eMode on Base](./reports/v3-268-aave-v3-Base-recreate-wrstETH-emode.md)  |
+| 269 | [Aave v3 Celo Activation](./reports/v3-269-aave-v3-Celo-activation.md)  |
 
 
 
