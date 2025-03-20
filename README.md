@@ -270,6 +270,9 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 267 | [Aave v3 Ethereum GSMs Migration to stataGSM4626](./reports/v3-267-aave-v3-Ethereum-GSMs-migration.md)  |
 | 268 | [Aave v3 Base Recreate wrstETH eMode on Base](./reports/v3-268-aave-v3-Base-recreate-wrstETH-emode.md)  |
 | 269 | [Aave v3 Celo Activation](./reports/v3-269-aave-v3-Celo-activation.md)  |
+| 270 | [Aave v3 multichain Clinic Steward Activation](./reports/v3-270-aave-v3-clinic-steward-activation.md)  |
+| 271 | [Aave v3 multichain Stablecoins Interest Rate Curve Update](./reports/v3-271-aave-v3-multichain-IR-update.md)  |
+| 272 | [Aave v3 multichain Gov v3 VotingMachine / VotingPortal maintenance](./reports/v3-272-aave-v3-multichain-gov-maintenance.md)  |
 
 
 
