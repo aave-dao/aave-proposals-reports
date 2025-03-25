@@ -274,6 +274,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 271 | [Aave v3 multichain Stablecoins Interest Rate Curve Update](./reports/v3-271-aave-v3-multichain-IR-update.md)  |
 | 272 | [Aave v3 multichain Gov v3 VotingMachine / VotingPortal maintenance](./reports/v3-272-aave-v3-multichain-gov-maintenance.md)  |
 | 273 | [Aave v3 multichain Gov v3 VotingMachine / VotingPortal maintenance](./reports/v3-273-aave-v3-multichain-gov-maintenance.md)  |
+| 274 | [Aave v3 Ethereum Enable SVR V1 on Aave V3 Ethereum](./reports/v3-274-aave-v3-Ethereum-SVR-V1-enable.md)  |
 
 
 
