@@ -1,4 +1,4 @@
-# Proposal 270. Finance Steward Deployment: Pool Exposure Module
+# Proposal 279. Finance Steward Deployment: Pool Exposure Module
 
 ### Voting Link
 [Link to voting page](https://vote.onaave.com/proposal/?proposalId=279)

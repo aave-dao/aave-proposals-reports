@@ -275,6 +275,15 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 272 | [Aave v3 multichain Gov v3 VotingMachine / VotingPortal maintenance](./reports/v3-272-aave-v3-multichain-gov-maintenance.md)  |
 | 273 | [Aave v3 multichain Gov v3 VotingMachine / VotingPortal maintenance](./reports/v3-273-aave-v3-multichain-gov-maintenance.md)  |
 | 274 | [Aave v3 Ethereum Enable SVR V1 on Aave V3 Ethereum](./reports/v3-274-aave-v3-Ethereum-SVR-V1-enable.md)  |
+| 279 | [Aave v3 multichain Finance Steward Deployment: Pool Exposure Module](./reports/v3-279-aave-v3-multichain-pool-exposure-steward.md)  |
+| 280 | [Aave v3 Arbitrum Allow Balancer DAO to Claim Liquidity Mining Rewards ](./reports/v3-280-aave-v3-Arbitrum-Base-claim-rewards-balancer.md)  |
+| 281 | [Aave v3 Arbitrum Onboard rsETH to Arbitrum ](./reports/v3-281-aave-v3-Arbitrum-rsETH-onboarding.md)  |
+| 282 | [Aave v3 Ethereum Onboard eBTC and Add eBTC/WBTC E-Mode](./reports/v3-282-aave-v3-Ethereum-eBTC-onboarding.md)  |
+| 286 | [Aave v3 Ethereum AAVE Buybacks allocation](./reports/v3-286-aave-v3-Ethereum-AAVE-buybacks.md)  |
+| 287 | [Aave v3 Ethereum Orbit Program Renewal](./reports/v3-287-aave-v3-Ethereum-orbit-program-renewal.md)  |
+| 288 | [Aave v3 multichain Risk Steward Parameter Updates Phase 3](./reports/v3-288-aave-v3-multichain-risk-steward-update-3.md)  |
+| 289 | [Aave v3 Gnosis Enhancements in Aave v3 Gnosis Chain Instance](./reports/v3-289-aave-v3-Gnosis-uSDC-sDAi-updates.md)  |
+| 290 | [Aave v3 Ethereum Request for Bounty Payout - March 2025](./reports/v3-290-aave-v3-Ethereum-Bounty-Payout.mdd)  |
 
 
 
