@@ -286,6 +286,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 290 | [Aave v3 Ethereum Request for Bounty Payout - March 2025](./reports/v3-290-aave-v3-Ethereum-Bounty-Payout.md)  |
 | 291 | [Aave v3 Ethereum Removal of legacy VotingPortals](./reports/v3-291-aave-v3-Ethereum-legacy-VotingPortal-remove.md)  |
 | 292 | [Aave v3 Base Avalanche Caps Risk Oracle Activation](./reports/v3-292-aave-v3-Base-Avalanch-AGRS-activation.md)  |
+| 293 | [Aave v3 Ethereum Polygon April Funding update](./reports/v3-293-aave-v3-April-funding-update.md)  |
 
 
 
