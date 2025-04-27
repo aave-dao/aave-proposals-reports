@@ -291,6 +291,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 295 | [Aave v3 Ethereum Add rlUSD to Core Instance](./reports/v3-295-aave-v3-rlUSD-onboarding.md)  |
 | 296 | [Aave v3 Ethereum Aave Liquidity Committee Funding Phase VI](./reports/v3-296-aave-v3-funding-phase-VI.md)  |
 | 297 | [Aave v3 Ethereum Renew LlamaRisk as Risk Service Provider](./reports/v3-297-aave-v3-renew-LlamaRisk-service-provider.md)  |
+| 298 | [Aave v3 Ethereum Lower stkABPT Emissions](./reports/v3-298-aave-v3-lower-stkABPT-emissions.md)  |
 
 
 
