@@ -293,6 +293,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 297 | [Aave v3 Ethereum Renew LlamaRisk as Risk Service Provider](./reports/v3-297-aave-v3-renew-LlamaRisk-service-provider.md)  |
 | 298 | [Aave v3 Ethereum Lower stkABPT Emissions](./reports/v3-298-aave-v3-lower-stkABPT-emissions.md)  |
 | 299 | [Aave v3 Ethereum Onboard PT sUSDe July and PT eUSDe May on Core Instance](./reports/v3-299-aave-v3-Ethereum-onbaord-PT-sUSDe-and-PT-eUSDe.md)  |
+| 300 | [Aave v3 Sonic Add stS to Aave v3 Sonic Instance](./reports/v3-300-aave-v3-Sonic-onboard-stS.md)  |
 
 
 
