@@ -287,6 +287,13 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 291 | [Aave v3 Ethereum Removal of legacy VotingPortals](./reports/v3-291-aave-v3-Ethereum-legacy-VotingPortal-remove.md)  |
 | 292 | [Aave v3 Base Avalanche Caps Risk Oracle Activation](./reports/v3-292-aave-v3-Base-Avalanch-AGRS-activation.md)  |
 | 293 | [Aave v3 Ethereum Polygon April Funding update](./reports/v3-293-aave-v3-April-funding-update.md)  |
+| 294 | [Aave v3 Ethereum Mantle a.DI path activation](./reports/v3-294-aave-v3-Mantle-aDI-activation.md)  |
+| 295 | [Aave v3 Ethereum Add rlUSD to Core Instance](./reports/v3-295-aave-v3-rlUSD-onboarding.md)  |
+| 296 | [Aave v3 Ethereum Aave Liquidity Committee Funding Phase VI](./reports/v3-296-aave-v3-funding-phase-VI.md)  |
+| 297 | [Aave v3 Ethereum Renew LlamaRisk as Risk Service Provider](./reports/v3-297-aave-v3-renew-LlamaRisk-service-provider.md)  |
+| 298 | [Aave v3 Ethereum Lower stkABPT Emissions](./reports/v3-298-aave-v3-lower-stkABPT-emissions.md)  |
+| 299 | [Aave v3 Ethereum Onboard PT sUSDe July and PT eUSDe May on Core Instance](./reports/v3-299-aave-v3-Ethereum-onbaord-PT-sUSDe-and-PT-eUSDe.md)  |
+| 300 | [Aave v3 Sonic Add stS to Aave v3 Sonic Instance](./reports/v3-300-aave-v3-Sonic-onboard-stS.md)  |
 
 
 
