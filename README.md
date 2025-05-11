@@ -294,6 +294,14 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 298 | [Aave v3 Ethereum Lower stkABPT Emissions](./reports/v3-298-aave-v3-lower-stkABPT-emissions.md)  |
 | 299 | [Aave v3 Ethereum Onboard PT sUSDe July and PT eUSDe May on Core Instance](./reports/v3-299-aave-v3-Ethereum-onbaord-PT-sUSDe-and-PT-eUSDe.md)  |
 | 300 | [Aave v3 Sonic Add stS to Aave v3 Sonic Instance](./reports/v3-300-aave-v3-Sonic-onboard-stS.md)  |
+| 301 | [Aave v3 Ethereum ACI Phase IV – “Road to 80”](./reports/v3-301-aave-v3-ACI-ohase-IV.md)  |
+| 302 | [Aave v3 Ethereum Aave BGD Phase 5](./reports/v3-302-aave-v3-BGD-phase-5.md)  |
+| 303 | [Aave v3 Ethereum Onboard PT sUSDe July on Core Instance](./reports/v3-303-aave-v3-PT-sUSDe-onboarding.md)  |
+| 304 | [Aave v3 Multichain May Funding Update](./reports/v3-304-aave-v3-May-funding-update.md)  |
+| 305 | [Aave v3 Ethereum Onboard USDtb to Aave v3 Core Instance](./reports/v3-305-aave-v3-Ethereum-onboard-USDtb.md)  |
+| 306 | [Aave v3 Ethereum Remove USDe Debt Ceiling and Introduce USDe Stablecoins E-mode](./reports/v3-306-aave-v3-USDe-debt-cieling-removal-and-emode.md)  |
+| 307 | [Aave v3 Ethereum stkGHO Emissions](./reports/v3-307-aave-v3-stkGHO-emissions.md)  |
+| 308 | [Aave v3 Ethereum Extend SVR V1 to more reserves](./reports/v3-308-aave-v3-Ethereum-SVR-V1-extend.md)  |
 
 
 
