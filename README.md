@@ -302,6 +302,10 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 306 | [Aave v3 Ethereum Remove USDe Debt Ceiling and Introduce USDe Stablecoins E-mode](./reports/v3-306-aave-v3-USDe-debt-cieling-removal-and-emode.md)  |
 | 307 | [Aave v3 Ethereum stkGHO Emissions](./reports/v3-307-aave-v3-stkGHO-emissions.md)  |
 | 308 | [Aave v3 Ethereum Extend SVR V1 to more reserves](./reports/v3-308-aave-v3-Ethereum-SVR-V1-extend.md)  |
+| 309 | [Aave v3 Ethereum Soneium aDI path activation](./reports/v3-309-aave-v3-Soneium-aDI-path-activation.md)  |
+| 310 | [Aave v3 Base Onboard AAVE token](./reports/v3-310-aave-v3-Base-AAVE-token-onboarding.md)  |
+| 311 | [Aave v3 Multichain LRT and wstETH Unification](./reports/v3-311-aave-v3-emodes-updates.md)  |
+| 312 | [Aave v3 Ethereum Soneium aDI path activation redo](./reports/v3-312-aave-v3-Soneium-aDI-path-activation-redo.md)  |
 
 
 
