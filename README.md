@@ -309,6 +309,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 313 | [Aave v3 Multichain Configuration maintenance](./reports/v3-313-aave-v3-multichain-configuration-update.md)  |
 | 314 | [Aave v3 Ethereum Onboard eUSDe and eUSDe based PT token](./reports/v3-314-aave-v3-onboard-eUSDe-and-PT-tokens.md)  |
 | 315 | [Aave v3 Ethereum stkAAVE Emissions](./reports/v3-315-aave-v3-stkAAVE-emissiones.md)  |
+| 316 | [Aave v3 Multichain CAPO Adapter Maintenance Update](./reports/v3-316-aave-v3-CAPO-adapter-update.md)  |
 
 
 
