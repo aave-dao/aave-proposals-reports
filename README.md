@@ -325,6 +325,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 329 | [Aave v3 Ethereum Onboard tETH to Aave v3 Prime Instance](./reports/v3-329-aave-v3-onboarding-tETH-Prime-instance.md)  |
 | 330 | [Aave v3 Ethereum Enable additional SVR oracles](./reports/v3-330-aave-v3-SVR-oracles-modifications.md)  |
 | 331 | [Aave v3 Ethereum Add EURC to Aave V3 Core Instance](./reports/v3-331-aave-v3-onboarding-EURC-core-instance.md)  |
+| 332 | [Aave v3 Multichain Discount Rate Risk Oracle Activation and update manual AGRS](./reports/v3-332-aave-v3-discount-rate-risk-activation.md)  |
 
 
 
