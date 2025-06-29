@@ -317,6 +317,16 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 321 | [Aave v3 Ethereum + Base May Funding Part B](./reports/v3-321-aave-v3-May-funding-update-part-B.md)  |
 | 322 | [Aave v3 Multichain Asset Parameters Optimization](./reports/v3-322-aave-v3-multichain-risk-parameters-optimization.md)  |
 | 323 | [Aave v3 zkSync Onboard wrsETH to ZKsync V3 Instance](./reports/v3-323-aave-v3-zkSync-wrsETH-onboarding.md)  |
+| 324 | [Aave v3 Ethereum June Funding Update - Part I](./reports/v3-324-aave-v3-June-funding-update-part-1.md)  |
+| 325 | [Aave v3 Ethereum Aave Events & Sponsorship Budget 2025](./reports/v3-325-aave-v3-aave-events-&-sponsorshiup-funding.md)  |
+| 326 | [Aave v3 Avalanche GHO Avalanche Launch](./reports/v3-326-aave-v3-GHO-Avalanche-launch.md)  |
+| 327 | [Aave v3 Ethereum June Funding Update - Part II](./reports/v3-327-aave-v3-June-funding-update-part-2.md)  |
+| 328 | [Aave v3 Aptos Activation](./reports/v3-328-aave-v3-Aptos-activation.md)  |
+| 329 | [Aave v3 Ethereum Onboard tETH to Aave v3 Prime Instance](./reports/v3-329-aave-v3-onboarding-tETH-Prime-instance.md)  |
+| 330 | [Aave v3 Ethereum Enable additional SVR oracles](./reports/v3-330-aave-v3-SVR-oracles-modifications.md)  |
+| 331 | [Aave v3 Ethereum Add EURC to Aave V3 Core Instance](./reports/v3-331-aave-v3-onboarding-EURC-core-instance.md)  |
+| 332 | [Aave v3 Multichain Discount Rate Risk Oracle Activation and update manual AGRS](./reports/v3-332-aave-v3-discount-rate-risk-activation.md)  |
+| 333 | [Aave v2 non-Ethereum pools next deprecation steps](./reports/v3-333-aave-v2-deprecation-steps.md)  |
 
 
 
