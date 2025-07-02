@@ -328,6 +328,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 332 | [Aave v3 Multichain Discount Rate Risk Oracle Activation and update manual AGRS](./reports/v3-332-aave-v3-discount-rate-risk-activation.md)  |
 | 333 | [Aave v2 non-Ethereum pools next deprecation steps](./reports/v3-333-aave-v2-deprecation-steps.md)  |
 | 334 | [Aave v3 All chain v3.4 upgrade](./reports/v3-334-aave-v3-v3_4-upgrade.md)  |
+| 335 | [Aave v3 Chaos Labs x Aave DAO — Early Renewal Proposal](./reports/v3-335-aave-v3-chaos-labs-early-renwal-payment-stream.md)  |
 
 
 
