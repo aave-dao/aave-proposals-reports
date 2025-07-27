@@ -336,6 +336,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 340 | [Aave v3 Robot Maintenance](./reports/v3-340-aave-v3-robot-maintenance.md)  |
 | 341 | [Aave v3 amend PT-sUSDe september stablecoin emode](./reports/v3-341-aave-v3-PT-sUSDe-Sep-upgdate.md)  |
 | 342 | [Aave v3 Safety Module Emission Update](./reports/v3-342-aave-v3-safety-module-emission-update.md)  |
+| 343 | [Aave v3  Add USDe to the sUSDe emode Category](./reports/v3-343-aave-v3-USDe-to-sUSDe-emode.md)  |
 
 
 
