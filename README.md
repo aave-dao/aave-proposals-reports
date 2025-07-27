@@ -331,6 +331,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 335 | [Aave v3 Chaos Labs x Aave DAO — Early Renewal Proposal](./reports/v3-335-aave-v3-chaos-labs-early-renwal-payment-stream.md)  |
 | 336 | [Aave v3 CEX Earn Funding Proposal](./reports/v3-336-aave-v3-CEX-earn-funding-GHO.md)  |
 | 337 | [Aave v3 Onboard sUSDe September expiry PT tokens on Aave V3 Core Instance](./reports/v3-337-aave-v3-PT-suSDe-september-onboarding.md)  |
+| 338 | [Aave v3 stS Loop Incentive Program](./reports/v3-338-aave-v3-stS-loop-incentive-program.md)  |
 
 
 
