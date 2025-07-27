@@ -333,6 +333,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 337 | [Aave v3 Onboard sUSDe September expiry PT tokens on Aave V3 Core Instance](./reports/v3-337-aave-v3-PT-suSDe-september-onboarding.md)  |
 | 338 | [Aave v3 stS Loop Incentive Program](./reports/v3-338-aave-v3-stS-loop-incentive-program.md)  |
 | 339 | [Aave v3 Deprecation of Long-tail Assets](./reports/v3-339-aave-v3-long-tail-assets-deprecation.md)  |
+| 340 | [Aave v3 Deprecation of Long-tail Assets](./reports/v3-340-aave-v3-robot-maintenance.md)  |
 
 
 
