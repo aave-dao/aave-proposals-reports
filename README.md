@@ -327,6 +327,13 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 331 | [Aave v3 Ethereum Add EURC to Aave V3 Core Instance](./reports/v3-331-aave-v3-onboarding-EURC-core-instance.md)  |
 | 332 | [Aave v3 Multichain Discount Rate Risk Oracle Activation and update manual AGRS](./reports/v3-332-aave-v3-discount-rate-risk-activation.md)  |
 | 333 | [Aave v2 non-Ethereum pools next deprecation steps](./reports/v3-333-aave-v2-deprecation-steps.md)  |
+| 334 | [Aave v3 All chain v3.4 upgrade](./reports/v3-334-aave-v3-v3_4-upgrade.md)  |
+| 335 | [Aave v3 Chaos Labs x Aave DAO — Early Renewal Proposal](./reports/v3-335-aave-v3-chaos-labs-early-renwal-payment-stream.md)  |
+| 336 | [Aave v3 CEX Earn Funding Proposal](./reports/v3-336-aave-v3-CEX-earn-funding-GHO.md)  |
+| 337 | [Aave v3 Onboard sUSDe September expiry PT tokens on Aave V3 Core Instance](./reports/v3-337-aave-v3-PT-suSDe-september-onboarding.md)  |
+| 338 | [Aave v3 stS Loop Incentive Program](./reports/v3-338-aave-v3-stS-loop-incentive-program.md)  |
+| 339 | [Aave v3 Deprecation of Long-tail Assets](./reports/v3-339-aave-v3-long-tail-assets-deprecation.md)  |
+| 340 | [Aave v3 Deprecation of Long-tail Assets](./reports/v3-340-aave-v3-robot-maintenance.md)  |
 
 
 
