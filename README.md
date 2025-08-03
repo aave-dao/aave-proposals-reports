@@ -344,6 +344,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 350 | [Aave v3 Interest Rate Update - WETH and wstETH Ethereum](./reports/v3-350-aave-v3-Ethereum-WETH-wstETH-IR-update.md)  |
 | 351 | [Aave v3 Caps Risk Oracle Activation on Optimism, BNB, Gnosis, Polygon](./reports/v3-351-aave-v3-multichain-AGRS-upgrade.md)  |
 | 352 | [Aave v3 GHO Gnosis Launch](./reports/v3-352-aave-v3-Gnosis-GHO-launch.md)  |
+| 353 | [Aave v3 Upgrade Aave instances to v3.5](./reports/v3-353-aave-v3-v3.5-upgrade.md)  |
 
 
 
