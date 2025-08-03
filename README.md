@@ -339,6 +339,10 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 343 | [Aave v3 Add USDe to the sUSDe emode Category](./reports/v3-343-aave-v3-USDe-to-sUSDe-emode.md)  |
 | 346 | [Aave v3 Onboard USDe September expiry PT tokens on Aave V3 Core Instance](./reports/v3-346-aave-v3-PT-USDe-Sep-onboarding.md)  |
 | 347 | [Aave v3 wS and BTC.b Interest Rate Curve Optimization](./reports/v3-347-aave-v3-wS-BTCb-IR-update.md)  |
+| 348 | [Aave v3 Fire drill proposal Avalanche VotingMachine](./reports/v3-348-aave-v3-check-avalanche-voting-portal.md)  |
+| 349 | [Aave v3 July 2025 - Funding Update](./reports/v3-349-aave-v3-july-2025-funding-update.md)  |
+| 350 | [Aave v3 Interest Rate Update - WETH and wstETH Ethereum](./reports/v3-350-aave-v3-Ethereum-WETH-wstETH-IR-update.md)  |
+| 351 | [Aave v3 Caps Risk Oracle Activation on Optimism, BNB, Gnosis, Polygon](./reports/v3-351-aave-v3-multichain-AGRS-upgrade.md)  |
 
 
 
