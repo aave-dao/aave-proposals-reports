@@ -353,6 +353,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 360 | [Aave v3 Onboard tBTC to Aave v3 on Arbitrum](./reports/v3-360-aave-v3-Arbitrum-tBTC-onboarding.md)  |
 | 361 | [Aave v3 Horizon RWA Instance Activation](./reports/v3-361-aave-v3-Horizon-RWA-instance.md)  |
 | 362 | [Aave v3 Ink aDI path activation](./reports/v3-362-aave-v3-Ink-aDI-path-activation.md)  |
+| 363 | [Aave v3  Onboard tBTC to Aave v3 on Base](./reports/v3-363-aave-v3-tBTC-Base-onboarding.md)  |
 
 
 
