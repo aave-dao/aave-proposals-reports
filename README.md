@@ -351,6 +351,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 358 | [Aave v3 Onboard rsETH to Aave V3 Linea Instance](./reports/v3-358-aave-v3-Linea-rsETH-onboarding.md)  |
 | 359 | [Aave v1 Claiming AAVE Rewards for the Sablier Legacy v1.1 Contract](./reports/v3-359-aave-v1-AAVE-reward-claim-for-Sablier.md)  |
 | 360 | [Aave v3 Onboard tBTC to Aave v3 on Arbitrum](./reports/v3-360-aave-v3-Arbitrum-tBTC-onboarding.md)  |
+| 361 | [Aave v3 Horizon RWA Instance Activation](./reports/v3-361-aave-v3-Horizon-RWA-instance.md)  |
 
 
 
