@@ -358,6 +358,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 365 | [Aave v3 Onboard sUSDe November expiry PT tokens on Aave V3 Core Instance](./reports/v3-365-aave-v3-PT-sUSDe-Nov-onboarding.md)  |
 | 366 | [Aave v3 Arbitrum + Core Multi eMode Update and Creation - rsETH, ezETH, wstETH and weETH](./reports/v3-366-aave-v3-emode-updates-and-creation.md)  |
 | 367 | [Aave v3 Onboard USDe November expiry PT tokens on Aave V3 Core Instance](./reports/v3-367-aave-v3-onboard-PT-USDe-Nov.md)  |
+| 368 | [Aave v3 Add Fluid Protocol to flashBorrowers](./reports/v3-368-aave-v3-add-Fluid-as-FlashBorrowers.md)  |
 
 
 
