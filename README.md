@@ -343,6 +343,30 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 349 | [Aave v3 July 2025 - Funding Update](./reports/v3-349-aave-v3-july-2025-funding-update.md)  |
 | 350 | [Aave v3 Interest Rate Update - WETH and wstETH Ethereum](./reports/v3-350-aave-v3-Ethereum-WETH-wstETH-IR-update.md)  |
 | 351 | [Aave v3 Caps Risk Oracle Activation on Optimism, BNB, Gnosis, Polygon](./reports/v3-351-aave-v3-multichain-AGRS-upgrade.md)  |
+| 352 | [Aave v3 GHO Gnosis Launch](./reports/v3-352-aave-v3-Gnosis-GHO-launch.md)  |
+| 353 | [Aave v3 Upgrade Aave instances to v3.5](./reports/v3-353-aave-v3-v3.5-upgrade.md)  |
+| 354 | [Aave v3 Add tETH to Core Instance Ethereum](./reports/v3-354-aave-v3-tETH-onboarding.md)  |
+| 355 | [Aave v3 Add ezETH to Aave v3 Core Instance](./reports/v3-355-aave-v3-ezETH-onboarding.md)  |
+| 357 | [Aave v3 LBTC and eBTC Price Feeds Update](./reports/v3-357-aave-v3-LBTC-eBTC-price-feed-update.md)  |
+| 358 | [Aave v3 Onboard rsETH to Aave V3 Linea Instance](./reports/v3-358-aave-v3-Linea-rsETH-onboarding.md)  |
+| 359 | [Aave v1 Claiming AAVE Rewards for the Sablier Legacy v1.1 Contract](./reports/v3-359-aave-v1-AAVE-reward-claim-for-Sablier.md)  |
+| 360 | [Aave v3 Onboard tBTC to Aave v3 on Arbitrum](./reports/v3-360-aave-v3-Arbitrum-tBTC-onboarding.md)  |
+| 361 | [Aave v3 Horizon RWA Instance Activation](./reports/v3-361-aave-v3-Horizon-RWA-instance.md)  |
+| 362 | [Aave v3 Ink aDI path activation](./reports/v3-362-aave-v3-Ink-aDI-path-activation.md)  |
+| 363 | [Aave v3 Onboard tBTC to Aave v3 on Base](./reports/v3-363-aave-v3-tBTC-Base-onboarding.md)  |
+| 364 | [Aave v3 Onboard XAUt to Aave v3 Core Instance](./reports/v3-364-aave-v3-XAUt-core-onboarding.md)  |
+| 365 | [Aave v3 Onboard sUSDe November expiry PT tokens on Aave V3 Core Instance](./reports/v3-365-aave-v3-PT-sUSDe-Nov-onboarding.md)  |
+| 366 | [Aave v3 Arbitrum + Core Multi eMode Update and Creation - rsETH, ezETH, wstETH and weETH](./reports/v3-366-aave-v3-emode-updates-and-creation.md)  |
+| 367 | [Aave v3 Onboard USDe November expiry PT tokens on Aave V3 Core Instance](./reports/v3-367-aave-v3-onboard-PT-USDe-Nov.md)  |
+| 368 | [Aave v3 Add Fluid Protocol to flashBorrowers](./reports/v3-368-aave-v3-add-Fluid-as-FlashBorrowers.md)  |
+| 369 | [Aave v3 GHO Facilitator Replacement](./reports/v3-369-aave-v3-GHO-facilitator-replacement.md)  |
+| 370 | [Aave v3 September Funding Update](./reports/v3-370-aave-v3-September-funding-update.md)  |
+| 372 | [Aave v3 Increase rsETH Supply Cap on Linea Instance](./reports/v3-372-aave-v3-rsETH-Linea-supply-cap-increase.md)  |
+| 373 | [Aave v3 Request for Bounty Payout - August 2025](./reports/v3-373-aave-v3-rsETH-supply-cap-increase.md)  |
+| 374 | [Aave v3 Risk Parameter Adjustments for Aave V3 Scroll Instance](./reports/v3-374-aave-v3-Scroll-risk-parameters-adjustment.md)  |
+| 375 | [Aave v3 Add EURC to Avalanche V3 Instance](./reports/v3-375-aave-v3-EURC-onboarding-Avalanche.md)  |
+| 376 | [Aave v3 Raise sUSDe and USDe November expiry PT tokens caps on Aave V3 Core Instance](./reports/v3-376-aave-v3-PT-sUSDe-USDe-caps-increase.md)  |
+| 377 | [Aave v3 Plasma aDI path activation](./reports/v3-377-aave-v3-Plasma-aDI-path-activation.md)  |
 
 
 
