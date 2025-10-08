@@ -367,6 +367,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 375 | [Aave v3 Add EURC to Avalanche V3 Instance](./reports/v3-375-aave-v3-EURC-onboarding-Avalanche.md)  |
 | 376 | [Aave v3 Raise sUSDe and USDe November expiry PT tokens caps on Aave V3 Core Instance](./reports/v3-376-aave-v3-PT-sUSDe-USDe-caps-increase.md)  |
 | 377 | [Aave v3 Plasma aDI path activation](./reports/v3-377-aave-v3-Plasma-aDI-path-activation.md)  |
+| 381 | [Aave v3 Bob Network aDI path activation](./reports/v3-381-aave-v3-Bob-aDI-path-activation.md)  |
 
 
 
