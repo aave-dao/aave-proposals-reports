@@ -373,7 +373,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 384 | [Aave v3 pyUSD Parameters Optimization](./reports/v3-384-aave-v3-pyUSD-parameters-optimiztion.md)  |
 | 385 | [Aave v3 Safety Module & Umbrella Emission Update](./reports/v3-385-aave-v3-safety-module-emission-update.md)  |
 | 386 | [Aave v3 Steward Deployment: MainnetSwapSteward and RewardsSteward](./reports/v3-386-aave-v3-MainetSwapSteward-RewardSteward-deployment.md)  |
-| 386 | [Aave v2 Claim Aave v2 stkAAVE rewards](./reports/v3-387-aave-v2-claim-stkAAVE-rewards.md)  |
+| 387 | [Aave v2 Claim Aave v2 stkAAVE rewards](./reports/v3-387-aave-v2-claim-stkAAVE-rewards.md)  |
+| 388 | [Aave v2+v3 Full Deprecation of DPI Across Aave Deployments](./reports/v3-388-aave-v2+v3-DPI-deprecation.md)  |
 
 
 
