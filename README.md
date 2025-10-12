@@ -375,6 +375,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 386 | [Aave v3 Steward Deployment: MainnetSwapSteward and RewardsSteward](./reports/v3-386-aave-v3-MainetSwapSteward-RewardSteward-deployment.md)  |
 | 387 | [Aave v2 Claim Aave v2 stkAAVE rewards](./reports/v3-387-aave-v2-claim-stkAAVE-rewards.md)  |
 | 388 | [Aave v2+v3 Full Deprecation of DPI Across Aave Deployments](./reports/v3-388-aave-v2+v3-DPI-deprecation.md)  |
+| 389 | [Aave v3 Adopt The SEAL Safe Harbor Agreement](./reports/v3-389-aave-v3-SEAL-safe-harbor-agreement.md)  |
+| 390 | [Aave v3 Allow PyUSD as collateral](./reports/v3-390-aave-v3-pyUSD-collateral-enabled.md)  |
 
 
 
