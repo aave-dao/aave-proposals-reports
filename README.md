@@ -367,6 +367,36 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 375 | [Aave v3 Add EURC to Avalanche V3 Instance](./reports/v3-375-aave-v3-EURC-onboarding-Avalanche.md)  |
 | 376 | [Aave v3 Raise sUSDe and USDe November expiry PT tokens caps on Aave V3 Core Instance](./reports/v3-376-aave-v3-PT-sUSDe-USDe-caps-increase.md)  |
 | 377 | [Aave v3 Plasma aDI path activation](./reports/v3-377-aave-v3-Plasma-aDI-path-activation.md)  |
+| 381 | [Aave v3 Bob Network aDI path activation](./reports/v3-381-aave-v3-Bob-aDI-path-activation.md)  |
+| 382 | [Aave v3 Aave Liquidity Committee Funding Phase VII](./reports/v3-382-aave-v3-ALC-funding-phase-VII.md)  |
+| 383 | [Aave v3 Aave v2 Deprecation - Update](./reports/v3-383-aave-v3-v2-deprecation-updates.md)  |
+| 384 | [Aave v3 pyUSD Parameters Optimization](./reports/v3-384-aave-v3-pyUSD-parameters-optimiztion.md)  |
+| 385 | [Aave v3 Safety Module & Umbrella Emission Update](./reports/v3-385-aave-v3-safety-module-emission-update.md)  |
+| 386 | [Aave v3 Steward Deployment: MainnetSwapSteward and RewardsSteward](./reports/v3-386-aave-v3-MainetSwapSteward-RewardSteward-deployment.md)  |
+| 387 | [Aave v2 Claim Aave v2 stkAAVE rewards](./reports/v3-387-aave-v2-claim-stkAAVE-rewards.md)  |
+| 388 | [Aave v2+v3 Full Deprecation of DPI Across Aave Deployments](./reports/v3-388-aave-v2+v3-DPI-deprecation.md)  |
+| 389 | [Aave v3 Adopt The SEAL Safe Harbor Agreement](./reports/v3-389-aave-v3-SEAL-safe-harbor-agreement.md)  |
+| 390 | [Aave v3 Allow PyUSD as collateral](./reports/v3-390-aave-v3-pyUSD-collateral-enabled.md)  |
+| 391 | [Aave v3 Gho Plasma Launch](./reports/v3-391-aave-v3-GHO-Plasma-launch.md)  |
+| 392 | [Aave v3 Onboard sUSDe and USDe January expiry PT tokens on Plasma Instance](./reports/v3-392-aave-v3-sUSDe-and-USDe-onboarding.md)  |
+| 393 | [Aave v3 Onboard wrsETH to Plasma Instance](./reports/v3-393-aave-v3-wrsETH-onboarding.md)  |
+| 394 | [Aave v3 Onboard syrupUSDT to Plasma Instance](./reports/v3-394-aave-v3-syrupUSDT-onboarding.md)  |
+| 395 | [Aave v3 Slope2 Risk Oracle Activation on Core Ethereum and Linea](./reports/v3-395-aave-v3-Slope2-Risk-oracle-activation.md)  |
+| 396 | [Aave v3 Add Fluid Protocol to Plasma flashBorrowers](./reports/v3-396-aave-v3-add-fluid-as-flashborrower.md)  |
+| 397 | [Aave v3 Onboard sUSDe and USDe to Avalanche Instance](./reports/v3-397-aave-v3-sUSDe-and-USDe-onboarding.md)  |
+| 398 | [Aave v3 Extend Ahab Funding](./reports/v3-398-aave-v3-extend-Ahab-funding.md)  |
+| 399 | [Aave v3 Deprecate USDC (old) on Gnosis Instance](./reports/v3-399-aave-v3-old-USDC-deprecation.md)  |
+| 400 | [Aave v3 Add cbBTC and Stablecoin E-Mode on Base](./reports/v3-400-aave-v3-cbBTC-stablecoin-Emode.md)  |
+| 401 | [Aave v3 Service Provider Compensation Reform for V4 Alignment](./reports/v3-401-aave-v3-service-provider-compensation-reform-v4.md)  |
+| 402 | [Aave v3 Certora Security Services for Current Infrastructure](./reports/v3-402-aave-v3-Certora-security-services.md)  |
+| 403 | [Aave v3 Certora Security Services for V4](./reports/v3-403-aave-v3-Certora-security-services-v4.md)  |
+| 404 | [Aave v3 Renew BGD Phase 6 & Project E Agreement](./reports/v3-404-aave-v3-BGD-renew-involvment.md)  |
+| 405 | [Aave v3 Safety Module Emissions Update](./reports/v3-405-aave-v3-safety-module-emissions-update.md)  |
+| 406 | [Aave v3 Reinstate Gnosis Supply and Borrow Caps](./reports/v3-406-aave-v3-reinstance-supply-and-borrow-cap.md)  |
+| 407 | [Aave v3 Orbit Program Renewal for Q3-Q4 2025](./reports/v3-407-aave-v3-orbit-program-renewal.md)  |
+| 408 | [Aave v3 XPL Onboarding](./reports/v3-408-aave-v3-XPL-onboarding.md)  |
+| 409 | [Aave v3 Deprecation of Low Demand Volatile Assets](./reports/v3-409-aave-v3-deprecation-of-low-demand-assets.md)  |
+| 410 | [Aave v3 Freeze wstETH on Plasma](./reports/v3-410-aave-v3-freeze-wstETH.md)  |
 
 
 
