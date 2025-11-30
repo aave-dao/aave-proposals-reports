@@ -397,9 +397,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 408 | [Aave v3 XPL Onboarding](./reports/v3-408-aave-v3-XPL-onboarding.md)  |
 | 409 | [Aave v3 Deprecation of Low Demand Volatile Assets](./reports/v3-409-aave-v3-deprecation-of-low-demand-assets.md)  |
 | 410 | [Aave v3 Freeze wstETH on Plasma](./reports/v3-410-aave-v3-freeze-wstETH.md)  |
-
-
-
+| 412 | [Aave v3 Ethena PT FEB Listing](./reports/v3-412-aave-v3-onboard-USDe-sUSDe-PT-FEB.md)  |
+| 413 | [November Funding Update](./reports/v3-413-aave-v3-november-funding-update.md)  |
 
 
 <br>
