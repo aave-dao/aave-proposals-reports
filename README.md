@@ -399,6 +399,9 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 410 | [Aave v3 Freeze wstETH on Plasma](./reports/v3-410-aave-v3-freeze-wstETH.md)  |
 | 412 | [Aave v3 Ethena PT FEB Listing](./reports/v3-412-aave-v3-onboard-USDe-sUSDe-PT-FEB.md)  |
 | 413 | [November Funding Update](./reports/v3-413-aave-v3-november-funding-update.md)  |
+| 414 | [Onboard rsETH to Aave V3 Avalanche Instance](./reports/v3-414-aave-v3-onboard-rsETH.md)  |
+| 415 | [Add MetaMask USD (mUSD) to Aave V3 Ethereum/Linea](./reports/v3-415-aave-v3-onboard-mUSD.md)  |
+| 416 | [Onboard syrupUSDT to Aave V3 Core Instance](./reports/v3-416-aave-v3-onboard-syrupUSDT.md)  |
 
 
 <br>
