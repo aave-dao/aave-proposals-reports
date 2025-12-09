@@ -398,10 +398,13 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 409 | [Aave v3 Deprecation of Low Demand Volatile Assets](./reports/v3-409-aave-v3-deprecation-of-low-demand-assets.md)  |
 | 410 | [Aave v3 Freeze wstETH on Plasma](./reports/v3-410-aave-v3-freeze-wstETH.md)  |
 | 412 | [Aave v3 Ethena PT FEB Listing](./reports/v3-412-aave-v3-onboard-USDe-sUSDe-PT-FEB.md)  |
-| 413 | [November Funding Update](./reports/v3-413-aave-v3-november-funding-update.md)  |
-| 414 | [Onboard rsETH to Aave V3 Avalanche Instance](./reports/v3-414-aave-v3-onboard-rsETH.md)  |
-| 415 | [Add MetaMask USD (mUSD) to Aave V3 Ethereum/Linea](./reports/v3-415-aave-v3-onboard-mUSD.md)  |
-| 416 | [Onboard syrupUSDT to Aave V3 Core Instance](./reports/v3-416-aave-v3-onboard-syrupUSDT.md)  |
+| 413 | [Aave v3 November Funding Update](./reports/v3-413-aave-v3-november-funding-update.md)  |
+| 414 | [Aave v3 Onboard rsETH to Aave V3 Avalanche Instance](./reports/v3-414-aave-v3-onboard-rsETH.md)  |
+| 415 | [Aave v3 Add MetaMask USD (mUSD) to Aave V3 Ethereum/Linea](./reports/v3-415-aave-v3-onboard-mUSD.md)  |
+| 416 | [Aave v3 Onboard syrupUSDT to Aave V3 Core Instance](./reports/v3-416-aave-v3-onboard-syrupUSDT.md)  |
+| 417 | [Aave v3 Renewal of Umbrella Reward Allowances](./reports/v3-417-aave-v3-renewal-of-umbrella-reward-allowances.md)  |
+| 418 | [Aave v3 XAUt Supply Cap and Debt Ceiling Adjustment on Aave V3 Core Instance](./reports/v3-418-aave-v3-XAUt-supply-cap-debt-ceiling-adjustments.md)  |
+| 419| [Aave v3 Alter mUSD Oracle Price Implementation](./reports/v3-419-aave-v3-alter-mUSD-oracle-price-implementation.md)  |
 
 
 <br>
