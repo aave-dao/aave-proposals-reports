@@ -405,6 +405,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 417 | [Aave v3 Renewal of Umbrella Reward Allowances](./reports/v3-417-aave-v3-renewal-of-umbrella-reward-allowances.md)  |
 | 418 | [Aave v3 XAUt Supply Cap and Debt Ceiling Adjustment on Aave V3 Core Instance](./reports/v3-418-aave-v3-XAUt-supply-cap-debt-ceiling-adjustments.md)  |
 | 419| [Aave v3 Alter mUSD Oracle Price Implementation](./reports/v3-419-aave-v3-alter-mUSD-oracle-price-implementation.md)  |
+| 420| [Aave v3 weETH E-Mode parameter adjustment on Plasma instance](./reports/v3-420-aave-weETH-E-Mode-Risk-Parameter-Adjustment.md)  |
 
 
 <br>
