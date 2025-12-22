@@ -406,6 +406,10 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 418 | [Aave v3 XAUt Supply Cap and Debt Ceiling Adjustment on Aave V3 Core Instance](./reports/v3-418-aave-v3-XAUt-supply-cap-debt-ceiling-adjustments.md)  |
 | 419| [Aave v3 Alter mUSD Oracle Price Implementation](./reports/v3-419-aave-v3-alter-mUSD-oracle-price-implementation.md)  |
 | 420| [Aave v3 weETH E-Mode parameter adjustment on Plasma instance](./reports/v3-420-aave-weETH-E-Mode-Risk-Parameter-Adjustment.md)  |
+| 421| [Aave v3 Remove USDS as collateral and increase RF across all Aave Instances](./reports/v3-421-aave-v3-remove-USDS-as-collateral-and-increarse-RF.md)  |
+| 422| [Aave v3 X Layer network aDI path activation](./reports/v3-422-aave-v3-X-Layer-network-aDI-path-activation.md)  |
+| 423| [Aave v3 USDG Listing](./reports/v3-423-aave-v3-USDG-listing.md)  |
+| 424| [Aave v3 Add WETH to the wrsETH wstETH E-Mode on Aave V3 Base Instance](./reports/v3-424-aave-v3-add-WETH-to-wrsETH-wstETH-Emode-Base-instance.md)  |
 
 
 <br>
