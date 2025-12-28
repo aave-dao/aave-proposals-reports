@@ -410,7 +410,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 422| [Aave v3 X Layer network aDI path activation](./reports/v3-422-aave-v3-X-Layer-network-aDI-path-activation.md)  |
 | 423| [Aave v3 USDG Listing](./reports/v3-423-aave-v3-USDG-listing.md)  |
 | 424| [Aave v3 Add WETH to the wrsETH wstETH E-Mode on Aave V3 Base Instance](./reports/v3-424-aave-v3-add-WETH-to-wrsETH-wstETH-Emode-Base-instance.md)  |
-
+| 425| [Aave v3 December Funding Update](./reports/v3-425-aave-v3-December-funding-update.md)  |
+| 426| [Aave v3 Ethena February E-Modes Adjustments](./reports/v3-426-aave-v3-Ethena-February-Emodes-Adjustments.md)  |
 
 <br>
 <br>
