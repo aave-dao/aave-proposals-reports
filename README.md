@@ -416,7 +416,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 428| [Aave v3 Listing of PT Ethena April Maturity on Plasma Instance](./reports/v3-428-aave-v3-Listing-of-PT-April-on-Plasma.md)  |
 | 429| [Aave v3 pgrade Aave instances to v3.6 Part 1](./reports/v3-429-aave-v3-Upgarde-instances-to-v3.6-Part-1.md)  |
 | 430| [Aave v3 Orbit Program Renewal - Q1 and Q2 2026](./reports/v3-430-aave-v3-Orbit-Program-Renewal.md)  |
-
+| 431| [Cancelled]()  |
+| 432| [Aave v3 AGRS (Risk Stewards) migration to Risk Agents](./reports/v3-432-aave-v3-AGRS-migration-to-Risk-Agents.md)  |
 
 <br>
 <br>
