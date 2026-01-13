@@ -418,6 +418,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 430| [Aave v3 Orbit Program Renewal - Q1 and Q2 2026](./reports/v3-430-aave-v3-Orbit-Program-Renewal.md)  |
 | 431| [Cancelled]()  |
 | 432| [Aave v3 AGRS (Risk Stewards) migration to Risk Agents](./reports/v3-432-aave-v3-AGRS-migration-to-Risk-Agents.md)  |
+| 433| [Aave v3 Upgrade Aave instances to v3.6 Part 2](./reports/v3-433-aave-v3-Upgarde-instances-to-v3.6-Part-2.md)  |
 
 <br>
 <br>
