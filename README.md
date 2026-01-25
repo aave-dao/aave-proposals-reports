@@ -422,6 +422,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 434| [Aave v3 Add WETH to the rsETH LST E-Mode on Aave Core Instance](./reports/v3-434-aave-v3-Add-WETH-to-rsETH-LST-EMODE.md)  |
 | 435| [Aave v3 stkABPT Emission Update](./reports/v3-435-aave-v3-stkABPT-Emission-Update.md)  |
 | 436| [Aave v3 Upgrade Aave instances to v3.6 Part 3](./reports/v3-436-aave-v3-Upgrade-Aave-Instances-to-v3.6-Part-3.md)  |
+| 437| [Aave v3 Onboard syrupUSDC on Base](./reports/v3-437-aave-v3-Onboard-syrupUSDC-Base.md)  |
 
 <br>
 <br>
