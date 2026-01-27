@@ -425,6 +425,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 437| [Aave v3 Onboard syrupUSDC on Base](./reports/v3-437-aave-v3-Onboard-syrupUSDC-Base.md)  |
 | 438| [Aave v3 MegaEth aDI path activation](./reports/v3-438-aave-v3-megaEth-aDI-path-activation.md)  |
 | 439| [Aave v3 Extend stkAAVE Emissions](./reports/v3-439-aave-v3-Extend-stkAAVE-Emissions.md)  |
+| 440| [Aave v3 Gho Mantle Activation](./reports/v3-440-aave-v3-Gho-Mantile-Activation.md)  |
 
 <br>
 <br>
