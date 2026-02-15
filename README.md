@@ -433,6 +433,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 445| [Aave v3 Aave V3.6 MegaETH Activation](./reports/v3-445-aave-v3-V3.6-MegaETH-Activation.md)  |
 | 446| [Aave v3 Aave V3.6 Mantle Activation](./reports/v3-446-aave-v3-V3.6-Mantle-Activation.md)  |
 | 447| [Aave v3 Increase WBTC Liquidation Bonus and EURS Reserve Factor on Polygon V3](./reports/v3-447-aave-v3-WBTC-EURS-Update.md)  |
+| 448| [Aave v3 Update syrupUSDC liquidation protocol fee](./reports/v3-448-aave-v3-Update-SyrupUSDC-liquidation-protocol-fee.md)  |
 
 <br>
 <br>
