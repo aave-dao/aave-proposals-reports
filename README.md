@@ -437,6 +437,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 449| [Aave v3 February 2026 - Funding Update](./reports/v3-449-aave-V3-February2026-Funding-Update.md)  |
 | 450| [Aave v3 Create Allowance GHO Mantle](./reports/v3-450-aave-V3-Gho-Mantle-Allowance.md)  |
 | 451| [Aave v3 Focussing the Aave V3 Multichain Strategy - Phase 1](./reports/v3-451-aave-V3-Multichain-Strategy-Phase-1.md)  |
+| 452| [Aave v3 Add GHO on Aave Plasma and deploy GSM on Plasma](./reports/v3-452-aave-v3-Add-Gho-deploy-GSM-Plasma.md)  |
+| 453| [Aave v3 GSM Migration](./reports/v3-453-aave-v3-GSM-Migration.md)  |
 
 <br>
 <br>
