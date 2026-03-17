@@ -37,7 +37,8 @@
 
 
 ### Context
-{**TODO: Write context.**}
+This AIP proposes activating CCIP Lanes for GHO on the X-Layer blockchain.
+
 
 ### Proposal Creation
 Transaction: [0xff0deb9d0768a61e80994542543c7c301fad46c0bff0cc2fa9eb801e36af8c08](https://etherscan.io/tx/0xff0deb9d0768a61e80994542543c7c301fad46c0bff0cc2fa9eb801e36af8c08)
