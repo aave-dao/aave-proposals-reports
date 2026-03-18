@@ -140,7 +140,7 @@ Transaction: [0xff0deb9d0768a61e80994542543c7c301fad46c0bff0cc2fa9eb801e36af8c08
 
 ### Technical Analysis
 
-We have verified that the addresses specified in the IPFS payload match the Mantle payload addresses.
+We have verified that the addresses specified in the IPFS payload match the X Layer payload addresses.
 
 We have verified that all the lanes are set up correctly, with a rate limit of 1.5M GHO capacity and 300 GHO per second rate. 
 
