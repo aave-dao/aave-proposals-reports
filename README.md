@@ -442,6 +442,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 454| [Aave v3 ACI Is Leaving Aave](./reports/v3-454-aave-v3-ACI-Leaving-Aave.md)  |
 | 455| [Aave v3 Activate Capo Risk Agent and expand Rates Agent](./reports/v3-455-aave-v3-Activate-Capo-Risk-Agent-expand-Rates-Agent.md)  |
 | 456| [Aave v3 Enhancing Market Granularity in Aave 3.6: part 2](./reports/v3-456-aave-v3-Enhancing-Market-Granularity-Part2.md)  |
+| 457| [Aave v3 Gho X-Layer Activation](./reports/v3-457-aave-v3-Gho-X-Layer-Activation.md)  |
 | 458| [Aave v3 wstETH CAPO Oracle Incident User Reimbursement](./reports/v3-458-aave-v3-wstETH-CAPO-incident-allowance.md)  |
 
 <br>
