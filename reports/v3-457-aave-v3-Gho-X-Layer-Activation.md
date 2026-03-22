@@ -1,4 +1,4 @@
-# Proposal 440. Gho X-Layer Activation
+# Proposal 457. Gho X-Layer Activation
 
 ### Voting Link
 [Link to voting page](https://vote.onaave.com/proposal/?proposalId=457)
