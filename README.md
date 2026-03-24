@@ -444,6 +444,9 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 456| [Aave v3 Enhancing Market Granularity in Aave 3.6: part 2](./reports/v3-456-aave-v3-Enhancing-Market-Granularity-Part2.md)  |
 | 457| [Aave v3 Gho X-Layer Activation](./reports/v3-457-aave-v3-Gho-X-Layer-Activation.md)  |
 | 458| [Aave v3 wstETH CAPO Oracle Incident User Reimbursement](./reports/v3-458-aave-v3-wstETH-CAPO-incident-allowance.md)  |
+| 459| [Aave v3 Reduce Safety Module Emissions](./reports/v3-459-aave-v3-Reduce-Safety-Module-Emissions.md)  |
+| 460| [Aave v3 Aave V3.6 XLayer Activation](./reports/v3-460-aave-v3-V3.6-XLayer-Activation.md)  |
+| 461| [Aave v3 Enable SVR on Base and Arbitrum](./v3-461-aave-v3-Enable-SVR-Base-Arbitrum.md)  |
 
 <br>
 <br>
