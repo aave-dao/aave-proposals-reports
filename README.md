@@ -446,9 +446,10 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 458| [Aave v3 wstETH CAPO Oracle Incident User Reimbursement](./reports/v3-458-aave-v3-wstETH-CAPO-incident-allowance.md)  |
 | 459| [Aave v3 Reduce Safety Module Emissions](./reports/v3-459-aave-v3-Reduce-Safety-Module-Emissions.md)  |
 | 460| [Aave v3 Aave V3.6 XLayer Activation](./reports/v3-460-aave-v3-V3.6-XLayer-Activation.md)  |
-| 461| [Aave v3 Enable SVR on Base and Arbitrum](./v3-461-aave-v3-Enable-SVR-Base-Arbitrum.md)  |
-| 462| [Aave v4 Aave V4 Activation on Ethereum Mainnet](./v3-462-aave-v3-Aave-V4-Activation-Ethereum.md)  |
-| 463| [Aave v3 Onboard BTC.b to Aave V3 Core Instance](./v3-463-aave-v3-Onboard-BTC.b-to-Core.md)  |
+| 461| [Aave v3 Enable SVR on Base and Arbitrum](./reports/v3-461-aave-v3-Enable-SVR-Base-Arbitrum.md)  |
+| 462| [Aave v4 Aave V4 Activation on Ethereum Mainnet](./reports/v3-462-aave-v3-Aave-V4-Activation-Ethereum.md)  |
+| 463| [Aave v3 Onboard BTC.b to Aave V3 Core Instance](./reports/v3-463-aave-v3-Onboard-BTC.b-to-Core.md)  |
+| 464| [Aave v3 Listing PT Ethena 18JUN2026](./reports/v3-464-aave-v3-Listing-PT-Ethena-18JUN2026.md)  |
 
 <br>
 <br>
