@@ -456,6 +456,23 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 468| [Aave v3 Collateral Parameters Adjustment on MegaETH v3](./reports/v3-468-aave-v3-Collateral-Params-Adjustments-MegaETH.md)  |
 | 469| [Aave v3 Aave Will Win Framework: Primary Funding Request](./reports/v3-469-aave-v3-Aave-Will-Win-Framework-Primary-Funding.md)  |
 | 470| [Aave v3 Deprecate Aave V3 Scroll Instance](./reports/v3-470-aave-v3-Deprecate-Aave-V3-Scroll-Instance.md)  |
+| 471| [Aave v3 Onboard USDe to the Aave V3 MegaETH Instance](./reports/v3-471-aave-v3-Onboard-USDe-to-the-Aave-V3-MegaETH-Instance.md)  |
+| 472| [Aave v3 Onboard PT-USDG 28MAY2026 on V3 Core](./reports/v3-472-aave-v3-Onboard-PT-USDG-28MAY2026-on-V3-Core.md)  |
+| 473| [Aave v3 Upgrade Aave instances to v3.7 Part 1](./reports/v3-473-aave-v3-Upgrade-Aave-instances-to-v3.7-Part-1.md)  |
+| 474| [Aave v3 GHO Inclusion into E-Modes on Aave V3 Plasma](./reports/v3-474-aave-v3-GHO-Inclusion-into-E-Modes-on-Aave-V3-Plasma.md)  |
+| 475| [Aave v3 April Funding Update](./reports/v3-475-aave-v3-April-Funding-Update.md)  |
+| 476| [Aave v3 Onboard USDe to the Aave V3 MegaETH Instance](./reports/v3-476-aave-v3-Onboard-USDe-to-the-Aave-V3-MegaETH-Instance.md)  |
+| 477| [Aave v3 rsETH Incident: Liquidate rsETH attacker positions [Cancelled]]()  |
+| 478| [Aave v3 rsETH Incident: Liquidate rsETH attacker positions](./reports/v3-478-aave-v3-rsETH-Incident-Liquidate-rsETH-attacker-positions.md)  |
+| 479| [Aave v3 Orderly Transition and Offboarding Plan for Chaos Labs](./reports/v3-479-aave-v3-Orderly-Transition-and-Offboarding-Plan-for-Chaos-Labs.md)  |
+| 480| [Aave v3 Winding Down the LEND Migration Contract](./reports/v3-480-aave-v3-Winding-Down-the-LEND-Migration-Contract.md)  |
+| 481| [Aave v3 Complete Offboarding Plan for Chaos Labs](./reports/v3-481-aave-v3-Complete-Offboarding-Plan-for-Chaos-Labs.md)  |
+| 482| [Aave v3 rsETH Incident: WETH LTV Restoration Across V3 Instances](./reports/v3-482-aave-v3-rsETH-Incident-WETH-LTV-Restoration-Across-V3-Instances.md)  |
+| 483| [Aave v3 Add CoW Swap Adapters to flashBorrowers](./reports/v3-483-aave-v3-Add-CoW-Swap-Adapters-to-flashBorrowers.md)  |
+| 484| [Aave v3 sGho Launch](./reports/v3-484-aave-v3-sGho-Launch.md)  |
+| 485| [Aave v3 Offboarding Plan for Chaos Labs part 3: Cancel stream 100073](./reports/v3-485-aave-v3-Offboarding-Plan-for-Chaos-Labs-part-3-Cancel-stream-100073.md)  |
+
+
 
 <br>
 <br>
