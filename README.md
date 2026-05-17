@@ -462,6 +462,12 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 474| [Aave v3 GHO Inclusion into E-Modes on Aave V3 Plasma](./reports/v3-474-aave-v3-GHO-Inclusion-into-E-Modes-on-Aave-V3-Plasma.md)  |
 | 475| [Aave v3 April Funding Update](./reports/v3-475-aave-v3-April-Funding-Update.md)  |
 | 476| [Aave v3 Onboard USDe to the Aave V3 MegaETH Instance](./reports/v3-476-aave-v3-Onboard-USDe-to-the-Aave-V3-MegaETH-Instance.md)  |
+| 477| [Aave v3 rsETH Incident: Liquidate rsETH attacker positions [Cancelled]]()  |
+| 478| [Aave v3 rsETH Incident: Liquidate rsETH attacker positions](./reports/v3-478-aave-v3-rsETH-Incident-Liquidate-rsETH-attacker-positions.md)  |
+| 479| [Aave v3 Orderly Transition and Offboarding Plan for Chaos Labs](./reports/v3-479-aave-v3-Orderly-Transition-and-Offboarding-Plan-for-Chaos-Labs.md)  |
+| 480| [Aave v3 Winding Down the LEND Migration Contract](./reports/v3-480-aave-v3-Winding-Down-the-LEND-Migration-Contract.md)  |
+| 481| [Aave v3 Complete Offboarding Plan for Chaos Labs](./reports/v3-481-aave-v3-Complete-Offboarding-Plan-for-Chaos-Labs.md)  |
+
 
 
 <br>
