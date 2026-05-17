@@ -456,6 +456,13 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 468| [Aave v3 Collateral Parameters Adjustment on MegaETH v3](./reports/v3-468-aave-v3-Collateral-Params-Adjustments-MegaETH.md)  |
 | 469| [Aave v3 Aave Will Win Framework: Primary Funding Request](./reports/v3-469-aave-v3-Aave-Will-Win-Framework-Primary-Funding.md)  |
 | 470| [Aave v3 Deprecate Aave V3 Scroll Instance](./reports/v3-470-aave-v3-Deprecate-Aave-V3-Scroll-Instance.md)  |
+| 471| [Aave v3 Onboard USDe to the Aave V3 MegaETH Instance](./reports/v3-471-aave-v3-Onboard-USDe-to-the-Aave-V3-MegaETH-Instance.md)  |
+| 472| [Aave v3 Onboard PT-USDG 28MAY2026 on V3 Core](./reports/v3-472-aave-v3-Onboard-PT-USDG-28MAY2026-on-V3-Core.md)  |
+| 473| [Aave v3 Upgrade Aave instances to v3.7 Part 1](./reports/v3-473-aave-v3-Upgrade-Aave-instances-to-v3.7-Part-1.md)  |
+| 474| [Aave v3 GHO Inclusion into E-Modes on Aave V3 Plasma](./reports/v3-474-aave-v3-GHO-Inclusion-into-E-Modes-on-Aave-V3-Plasma.md)  |
+| 475| [Aave v3 April Funding Update](./reports/v3-475-aave-v3-April-Funding-Update.md)  |
+| 476| [Aave v3 Onboard USDe to the Aave V3 MegaETH Instance](./reports/v3-476-aave-v3-Onboard-USDe-to-the-Aave-V3-MegaETH-Instance.md)  |
+
 
 <br>
 <br>
