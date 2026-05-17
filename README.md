@@ -467,6 +467,10 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 479| [Aave v3 Orderly Transition and Offboarding Plan for Chaos Labs](./reports/v3-479-aave-v3-Orderly-Transition-and-Offboarding-Plan-for-Chaos-Labs.md)  |
 | 480| [Aave v3 Winding Down the LEND Migration Contract](./reports/v3-480-aave-v3-Winding-Down-the-LEND-Migration-Contract.md)  |
 | 481| [Aave v3 Complete Offboarding Plan for Chaos Labs](./reports/v3-481-aave-v3-Complete-Offboarding-Plan-for-Chaos-Labs.md)  |
+| 482| [Aave v3 rsETH Incident: WETH LTV Restoration Across V3 Instances](./reports/v3-482-aave-v3-rsETH-Incident-WETH-LTV-Restoration-Across-V3-Instances.md)  |
+| 483| [Aave v3 Add CoW Swap Adapters to flashBorrowers](./reports/v3-483-aave-v3-Add-CoW-Swap-Adapters-to-flashBorrowers.md)  |
+| 484| [Aave v3 sGho Launch](./reports/v3-484-aave-v3-sGho-Launch.md)  |
+| 485| [Aave v3 Offboarding Plan for Chaos Labs part 3: Cancel stream 100073](./reports/v3-485-aave-v3-Offboarding-Plan-for-Chaos-Labs-part-3-Cancel-stream-100073.md)  |
 
 
 
