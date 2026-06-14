@@ -475,6 +475,8 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 487| [Aave v3 CAPO SnapshotRatio Update Across Aave V3](./reports/v3-487-aave-v3-CAPO-SnapshotRatio-Update-Across-Aave-V3.md)  |
 | 488| [Aave v3 Renew LlamaRisk as Risk Service Provider - Epoch 4](./reports/v3-488-aave-v3-Renew-LlamaRisk-as-Risk-Service-Provider-Epoch-4.md)  |
 | 489| [Aave v3 Upgrade Aave instances to v3.7 Part 2](./reports/v3-489-aave-v3-Upgrade-Aave-instances-to-v37-Part-2.md)  |
+| 491| [Aave v3 stkAAVE Emissions Update](./reports/v3-491-aave-v3-stkAAVE-Emissions-Update.md)  |
+| 492| [Aave v3 May/June 2026 Funding Update](./reports/v3-492-aave-v3-MayJune-2026-Funding-Update.md)  |
 
 
 
