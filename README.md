@@ -481,6 +481,7 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 494| [Aave v3 Monad aDI path activation](./reports/v3-494-Monad-aDI-path-activation.md)  |
 | 495| [Aave v3 Onboard PT-srUSDe-22OCT2026](./reports/v3-495-Onboard-PT-srUSDe-22OCT2026-to-Aave-V3-Core.md)  |
 | 496| [Aave v4 Launch of V4 Paxos Hub and onboard PT-USDG-24SEP2026](./reports/v3-496-Launch-of-V4-Paxos-Hub-and-onboard-PT-USDG-24SEP2026.md)  |
+| 497| [Aave v3 TokenLogic Service Provider Renewal](./reports/v3-497-tokenlogic-service-provider.md)  |
 
 
 
