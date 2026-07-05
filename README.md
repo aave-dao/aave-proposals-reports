@@ -482,6 +482,12 @@ As of 29th April 2024, Certora is the service provider of the Aave DAO writing t
 | 495| [Aave v3 Onboard PT-srUSDe-22OCT2026](./reports/v3-495-Onboard-PT-srUSDe-22OCT2026-to-Aave-V3-Core.md)  |
 | 496| [Aave v4 Launch of V4 Paxos Hub and onboard PT-USDG-24SEP2026](./reports/v3-496-Launch-of-V4-Paxos-Hub-and-onboard-PT-USDG-24SEP2026.md)  |
 | 497| [Aave v3 TokenLogic Service Provider Renewal](./reports/v3-497-tokenlogic-service-provider.md)  |
+| 498| [Aave v3 Gho Monad Activation](./reports/v3-498-Gho-Monad-Activation.md)  |
+| 499| [Aave v3 Update USDG Price Feed on Aave V3 Instances](./reports/v3-499-Update-USDG-Price-Feed.md)  |
+| 500| [Aave v3 Certora Concord Equivalence Checker Funding](./reports/v3-500-Certora-Concord-Equivalence-Checker-Funding.md)  |
+| 501| [Aave v3 Aave V3.7 Monad Activation](./reports/v3-501-Aave-V37-Monad-Activation.md)  |
+| 502| [Aave v3 Onboard stcUSD to Aave V3 MegaEth](./reports/v3-502-Onboard-stcUSD-to-Aave-V3-MegaEth.md)  |
+| 503| [Aave v3 Grant Claim Helper Role to StkGhoMigrator](./reports/v3-503-Grant-Claim-Helper-Role-to-StkGhoMigrator.md)  |
 
 
 
